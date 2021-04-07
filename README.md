@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-07 10:09:33.689540  total: 4761 
+ > update time: 2021-04-07 13:17:33.109945  total: 4762 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys.** : [0vercl0k/CVE-2021-24086](https://github.com/0vercl0k/CVE-2021-24086)  create time: 2021-04-07T11:10:40Z
 
 **no description** : [nice0e3/CVE-2020-14882_Exploit_Gui](https://github.com/nice0e3/CVE-2020-14882_Exploit_Gui)  create time: 2021-04-07T09:48:49Z
 
