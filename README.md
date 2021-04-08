@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-08 05:14:11.893382  total: 4763 
+ > update time: 2021-04-08 08:10:42.518814  total: 4764 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Jellyfin系统任意文件读取漏洞批量扫描验证脚本。** : [MzzdToT/CVE-2021-21402](https://github.com/MzzdToT/CVE-2021-21402)  create time: 2021-04-08T07:41:40Z
 
 **Buffer Overflow in Seattle Lab Mail (SLmail) 5.5 - POP3** : [SxNade/CVE-2003-0264_EXPLOIT](https://github.com/SxNade/CVE-2003-0264_EXPLOIT)  create time: 2021-04-08T04:51:24Z
 
