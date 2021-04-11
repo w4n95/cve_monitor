@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-11 04:11:49.779178  total: 4795 
+ > update time: 2021-04-11 07:12:13.962819  total: 4796 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**cve-2020-10977 read and execute** : [lisp3r/cve-2020-10977-read-and-execute](https://github.com/lisp3r/cve-2020-10977-read-and-execute)  create time: 2021-04-11T06:31:06Z
 
 **TEST** : [s1m0n-crypto/CVE-2021-998756](https://github.com/s1m0n-crypto/CVE-2021-998756)  create time: 2021-04-11T04:02:05Z
 
