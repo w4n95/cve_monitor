@@ -1,9 +1,89 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-07 13:17:33.109945  total: 4762 
+ > update time: 2021-04-13 05:12:49.166114  total: 4802 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) 
+
+**Cross Site Scripting (XSS) at the "Reset Password" page form of Priority Enterprise Management System v8.00 allows attackers to execute javascript on behalf of the victim by sending a malicious URL or directing the victim to a malicious site.** : [NagliNagli/CVE-2021-26832](https://github.com/NagliNagli/CVE-2021-26832)  create time: 2021-04-13T04:25:31Z
+
+**Samba exploit CVE2003-0201** : [KernelPan1k/trans2open-CVE-2003-0201](https://github.com/KernelPan1k/trans2open-CVE-2003-0201)  create time: 2021-04-12T19:30:13Z
+
+**Trigger-only for CVE-2021-29627** : [raymontag/cve-2021-29627](https://github.com/raymontag/cve-2021-29627)  create time: 2021-04-12T07:51:03Z
+
+**no description** : [givemefivw/CVE-2021-test](https://github.com/givemefivw/CVE-2021-test)  create time: 2021-04-11T21:05:29Z
+
+**GitLab 11.4.7 CE RCE exploit with different reverse shells. CVE-2018-19571 + CVE-2018-19585** : [Algafix/gitlab-RCE-11.4.7](https://github.com/Algafix/gitlab-RCE-11.4.7)  create time: 2021-04-11T11:23:37Z
+
+**Samba 3.0.20 username map script exploit** : [Un4gi/CVE-2007-2447](https://github.com/Un4gi/CVE-2007-2447)  create time: 2021-04-11T07:53:20Z
+
+**cve-2020-10977 read and execute** : [lisp3r/cve-2020-10977-read-and-execute](https://github.com/lisp3r/cve-2020-10977-read-and-execute)  create time: 2021-04-11T06:31:06Z
+
+**TEST** : [s1m0n-crypto/CVE-2021-998756](https://github.com/s1m0n-crypto/CVE-2021-998756)  create time: 2021-04-11T04:02:05Z
+
+**no description** : [hu185396/CVE-2021-11112](https://github.com/hu185396/CVE-2021-11112)  create time: 2021-04-11T02:55:52Z
+
+**ownCloud PoC for CVE-2013-0303** : [CiscoCXSecurity/ownCloud_RCE_CVE-2013-0303](https://github.com/CiscoCXSecurity/ownCloud_RCE_CVE-2013-0303)  create time: 2021-04-10T19:18:07Z
+
+**no description** : [rafaelfrageri/PTLB-CVE-2018-11235](https://github.com/rafaelfrageri/PTLB-CVE-2018-11235)  create time: 2021-04-10T15:04:45Z
+
+**no description** : [hu185396/CVE-2018-11111](https://github.com/hu185396/CVE-2018-11111)  create time: 2021-04-10T13:44:10Z
+
+**no description** : [hu185396/cve-2019-12345](https://github.com/hu185396/cve-2019-12345)  create time: 2021-04-10T13:42:44Z
+
+**no description** : [Elsfa7-110/CVE-2018-6389](https://github.com/Elsfa7-110/CVE-2018-6389)  create time: 2020-10-18T14:01:59Z
+
+**VMWare-CVE-2021-21975 SSRF vulnerability** : [Vulnmachines/VMWare-CVE-2021-21975](https://github.com/Vulnmachines/VMWare-CVE-2021-21975)  create time: 2021-04-10T12:36:07Z
+
+**no description** : [FSecureLABS/CVE-2021-25374_Samsung-Account-Access](https://github.com/FSecureLABS/CVE-2021-25374_Samsung-Account-Access)  create time: 2021-04-10T09:23:52Z
+
+**no description** : [lorddian/CVE-2021-9876543210](https://github.com/lorddian/CVE-2021-9876543210)  create time: 2021-04-10T03:53:41Z
+
+**no description** : [lorddian/CVE-2021-12345678910JQK](https://github.com/lorddian/CVE-2021-12345678910JQK)  create time: 2021-04-10T03:42:46Z
+
+**no description** : [lorddian/CVE-2021-88888888899](https://github.com/lorddian/CVE-2021-88888888899)  create time: 2021-04-10T03:34:41Z
+
+**An exploit to get root in vsftpd 2.3.4 (CVE-2011-2523) written in python** : [HerculesRD/vsftpd2.3.4PyExploit](https://github.com/HerculesRD/vsftpd2.3.4PyExploit)  create time: 2021-04-09T20:26:01Z
+
+**no description** : [RichardKabuto/CVE-2021-88888](https://github.com/RichardKabuto/CVE-2021-88888)  create time: 2021-04-09T18:00:41Z
+
+**MDaemon Advisories - CVE-2021-27180, CVE-2021-27181, CVE-2021-27182, CVE-2021-27183** : [chudyPB/MDaemon-Advisories](https://github.com/chudyPB/MDaemon-Advisories)  create time: 2021-04-09T16:34:28Z
+
+**CVE-2021-26295-POC 利用DNSlog进行CVE-2021-26295的漏洞验证。  使用 poc：将目标放于target.txt后运行python poc.py即可。（Jdk环境需<12，否则ysoserial无法正常生成有效载荷）  exp：python exp.py https://baidu.com然后进入命令执行界面（无回显）** : [coolyin001/CVE-2021-26295--](https://github.com/coolyin001/CVE-2021-26295--)  create time: 2021-04-09T16:20:18Z
+
+**A simple python3 exploit for CVE-2019-3403** : [davidmckennirey/CVE-2019-3403](https://github.com/davidmckennirey/CVE-2019-3403)  create time: 2021-03-18T22:36:58Z
+
+**jiaocoll/CVE-2021-21402-Jellyfin** : [jiaocoll/CVE-2021-21402-Jellyfin](https://github.com/jiaocoll/CVE-2021-21402-Jellyfin)  create time: 2021-04-09T08:54:55Z
+
+**CVE-2020-35729** : [Al1ex/CVE-2020-35729](https://github.com/Al1ex/CVE-2020-35729)  create time: 2021-04-09T07:59:43Z
+
+**no description** : [john-dooe/CVE-2020-9472-poisoned-plugin](https://github.com/john-dooe/CVE-2020-9472-poisoned-plugin)  create time: 2021-04-09T07:39:31Z
+
+**CVE-2021-3317** : [Al1ex/CVE-2021-3317](https://github.com/Al1ex/CVE-2021-3317)  create time: 2021-04-09T07:36:46Z
+
+**CVE-2021-21402** : [xiaoshu-bit/CVE-2021-21402](https://github.com/xiaoshu-bit/CVE-2021-21402)  create time: 2021-04-09T06:38:25Z
+
+**no description** : [l1angfeng/CVE-2020-98745](https://github.com/l1angfeng/CVE-2020-98745)  create time: 2021-04-09T05:58:47Z
+
+**no description** : [hu185396/cve-2021-34567](https://github.com/hu185396/cve-2021-34567)  create time: 2021-04-09T00:52:10Z
+
+**no description** : [m1gnus/CVE-2018-1133_POC](https://github.com/m1gnus/CVE-2018-1133_POC)  create time: 2021-04-08T19:41:57Z
+
+**PoC for CVE-2020-0601- Windows CryptoAPI (Crypt32.dll)  POC: https://github.com/ollypwn/CurveBall** : [yanghaoi/CVE-2020-0601](https://github.com/yanghaoi/CVE-2020-0601)  create time: 2020-02-03T13:58:07Z
+
+**test** : [xuejilinhan/CVE-2021-24098](https://github.com/xuejilinhan/CVE-2021-24098)  create time: 2021-04-08T15:39:33Z
+
+**test** : [xuejilinhan/CVE-2021-24086](https://github.com/xuejilinhan/CVE-2021-24086)  create time: 2021-04-08T15:37:26Z
+
+**测试** : [kenyon-wong/cve-2021-21635](https://github.com/kenyon-wong/cve-2021-21635)  create time: 2021-04-08T15:13:28Z
+
+**test** : [habber12/cve_2021_25555](https://github.com/habber12/cve_2021_25555)  create time: 2021-04-08T14:53:41Z
+
+**CVE-2017-9627 CVE-2017-9629 CVE-2017-9631** : [USSCltd/aaLogger](https://github.com/USSCltd/aaLogger)  create time: 2021-04-08T09:16:47Z
+
+**Jellyfin系统任意文件读取漏洞批量扫描验证脚本。** : [MzzdToT/CVE-2021-21402](https://github.com/MzzdToT/CVE-2021-21402)  create time: 2021-04-08T07:41:40Z
+
+**Buffer Overflow in Seattle Lab Mail (SLmail) 5.5 - POP3** : [SxNade/CVE-2003-0264_EXPLOIT](https://github.com/SxNade/CVE-2003-0264_EXPLOIT)  create time: 2021-04-08T04:51:24Z
 
 **Proof of concept for CVE-2021-24086, a NULL dereference in tcpip.sys.** : [0vercl0k/CVE-2021-24086](https://github.com/0vercl0k/CVE-2021-24086)  create time: 2021-04-07T11:10:40Z
 
