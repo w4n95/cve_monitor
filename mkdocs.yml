@@ -1,8 +1,38 @@
-site_author: 'p1ay8y3ar'
-repo_name: 'p1ay8y3ar/cve_monitor'
-repo_url: 'https://github.com/p1ay8y3ar/cve_monitor'
+site_author: "p1ay8y3ar"
+repo_name: "p1ay8y3ar/cve_monitor"
+repo_url: "https://github.com/p1ay8y3ar/cve_monitor"
 docs_dir: web/
 site_name: CVE Monitor
 theme:
   name: material
+
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: false
+  - toc:
+      permalink: true
+  - footnotes
+  - meta
+  - def_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_png
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
+
+copyright: "https://github.com/p1ay8y3ar"
+google_analytics: ['G-T1CS54L5LC', 'p1ay8y3ar.github.io/cve_monitor/']
 plugins: []
