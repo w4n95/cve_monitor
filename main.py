@@ -3,7 +3,7 @@ Description: Editor's info in the top of the file
 Author: p1ay8y3ar
 Date: 2021-04-01 23:53:55
 LastEditor: p1ay8y3ar
-LastEditTime: 2021-04-07 13:26:50
+LastEditTime: 2021-04-15 00:13:48
 Email: p1ay8y3ar@gmail.com
 '''
 
@@ -162,7 +162,7 @@ def main():
         newline = line + newline
     print(newline)
     if newline != "":
-        newline = "# Automatic monitor github cve using Github Actions \n\n > update time: {}  total: {} \n\n \n ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/) \n\n".format(
+        newline = "# Automatic monitor github cve using Github Actions \n\n > update time: {}  total: {} \n\n \n ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) \n\n".format(
             datetime.now(),
             CVE_DB.select().where(CVE_DB.id != None).count()) + newline
 
