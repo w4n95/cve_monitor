@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-22 14:09:53.795305  total: 4862 
+ > update time: 2021-04-22 19:15:09.166309  total: 4863 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [itssmikefm/CVE-2020-1472](https://github.com/itssmikefm/CVE-2020-1472)  create time: 2021-04-22T18:51:09Z
 
 **POC exploit for CVE-2021-21972** : [pettyhacks/vSphereyeeter](https://github.com/pettyhacks/vSphereyeeter)  create time: 2021-04-22T14:00:38Z
 
