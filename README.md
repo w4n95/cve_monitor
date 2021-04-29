@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-29 04:31:45.141538  total: 4895 
+ > update time: 2021-04-29 07:26:21.815353  total: 4896 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-3156 - Sudo Baron Samedit** : [LiveOverflow/pwnedit](https://github.com/LiveOverflow/pwnedit)  create time: 2021-04-29T06:29:26Z
 
 **Samba usermap script.** : [cherrera0001/CVE-2007-2447](https://github.com/cherrera0001/CVE-2007-2447)  create time: 2021-04-29T03:48:01Z
 
