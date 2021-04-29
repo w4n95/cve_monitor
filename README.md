@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-29 18:37:00.949890  total: 4898 
+ > update time: 2021-04-29 23:26:26.996535  total: 4899 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for CVE-2018-19320** : [a00x90/CVE-2018-19320](https://github.com/a00x90/CVE-2018-19320)  create time: 2021-04-29T22:44:24Z
 
 **no description** : [LioTree/CVE-2021-30128](https://github.com/LioTree/CVE-2021-30128)  create time: 2021-04-29T17:59:59Z
 
