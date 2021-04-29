@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-28 21:09:45.169901  total: 4894 
+ > update time: 2021-04-29 04:31:45.141538  total: 4895 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Samba usermap script.** : [cherrera0001/CVE-2007-2447](https://github.com/cherrera0001/CVE-2007-2447)  create time: 2021-04-29T03:48:01Z
 
 **Authenticated SQL injection to command execution on Cacti 1.2.12** : [0z09e/CVE-2020-14295](https://github.com/0z09e/CVE-2020-14295)  create time: 2021-04-28T20:57:00Z
 
