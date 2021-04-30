@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-04-29 23:26:26.996535  total: 4899 
+ > update time: 2021-04-30 02:46:18.720229  total: 4901 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Versión Dr. DLL (CVE-2018-18333)** : [mrx04programmer/Dr.DLL-CVE-2018-18333](https://github.com/mrx04programmer/Dr.DLL-CVE-2018-18333)  create time: 2021-04-30T01:23:33Z
+
+**Steps for Exploitation** : [sapkota2k20/CVE-2021-27552](https://github.com/sapkota2k20/CVE-2021-27552)  create time: 2021-04-30T01:21:09Z
 
 **Exploit for CVE-2018-19320** : [a00x90/CVE-2018-19320](https://github.com/a00x90/CVE-2018-19320)  create time: 2021-04-29T22:44:24Z
 
