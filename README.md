@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-03 14:26:14.476466  total: 4920 
+ > update time: 2021-05-03 16:44:08.339231  total: 4922 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Docker-compose to set up a test environment for exploiting CVE-2015-8562** : [lorenzodegiorgi/setup-cve-2015-8562](https://github.com/lorenzodegiorgi/setup-cve-2015-8562)  create time: 2021-05-03T15:49:54Z
+
+**cve-2020_6418-exploittt.js** : [Jabri1/cve-2020_6418-exploit](https://github.com/Jabri1/cve-2020_6418-exploit)  create time: 2021-05-03T15:58:36Z
 
 **POC from TestANull for CVE-2021-28482 on Exchange Server** : [Shadow0ps/CVE-2021-28482-Exchange-POC](https://github.com/Shadow0ps/CVE-2021-28482-Exchange-POC)  create time: 2021-05-03T13:54:36Z
 
