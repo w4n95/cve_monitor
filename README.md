@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-02 23:27:10.624359  total: 4915 
+ > update time: 2021-05-03 01:13:09.629038  total: 4916 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Serie de scripts para enumerar nombres de usuarios de JIRA a partir de vulnerabilidades conocidas (CVE-2020-14181, CVE-2019-3403, CVE-2019-8449...)** : [und3sc0n0c1d0/UserEnumJira](https://github.com/und3sc0n0c1d0/UserEnumJira)  create time: 2020-09-15T23:00:03Z
 
 **Completed a working exploit for CVE-2018-17463 for fun.** : [kdmarti2/CVE-2018-17463](https://github.com/kdmarti2/CVE-2018-17463)  create time: 2021-05-02T22:44:33Z
 
