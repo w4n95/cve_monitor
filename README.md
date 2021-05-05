@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-05 08:28:24.380044  total: 4930 
+ > update time: 2021-05-05 16:40:17.831375  total: 4931 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**cve-2019-8942, cve-2019-8943** : [synod2/WP_CROP_RCE](https://github.com/synod2/WP_CROP_RCE)  create time: 2021-05-05T16:23:03Z
 
 **CVE-2019-1388  Abuse UAC Windows Certificate Dialog** : [nobodyatall648/CVE-2019-1388](https://github.com/nobodyatall648/CVE-2019-1388)  create time: 2021-05-05T08:22:34Z
 
