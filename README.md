@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-09 06:30:16.412097  total: 4975 
+ > update time: 2021-05-09 07:26:18.754081  total: 4978 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apache Solr RCE CVE-2020-13957** : [s-index/CVE-2020-13957](https://github.com/s-index/CVE-2020-13957)  create time: 2021-05-09T06:42:41Z
+
+**XStream SSRF CVE-2021-21349** : [s-index/CVE-2021-21349](https://github.com/s-index/CVE-2021-21349)  create time: 2021-05-09T06:50:31Z
+
+**XStream DoS CVE-2021-21341** : [s-index/CVE-2021-21341](https://github.com/s-index/CVE-2021-21341)  create time: 2021-05-09T06:46:38Z
 
 **this_is_a_test** : [FirDragon/CVE-2021-0000_this_is_a_test](https://github.com/FirDragon/CVE-2021-0000_this_is_a_test)  create time: 2021-05-09T06:17:54Z
 
