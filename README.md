@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-10 22:31:13.528897  total: 4992 
+ > update time: 2021-05-11 04:32:07.453523  total: 4993 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-30461** : [Al1ex/CVE-2021-30461](https://github.com/Al1ex/CVE-2021-30461)  create time: 2021-05-11T04:09:04Z
 
 **Check YouTube - https://youtu.be/O0ZnLXRY5Wo** : [exploitblizzard/CVE-2020-14882-WebLogic](https://github.com/exploitblizzard/CVE-2020-14882-WebLogic)  create time: 2021-05-10T21:32:36Z
 
