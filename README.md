@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-16 19:29:06.664153  total: 5073 
+ > update time: 2021-05-16 20:28:14.102296  total: 5074 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Pega Infinity Password Reset** : [Vulnmachines/CVE-2021-27651](https://github.com/Vulnmachines/CVE-2021-27651)  create time: 2021-05-16T19:58:31Z
 
 **no description** : [m4udSec/ProFTPD_CVE-2015-3306](https://github.com/m4udSec/ProFTPD_CVE-2015-3306)  create time: 2021-05-16T18:57:14Z
 
