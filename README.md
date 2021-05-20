@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-20 07:31:03.024416  total: 5132 
+ > update time: 2021-05-20 14:24:00.239472  total: 5134 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**RCE** : [smallpiggy/CVE-2019-7238](https://github.com/smallpiggy/CVE-2019-7238)  create time: 2021-05-20T14:03:10Z
+
+**CVE-2019-14287** : [DularaAnushka/Linux-Privilege-Escalation-using-Sudo-Rights](https://github.com/DularaAnushka/Linux-Privilege-Escalation-using-Sudo-Rights)  create time: 2021-05-20T13:57:38Z
 
 **Docker image that lets me study the exploitation of the VIM exploit** : [nickylimjj/cve-2019-12735](https://github.com/nickylimjj/cve-2019-12735)  create time: 2021-05-20T07:18:49Z
 
