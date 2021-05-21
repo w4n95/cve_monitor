@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-20 19:32:45.759195  total: 5135 
+ > update time: 2021-05-21 01:15:08.323418  total: 5136 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**POC for exiftool vuln (CVE-2021-22204).** : [bilkoh/POC-CVE-2021-22204](https://github.com/bilkoh/POC-CVE-2021-22204)  create time: 2021-05-21T00:14:52Z
 
 **Local Privilege Escalation is a way to take advantage of flaws in code or service  administration that can manage regular or guest users for particular device activities or  transfer root user privileges to master or client. User rights admin. The licenses or  privileges may be violated by such undesired amendments, as the system may be disrupted  by frequent users unless they have shell or root authorization. So, someone, someone, it may become dangerous and be used to obtain access to a higher level.** : [jana30116/CVE-2019-13272-Local-Privilege-Escalation](https://github.com/jana30116/CVE-2019-13272-Local-Privilege-Escalation)  create time: 2021-05-20T19:13:28Z
 
