@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-28 19:19:20.096444  total: 5203 
+ > update time: 2021-05-29 09:05:47.511512  total: 5204 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-20717-EC-CUBE-XSS** : [s-index/CVE-2021-20717](https://github.com/s-index/CVE-2021-20717)  create time: 2021-05-29T08:08:21Z
 
 **Cacti v1.2.8 Unauthenticated Remote Code Execution** : [hexcowboy/CVE-2020-8813](https://github.com/hexcowboy/CVE-2020-8813)  create time: 2021-05-28T17:55:49Z
 
