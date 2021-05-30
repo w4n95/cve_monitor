@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-05-30 17:22:31.009329  total: 5206 
+ > update time: 2021-05-30 20:51:48.832797  total: 5207 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**JBoss CVE-2017-12149 (Insecure Deserialization - RCE) Exploitation Lab.** : [Xcatolin/jboss-deserialization](https://github.com/Xcatolin/jboss-deserialization)  create time: 2021-05-30T20:26:51Z
 
 **no description** : [Pho03niX/CVE-2021-27338](https://github.com/Pho03niX/CVE-2021-27338)  create time: 2021-05-30T17:02:56Z
 
