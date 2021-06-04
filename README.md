@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-03 14:17:39.203446  total: 5319 
+ > update time: 2021-06-04 03:25:12.417629  total: 5320 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-21985 vmware 6.7-9.8 RCE** : [daedalus/CVE-2021-21985](https://github.com/daedalus/CVE-2021-21985)  create time: 2021-06-04T01:15:14Z
 
 **Un semplice exploit che sfrutta CVE-2015-7297, CVE-2015-7857 and CVE-2015-7858 per elencare gli utenti con la psw del db** : [areaventuno/exploit-joomla](https://github.com/areaventuno/exploit-joomla)  create time: 2020-10-29T00:35:35Z
 
