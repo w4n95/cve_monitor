@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-08 01:38:14.034518  total: 5435 
+ > update time: 2021-06-08 06:00:59.470726  total: 5436 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**对CVE-2021-29505进行复现，并分析学了下Xstream反序列化过程** : [MyBlackManba/CVE-2021-29505](https://github.com/MyBlackManba/CVE-2021-29505)  create time: 2021-06-08T05:27:57Z
 
 **PoC for exploiting CVE-2017-20005** : [JamesGeeee/CVE-2017-20005](https://github.com/JamesGeeee/CVE-2017-20005)  create time: 2021-06-08T01:09:17Z
 
