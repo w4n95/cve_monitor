@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-10 01:11:24.921990  total: 5444 
+ > update time: 2021-06-10 02:52:11.080724  total: 5445 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for exploiting CVE-2021-24316** : [JamesCVE/CVE-2021-24316](https://github.com/JamesCVE/CVE-2021-24316)  create time: 2021-06-10T01:32:26Z
 
 **PoC for exploiting CVE-2020-1920** : [JamesCVE/CVE-2020-1920](https://github.com/JamesCVE/CVE-2020-1920)  create time: 2021-06-10T01:06:20Z
 
