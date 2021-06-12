@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-12 06:27:29.274200  total: 5451 
+ > update time: 2021-06-12 17:35:14.095646  total: 5452 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**SquirrellyJS mixes pure template data with engine configuration options through the Express render API. By overwriting internal configuration options, remote code execution may be triggered in downstream applications.** : [Abady0x1/CVE-2021-32819](https://github.com/Abady0x1/CVE-2021-32819)  create time: 2021-06-12T17:09:48Z
 
 **a reliable C based exploit for CVE-2021-3560.** : [hakivvi/CVE-2021-3560](https://github.com/hakivvi/CVE-2021-3560)  create time: 2021-06-12T05:22:35Z
 
