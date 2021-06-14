@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-14 01:03:15.555983  total: 5456 
+ > update time: 2021-06-14 02:13:50.438979  total: 5457 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2018-19422 Authenticated Remote Code Execution** : [hevox/CVE-2018-19422-SubrionCMS-RCE](https://github.com/hevox/CVE-2018-19422-SubrionCMS-RCE)  create time: 2021-06-14T01:50:21Z
 
 **ZeroShell 3.9.0 Remote Command Injection** : [hevox/CVE-2019-12725-Command-Injection](https://github.com/hevox/CVE-2019-12725-Command-Injection)  create time: 2021-06-13T23:57:37Z
 
