@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-16 11:20:33.806360  total: 5465 
+ > update time: 2021-06-16 12:34:47.166864  total: 5466 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**✨ HAProxy ve Keepalived konusunu load balancer ve cluster'a ek olarak güvenlik(zayıf SSL/Kripto Kullanımı (LOGJAM) (CVE-2015-4000) zafiyeti önlemi) ve yüksek yüklere karşı ele alır.** : [fatlan/HAProxy-Keepalived-Sec-HighLoads](https://github.com/fatlan/HAProxy-Keepalived-Sec-HighLoads)  create time: 2021-04-24T12:51:27Z
 
 **no description** : [repos13579/labCVE-2018-6574](https://github.com/repos13579/labCVE-2018-6574)  create time: 2021-06-16T10:45:39Z
 
