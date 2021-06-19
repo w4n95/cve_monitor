@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-19 09:24:10.077744  total: 5645 
+ > update time: 2021-06-19 10:25:17.657614  total: 5646 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**The sudo vulnerability CVE-2019-14287 is a security policy bypass issue that provides a user or a program the ability to execute commands as root on a Linux system when the "sudoers configuration" explicitly disallows the root access.** : [Hasintha-98/Sudo-Vulnerability-Exploit-CVE-2019-14287](https://github.com/Hasintha-98/Sudo-Vulnerability-Exploit-CVE-2019-14287)  create time: 2021-06-19T09:43:08Z
 
 **rpp2021-Katarina-1997 created by GitHub Classroom** : [RPP-IM-2021/IM113-2016-Cvetkov-Katarina](https://github.com/RPP-IM-2021/IM113-2016-Cvetkov-Katarina)  create time: 2021-03-05T09:41:57Z
 
