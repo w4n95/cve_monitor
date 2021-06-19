@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-19 06:29:05.089941  total: 5642 
+ > update time: 2021-06-19 08:24:50.830187  total: 5644 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC exploit for CVE-2020-7247 OpenSMTPD 6.4.0 - 6.6.1 Remote Code Execution** : [f4T1H21/CVE-2020-7247](https://github.com/f4T1H21/CVE-2020-7247)  create time: 2021-06-19T07:34:42Z
+
+**Privilege escalation with polkit - CVE-2021-3560** : [Almorabea/Polkit-exploit](https://github.com/Almorabea/Polkit-exploit)  create time: 2021-06-19T08:15:17Z
 
 **Pentesterlabs** : [yashanand/cve-2018-6574](https://github.com/yashanand/cve-2018-6574)  create time: 2021-06-19T05:42:43Z
 
