@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-24 06:29:29.777170  total: 5662 
+ > update time: 2021-06-24 13:28:08.982049  total: 5664 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Remote Command Execution through Unvalidated File Upload in SeedDMS versions <5.1.11** : [nobodyatall648/CVE-2019-12744](https://github.com/nobodyatall648/CVE-2019-12744)  create time: 2021-06-24T12:58:02Z
+
+**GravCMS Unauthenticated Arbitrary YAML Write/Update leads to Code Execution (CVE-2021-21425)** : [CsEnox/CVE-2021-21425](https://github.com/CsEnox/CVE-2021-21425)  create time: 2021-06-24T13:06:24Z
 
 **no description** : [Badbird3/CVE-2017-5638](https://github.com/Badbird3/CVE-2017-5638)  create time: 2021-06-24T05:41:45Z
 
