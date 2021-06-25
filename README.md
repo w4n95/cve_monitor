@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-25 03:27:00.548136  total: 5672 
+ > update time: 2021-06-25 05:20:47.713013  total: 5673 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Hudi233/CVE-2020-3580](https://github.com/Hudi233/CVE-2020-3580)  create time: 2021-06-25T04:39:30Z
 
 **Writeup for CVE-2021-35475; Stored Cross-Site Scripting(XSS) on SAS® Environment Manager 2.5** : [saitamang/CVE-2021-35475](https://github.com/saitamang/CVE-2021-35475)  create time: 2021-06-25T03:08:44Z
 
