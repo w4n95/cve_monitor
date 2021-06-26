@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-26 03:26:10.036280  total: 5678 
+ > update time: 2021-06-26 11:19:28.002522  total: 5680 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [amil-ptl-test/ptl_cve_2011_0228](https://github.com/amil-ptl-test/ptl_cve_2011_0228)  create time: 2021-06-26T10:37:31Z
+
+**no description** : [amil-ptl-test/ptl_cve_2018_6574](https://github.com/amil-ptl-test/ptl_cve_2018_6574)  create time: 2021-06-26T10:39:22Z
 
 **no description** : [mavillon1/CVE-2021-31955-POC](https://github.com/mavillon1/CVE-2021-31955-POC)  create time: 2021-06-26T02:50:28Z
 
