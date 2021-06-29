@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-06-29 05:20:42.918673  total: 5688 
+ > update time: 2021-06-29 06:29:23.362423  total: 5689 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**ZeroShell命令执行漏洞批量扫描poc+exp** : [MzzdToT/CVE-2019-12725](https://github.com/MzzdToT/CVE-2019-12725)  create time: 2021-06-29T06:24:22Z
 
 **How to exploit a vulnerable windows driver** : [stong/CVE-2020-15368](https://github.com/stong/CVE-2020-15368)  create time: 2021-06-29T04:38:24Z
 
