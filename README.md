@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-01 20:26:14.635352  total: 5744 
+ > update time: 2021-07-01 22:22:55.250983  total: 5745 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [3hydraking/distccd_rce_CVE-2004-2687](https://github.com/3hydraking/distccd_rce_CVE-2004-2687)  create time: 2021-07-01T21:56:34Z
 
 **Fix without disabling Print Spooler** : [tanarchytan/CVE-2021-1675](https://github.com/tanarchytan/CVE-2021-1675)  create time: 2021-07-01T19:50:46Z
 
