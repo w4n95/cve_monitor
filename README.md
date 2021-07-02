@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-02 08:25:47.531967  total: 5751 
+ > update time: 2021-07-02 10:25:08.128175  total: 5753 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**How to enable Smart Check to detect CVE-2019-5021** : [mawinkler/smartcheck-cve-2019-5021](https://github.com/mawinkler/smartcheck-cve-2019-5021)  create time: 2021-07-02T10:10:26Z
+
+**no description** : [mr-nO0b/CVE-2021-3560](https://github.com/mr-nO0b/CVE-2021-3560)  create time: 2021-07-02T10:03:26Z
 
 **OpenEMR < 5.0.2 - (Authenticated) Path Traversal - Local File Disclosure** : [sec-it/exploit-CVE-2019-14530](https://github.com/sec-it/exploit-CVE-2019-14530)  create time: 2021-06-30T08:59:57Z
 
