@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-02 16:37:15.464792  total: 5757 
+ > update time: 2021-07-02 18:24:27.481063  total: 5760 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Explore  CVE-2019-6447 using a script** : [sidhawkss/ES-File-Explorer-Vulnerability-on-port-59777](https://github.com/sidhawkss/ES-File-Explorer-Vulnerability-on-port-59777)  create time: 2021-07-02T18:00:29Z
+
+**CVE-2021-1675: ZERO-DAY VULNERABILITY IN WINDOWS PRINTER SERVICE WITH AN EXPLOIT AVAILABLE IN ALL OPERATING SYSTEM VERSIONS** : [ptter23/CVE-2021-1675](https://github.com/ptter23/CVE-2021-1675)  create time: 2021-07-02T18:01:21Z
+
+**A small powershell script to disable print spooler service using desired state configuration** : [kougyokugentou/CVE-2021-1675](https://github.com/kougyokugentou/CVE-2021-1675)  create time: 2021-07-02T17:29:04Z
 
 **no description** : [killtr0/CVE-2021-1675-PrintNightmare](https://github.com/killtr0/CVE-2021-1675-PrintNightmare)  create time: 2021-07-02T16:12:15Z
 
