@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-02 06:24:47.645831  total: 5748 
+ > update time: 2021-07-02 08:25:47.531967  total: 5751 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**OpenEMR < 5.0.2 - (Authenticated) Path Traversal - Local File Disclosure** : [sec-it/exploit-CVE-2019-14530](https://github.com/sec-it/exploit-CVE-2019-14530)  create time: 2021-06-30T08:59:57Z
+
+**Kritische Sicherheitslücke PrintNightmare CVE-2021-34527** : [glshnu/PrintNightmare](https://github.com/glshnu/PrintNightmare)  create time: 2021-07-02T07:30:52Z
+
+**no description** : [mrezqi/CVE-2021-1675_CarbonBlack_HuntingQuery](https://github.com/mrezqi/CVE-2021-1675_CarbonBlack_HuntingQuery)  create time: 2021-07-02T07:30:24Z
 
 **no description** : [thomasgeens/CVE-2021-1675](https://github.com/thomasgeens/CVE-2021-1675)  create time: 2021-07-02T06:14:29Z
 
