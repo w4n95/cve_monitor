@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-02 12:34:51.969282  total: 5755 
+ > update time: 2021-07-02 15:27:16.501155  total: 5756 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Fix for the security** : [fardinbarashi/Fix-CVE-2021-34527](https://github.com/fardinbarashi/Fix-CVE-2021-34527)  create time: 2021-07-02T14:25:44Z
 
 **no description** : [JohnHammond/CVE-2021-34527](https://github.com/JohnHammond/CVE-2021-34527)  create time: 2021-07-02T12:10:49Z
 
