@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-03 02:18:24.326625  total: 5765 
+ > update time: 2021-07-03 04:28:37.040693  total: 5766 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**随便放点自己弄的小东西** : [yukiNeko114514/CVE-2020-0674-PoC](https://github.com/yukiNeko114514/CVE-2020-0674-PoC)  create time: 2021-07-03T04:17:35Z
 
 **利用14882的未授权访问漏洞，结合14883可直接远程命令执行** : [N0Coriander/CVE-2020-14882-14883](https://github.com/N0Coriander/CVE-2020-14882-14883)  create time: 2021-07-03T02:02:42Z
 
