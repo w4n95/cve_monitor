@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-02 21:22:00.279519  total: 5763 
+ > update time: 2021-07-03 02:18:24.326625  total: 5765 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**利用14882的未授权访问漏洞，结合14883可直接远程命令执行** : [N0Coriander/CVE-2020-14882-14883](https://github.com/N0Coriander/CVE-2020-14882-14883)  create time: 2021-07-03T02:02:42Z
+
+**to catch cve-2021-1675-printnightmare** : [initconf/cve-2021-1675-printnightmare](https://github.com/initconf/cve-2021-1675-printnightmare)  create time: 2021-07-03T01:04:06Z
 
 **A temporary mitigation to the CVE-2021-1675. Print Spooler will be disabled during non-business hours.** : [gohrenberg/CVE-2021-1675-Mitigation-For-Systems-That-Need-Spooler](https://github.com/gohrenberg/CVE-2021-1675-Mitigation-For-Systems-That-Need-Spooler)  create time: 2021-07-02T21:18:11Z
 
