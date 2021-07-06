@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-06 06:28:55.514626  total: 5788 
+ > update time: 2021-07-06 12:34:31.680875  total: 5789 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A vulnerability scanner for CVE-2020-1472  aka Zerologon.** : [NickSanzotta/zeroscan](https://github.com/NickSanzotta/zeroscan)  create time: 2021-06-23T12:23:48Z
 
 **A PrintNightmare (CVE-2021-3457) Python Scanner. Scan entire subnets for hosts vulnerable to the PrintNightmare RCE** : [byt3bl33d3r/ItWasAllADream](https://github.com/byt3bl33d3r/ItWasAllADream)  create time: 2021-07-05T20:13:49Z
 
