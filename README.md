@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-09 09:25:07.180746  total: 5809 
+ > update time: 2021-07-09 10:25:19.763679  total: 5810 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Fix for PrintNightmare CVE-2021-34527** : [Eutectico/Printnightmare](https://github.com/Eutectico/Printnightmare)  create time: 2021-07-09T09:22:03Z
 
 **no description** : [dywhoami/CVE-2021-34527-Scanner-Based-On-cube0x0-POC](https://github.com/dywhoami/CVE-2021-34527-Scanner-Based-On-cube0x0-POC)  create time: 2021-07-09T08:27:36Z
 
