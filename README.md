@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-10 09:23:59.596939  total: 5814 
+ > update time: 2021-07-10 14:20:22.383990  total: 5815 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**SQL injection via unsanitized QuerySet.order_by() input** : [YouGina/CVE-2021-35042](https://github.com/YouGina/CVE-2021-35042)  create time: 2021-07-10T12:38:52Z
 
 **A fix for PrintNightmare vulnerability that occurs to print spoolers for Windows machines [CVE-2021-34527]** : [0xIrison/PrintNightmare_Resolver](https://github.com/0xIrison/PrintNightmare_Resolver)  create time: 2021-07-10T08:21:28Z
 
