@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-11 04:28:19.000670  total: 5819 
+ > update time: 2021-07-11 15:26:02.584686  total: 5820 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Scanner for CVE-2020-1938** : [yukiNeko114514/CVE-2020-1938](https://github.com/yukiNeko114514/CVE-2020-1938)  create time: 2021-07-11T14:38:21Z
 
 **no description** : [k8gege/cve-2021-1675](https://github.com/k8gege/cve-2021-1675)  create time: 2021-07-11T03:48:25Z
 
