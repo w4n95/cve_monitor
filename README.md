@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-12 14:21:10.449528  total: 5827 
+ > update time: 2021-07-13 03:26:35.897299  total: 5828 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Karma2424/cve2019-2215-3.18](https://github.com/Karma2424/cve2019-2215-3.18)  create time: 2021-07-13T02:40:09Z
 
 **A patch for PrintNightmare vulnerability that occurs to print spooler service for Windows machines [CVE-2021-34527]** : [0xIrison/PrinterNightmare-Patcher](https://github.com/0xIrison/PrinterNightmare-Patcher)  create time: 2021-07-12T14:14:29Z
 
