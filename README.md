@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-14 07:20:54.817728  total: 5832 
+ > update time: 2021-07-14 12:37:12.921861  total: 5833 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [hacker-ali-17/CVE-2021-50126](https://github.com/hacker-ali-17/CVE-2021-50126)  create time: 2021-07-14T12:29:21Z
 
 **no description** : [1stPeak/CVE-2020-0796-Scanner](https://github.com/1stPeak/CVE-2020-0796-Scanner)  create time: 2021-07-14T06:38:05Z
 
