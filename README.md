@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-15 23:22:39.367295  total: 5845 
+ > update time: 2021-07-16 02:33:51.127117  total: 5846 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-22555 Exploit** : [JustYoomoon/CVE-2021-22555-Exploit](https://github.com/JustYoomoon/CVE-2021-22555-Exploit)  create time: 2021-07-16T01:40:52Z
 
 **no description** : [3hydraking/CVE-2009-2265](https://github.com/3hydraking/CVE-2009-2265)  create time: 2021-07-15T23:14:11Z
 
