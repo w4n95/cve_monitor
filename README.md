@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-16 07:21:55.843413  total: 5849 
+ > update time: 2021-07-16 16:35:32.242598  total: 5850 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Tool to check whether a PGP client is affected by CVE-2021-33560** : [IBM/PGP-client-checker-CVE-2021-33560](https://github.com/IBM/PGP-client-checker-CVE-2021-33560)  create time: 2021-07-16T15:24:11Z
 
 **no description** : [3hydraking/CVE-2017-7269](https://github.com/3hydraking/CVE-2017-7269)  create time: 2021-07-16T07:02:27Z
 
