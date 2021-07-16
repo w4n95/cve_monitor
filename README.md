@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-16 16:35:32.242598  total: 5850 
+ > update time: 2021-07-16 18:28:51.244611  total: 5851 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [thalpius/Microsoft-CVE-2021-1675](https://github.com/thalpius/Microsoft-CVE-2021-1675)  create time: 2021-07-16T18:06:05Z
 
 **Tool to check whether a PGP client is affected by CVE-2021-33560** : [IBM/PGP-client-checker-CVE-2021-33560](https://github.com/IBM/PGP-client-checker-CVE-2021-33560)  create time: 2021-07-16T15:24:11Z
 
