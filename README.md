@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-21 16:35:52.732563  total: 5874 
+ > update time: 2021-07-21 18:28:17.023280  total: 5878 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Bypass intended access control in Plex Media Server (CVE-2018-21031)** : [manmolecular/tautulli-cve-2018-21031](https://github.com/manmolecular/tautulli-cve-2018-21031)  create time: 2021-07-21T18:02:41Z
+
+**no description** : [zyeinn/CVE-2020-23934](https://github.com/zyeinn/CVE-2020-23934)  create time: 2021-07-21T18:22:48Z
+
+**This module fixes an issue in the kernels filesystem layer (CVE-2021-33909) by kprobe-replacing vulnerable functions during runtime** : [baerwolf/cve-2021-33909](https://github.com/baerwolf/cve-2021-33909)  create time: 2021-07-21T18:22:55Z
+
+**Detection and Mitigation script for CVE-2021-36934 (HiveNightmare aka. SeriousSam)** : [n3tsurge/CVE-2021-36934](https://github.com/n3tsurge/CVE-2021-36934)  create time: 2021-07-21T17:24:44Z
 
 **Sequoia exploit (7/20/21)** : [Liang2580/CVE-2021-33909](https://github.com/Liang2580/CVE-2021-33909)  create time: 2021-07-21T04:04:49Z
 
