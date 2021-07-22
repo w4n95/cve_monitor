@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-22 03:25:46.312972  total: 5881 
+ > update time: 2021-07-22 08:25:43.039535  total: 5883 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**HiveNightmare a.k.a. SeriousSam Local Privilege Escalation in Windows – CVE-2021-36934** : [romarroca/SeriousSam](https://github.com/romarroca/SeriousSam)  create time: 2021-07-22T07:49:29Z
+
+**no description** : [1111one/laravel-CVE-2021-3129-EXP](https://github.com/1111one/laravel-CVE-2021-3129-EXP)  create time: 2021-07-22T07:35:04Z
 
 **PoC for CVE-2021-36934, which enables a standard user to be able to retrieve the SAM, Security, and Software Registry hives in Windows 10 version 1809 or newer** : [WiredPulse/Invoke-HiveNightmare](https://github.com/WiredPulse/Invoke-HiveNightmare)  create time: 2021-07-22T03:07:56Z
 
