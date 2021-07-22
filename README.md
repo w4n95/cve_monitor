@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-22 08:25:43.039535  total: 5883 
+ > update time: 2021-07-22 11:19:55.196524  total: 5884 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**see https://github.com/cube0x0/CVE-2021-1675** : [hahaleyile/my-CVE-2021-1675](https://github.com/hahaleyile/my-CVE-2021-1675)  create time: 2021-07-22T10:49:30Z
 
 **HiveNightmare a.k.a. SeriousSam Local Privilege Escalation in Windows – CVE-2021-36934** : [romarroca/SeriousSam](https://github.com/romarroca/SeriousSam)  create time: 2021-07-22T07:49:29Z
 
