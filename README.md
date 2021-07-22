@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-22 15:27:38.776010  total: 5891 
+ > update time: 2021-07-22 22:22:43.038439  total: 5892 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-36934 PowerShell scripts** : [bytesizedalex/CVE-2021-36934](https://github.com/bytesizedalex/CVE-2021-36934)  create time: 2021-07-22T21:54:45Z
 
 **A script to generate malicious snap package, and gain reverse shell connection, simulating CVE-2019-7304 attack** : [RyouYoo/dirty_snap](https://github.com/RyouYoo/dirty_snap)  create time: 2021-07-22T14:47:38Z
 
