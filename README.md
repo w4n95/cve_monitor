@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-22 14:20:43.546309  total: 5888 
+ > update time: 2021-07-22 15:27:38.776010  total: 5891 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A script to generate malicious snap package, and gain reverse shell connection, simulating CVE-2019-7304 attack** : [RyouYoo/dirty_snap](https://github.com/RyouYoo/dirty_snap)  create time: 2021-07-22T14:47:38Z
+
+**Windows Elevation of Privilege Vulnerability (SeriousSAM)** : [VertigoRay/CVE-2021-36934](https://github.com/VertigoRay/CVE-2021-36934)  create time: 2021-07-22T14:53:09Z
+
+**no description** : [zoukba0014/cve-2021-44444](https://github.com/zoukba0014/cve-2021-44444)  create time: 2021-07-22T14:47:06Z
 
 **no description** : [KISH84172/CVE-2019-11933](https://github.com/KISH84172/CVE-2019-11933)  create time: 2021-07-22T13:45:00Z
 
