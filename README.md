@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-21 19:19:18.120911  total: 5879 
+ > update time: 2021-07-22 01:08:25.729855  total: 5880 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Small and dirty PoC for CVE-2021-36934** : [Wh04m1001/VSSCopy](https://github.com/Wh04m1001/VSSCopy)  create time: 2021-07-22T00:55:23Z
 
 **Python Implementation of CVE-2020-23934** : [zyeinn/CVE-2020-23934](https://github.com/zyeinn/CVE-2020-23934)  create time: 2021-07-21T18:26:23Z
 
