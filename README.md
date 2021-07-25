@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-25 05:20:09.494031  total: 5919 
+ > update time: 2021-07-25 13:25:26.669444  total: 5920 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**HiveNightmare/SeriousSAM（CVE_2021_36934）** : [AttackTeamFamily/HiveNightmare](https://github.com/AttackTeamFamily/HiveNightmare)  create time: 2021-07-25T13:19:50Z
 
 **Python PoC for CVE-2020-35846 targeting Cockpit 0.11.1** : [JohnHammond/CVE-2020-35846](https://github.com/JohnHammond/CVE-2020-35846)  create time: 2021-07-25T05:05:14Z
 
