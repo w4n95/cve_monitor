@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-26 07:21:35.229506  total: 5925 
+ > update time: 2021-07-26 08:25:43.558034  total: 5926 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [0x0D1n/CVE-2021-36934](https://github.com/0x0D1n/CVE-2021-36934)  create time: 2021-07-26T08:01:08Z
 
 **CVE-2021-35448 (Remote Mouse GUI 3.008 - Local Privilege Escalation)** : [deathflash1411/CVE-2021-35448](https://github.com/deathflash1411/CVE-2021-35448)  create time: 2021-07-26T07:10:10Z
 
