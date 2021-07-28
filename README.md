@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-28 06:30:04.350723  total: 5935 
+ > update time: 2021-07-28 09:25:22.536165  total: 5936 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**To fight against Windows security breach PrintNightmare! (CVE-2021-34527, CVE-2021-1675)** : [Tomparte/PrintNightmare](https://github.com/Tomparte/PrintNightmare)  create time: 2021-07-28T07:55:42Z
 
 **poc** : [anmuxi-bai/CVE-2018-11790](https://github.com/anmuxi-bai/CVE-2018-11790)  create time: 2021-07-28T06:18:30Z
 
