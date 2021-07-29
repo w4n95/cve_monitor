@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-29 10:24:53.966022  total: 5983 
+ > update time: 2021-07-29 12:35:18.094654  total: 5984 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [xmco/sdwan-cve-2021-1480](https://github.com/xmco/sdwan-cve-2021-1480)  create time: 2021-07-29T12:17:50Z
 
 **Proof of concept for CVE-2021-27965 (Stack-based Buffer Overflow)** : [Crystalware/CVE-2021-27965](https://github.com/Crystalware/CVE-2021-27965)  create time: 2021-07-29T09:32:56Z
 
