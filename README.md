@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-29 05:20:37.737422  total: 5980 
+ > update time: 2021-07-29 06:29:15.158009  total: 5981 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Shellshock exploit aka CVE-2014-6271** : [b4keSn4ke/shellshock](https://github.com/b4keSn4ke/shellshock)  create time: 2021-07-29T04:51:43Z
 
 **Proof of concept code for CVE-2020-9014** : [Crystalware/CVE-2020-9014](https://github.com/Crystalware/CVE-2020-9014)  create time: 2021-07-29T04:37:09Z
 
