@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-07-29 17:28:56.556309  total: 5987 
+ > update time: 2021-07-29 18:28:08.095319  total: 5989 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Techniques based on named pipes for pool overflow exploitation targeting the most recent (and oldest) Windows versions. (including a poc for CVE-2020-17087 and an off-by-one overflow)** : [vp777/Windows-Non-Paged-Pool-Overflow-Exploitation](https://github.com/vp777/Windows-Non-Paged-Pool-Overflow-Exploitation)  create time: 2021-07-02T16:03:16Z
+
+**no description** : [chompie1337/Linux_LPE_eBPF_CVE-2021-3490](https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490)  create time: 2021-06-24T18:50:17Z
 
 **Exploit for CVE-2019-10149** : [Stick-U235/CVE-2019-10149-Exploit](https://github.com/Stick-U235/CVE-2019-10149-Exploit)  create time: 2021-07-29T16:44:08Z
 
