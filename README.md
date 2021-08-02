@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-02 09:24:26.093037  total: 6006 
+ > update time: 2021-08-02 10:25:59.356676  total: 6007 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Local exploit for CVE-2021-1675** : [tacbliw/PrintNightmare-LPE](https://github.com/tacbliw/PrintNightmare-LPE)  create time: 2021-08-02T09:03:07Z
 
 **no description** : [PenTestical/CVE-2021-22204](https://github.com/PenTestical/CVE-2021-22204)  create time: 2021-08-02T09:11:27Z
 
