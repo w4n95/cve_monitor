@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-02 02:32:48.538218  total: 6002 
+ > update time: 2021-08-02 03:25:07.996417  total: 6003 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [xiaofeihahah/CVE-2021-21300](https://github.com/xiaofeihahah/CVE-2021-21300)  create time: 2021-08-02T03:09:52Z
 
 **no description** : [zeronohacker/CVE-2018-20250](https://github.com/zeronohacker/CVE-2018-20250)  create time: 2021-08-02T01:24:01Z
 
