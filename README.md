@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-01 20:24:15.617253  total: 5999 
+ > update time: 2021-08-02 02:32:48.538218  total: 6002 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [zeronohacker/CVE-2018-20250](https://github.com/zeronohacker/CVE-2018-20250)  create time: 2021-08-02T01:24:01Z
+
+**The dashboard gadgets preference resource of the Atlassian gadgets plugin used in Jira Server and Jira Data Center before version 8.13.5, and from version 8.14.0 before version 8.15.1 allows remote anonymous attackers to obtain gadget related settings via a missing permissions check.** : [f4rber/CVE-2020-36287](https://github.com/f4rber/CVE-2020-36287)  create time: 2021-08-02T01:52:39Z
+
+**POC of CVE-2021-2394** : [lz2y/CVE-2021-2394](https://github.com/lz2y/CVE-2021-2394)  create time: 2021-08-02T02:22:04Z
 
 **SeriousSAM Auto Exploiter** : [websecnl/CVE-2021-36934](https://github.com/websecnl/CVE-2021-36934)  create time: 2021-08-01T19:54:31Z
 
