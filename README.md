@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-02 10:25:59.356676  total: 6007 
+ > update time: 2021-08-02 12:35:59.426602  total: 6008 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [whitetea2424/CVE-2020-27955-LFS-main](https://github.com/whitetea2424/CVE-2020-27955-LFS-main)  create time: 2021-08-02T12:32:08Z
 
 **Local exploit for CVE-2021-1675** : [tacbliw/PrintNightmare-LPE](https://github.com/tacbliw/PrintNightmare-LPE)  create time: 2021-08-02T09:03:07Z
 
