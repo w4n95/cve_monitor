@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-08 14:20:39.880545  total: 6093 
+ > update time: 2021-08-08 16:33:05.410527  total: 6094 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [BabyTeam1024/CVE-2021-2394](https://github.com/BabyTeam1024/CVE-2021-2394)  create time: 2021-08-08T16:12:17Z
 
 **pentesterlab challange** : [prizoner627/CVE2018](https://github.com/prizoner627/CVE2018)  create time: 2021-08-08T13:26:50Z
 
