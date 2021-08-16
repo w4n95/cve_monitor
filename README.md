@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-16 11:25:31.277323  total: 6138 
+ > update time: 2021-08-16 12:44:18.966447  total: 6140 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-25790-Multiple-Stored-XSS : Multiple Stored XSS in House Rental and Property Listing** : [MrCraniums/CVE-2021-25790-Multiple-Stored-XSS](https://github.com/MrCraniums/CVE-2021-25790-Multiple-Stored-XSS)  create time: 2021-08-16T11:46:02Z
+
+**Multiple Stored XSS Online Doctor Appointment System** : [MrCraniums/CVE-2021-25791-Multiple-Stored-XSS](https://github.com/MrCraniums/CVE-2021-25791-Multiple-Stored-XSS)  create time: 2021-08-16T11:25:30Z
 
 **A tool to crash MySQL servers with CVE-2017-3599** : [jptr218/mysql_dos](https://github.com/jptr218/mysql_dos)  create time: 2021-08-16T10:39:44Z
 
