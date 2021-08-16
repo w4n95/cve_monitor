@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-16 02:31:26.990838  total: 6135 
+ > update time: 2021-08-16 08:26:07.666503  total: 6136 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability** : [whichbuffer/CVE-2021-34473](https://github.com/whichbuffer/CVE-2021-34473)  create time: 2021-08-16T08:14:33Z
 
 **Sudo heap-based buffer overflow privilege escalation commands and mitigations.** : [Kleptocratic/CVE-2021-3156](https://github.com/Kleptocratic/CVE-2021-3156)  create time: 2021-08-16T01:10:34Z
 
