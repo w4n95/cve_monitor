@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-23 09:22:19.877747  total: 6219 
+ > update time: 2021-08-23 22:23:50.528093  total: 6221 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Remote Code Execution at Rittal** : [asang17/CVE-2021-RCE](https://github.com/asang17/CVE-2021-RCE)  create time: 2021-08-04T16:10:05Z
+
+**XSS Vulnerability in Rittal** : [asang17/CVE-2021-XSS](https://github.com/asang17/CVE-2021-XSS)  create time: 2021-08-04T16:09:24Z
 
 **no description** : [madhans23/curl-curl-7_64_1_CVE-2019-5482_withPatch](https://github.com/madhans23/curl-curl-7_64_1_CVE-2019-5482_withPatch)  create time: 2021-08-23T08:47:39Z
 
