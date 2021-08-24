@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-24 05:20:48.087035  total: 6223 
+ > update time: 2021-08-24 06:27:04.915822  total: 6224 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**XSTREAM<=1.4.17漏洞复现（CVE-2021-39141、CVE-2021-39144、CVE-2021-39150）** : [zwjjustdoit/Xstream-1.4.17](https://github.com/zwjjustdoit/Xstream-1.4.17)  create time: 2021-08-24T06:15:20Z
 
 **Kibana Prototype Pollution** : [dnr6419/CVE-2019-7609](https://github.com/dnr6419/CVE-2019-7609)  create time: 2021-08-24T04:38:26Z
 
