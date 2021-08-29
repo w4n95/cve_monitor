@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-29 16:32:59.189568  total: 6246 
+ > update time: 2021-08-29 18:25:27.856231  total: 6247 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for CVE-2019-19609 in Strapi (Remote Code Execution)** : [diego-tella/CVE-2019-19609-EXPLOIT](https://github.com/diego-tella/CVE-2019-19609-EXPLOIT)  create time: 2021-08-29T17:57:08Z
 
 **Strapi Framework Vulnerable to Remote Code Execution** : [dasithsv/CVE-2019-19609](https://github.com/dasithsv/CVE-2019-19609)  create time: 2021-08-29T16:18:27Z
 
