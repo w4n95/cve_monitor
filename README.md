@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-29 11:18:44.666898  total: 6245 
+ > update time: 2021-08-29 16:32:59.189568  total: 6246 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Strapi Framework Vulnerable to Remote Code Execution** : [dasithsv/CVE-2019-19609](https://github.com/dasithsv/CVE-2019-19609)  create time: 2021-08-29T16:18:27Z
 
 **CVE-2020-25223** : [darrenmartyn/sophucked](https://github.com/darrenmartyn/sophucked)  create time: 2021-08-29T11:08:53Z
 
