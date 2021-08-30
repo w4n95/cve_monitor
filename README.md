@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-30 01:05:01.303394  total: 6248 
+ > update time: 2021-08-30 03:23:38.461618  total: 6249 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Strapi <= 3.0.0-beta.17.8 authenticated remote code execution** : [guglia001/CVE-2019-19609](https://github.com/guglia001/CVE-2019-19609)  create time: 2021-08-30T03:05:16Z
 
 **no description** : [guglia001/CVE-2019-18818](https://github.com/guglia001/CVE-2019-18818)  create time: 2021-08-29T23:30:15Z
 
