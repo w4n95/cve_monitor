@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-31 17:26:38.426577  total: 6252 
+ > update time: 2021-08-31 18:26:32.515360  total: 6254 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**https://www.exploit-db.com/exploits/49757** : [Gr4ykt/CVE-2011-2523](https://github.com/Gr4ykt/CVE-2011-2523)  create time: 2021-08-31T17:31:30Z
+
+**Block "itms scheme" / fix CVE-2021-1748** : [tihmstar/itmsBlock](https://github.com/tihmstar/itmsBlock)  create time: 2021-08-31T18:06:43Z
 
 **CVE-2021-26084 - Confluence Pre-Auth RCE | OGNL injection** : [carlosevieira/CVE-2021-26084](https://github.com/carlosevieira/CVE-2021-26084)  create time: 2021-08-31T16:33:32Z
 
