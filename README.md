@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-08-31 14:21:25.701410  total: 6251 
+ > update time: 2021-08-31 17:26:38.426577  total: 6252 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-26084 - Confluence Pre-Auth RCE | OGNL injection** : [carlosevieira/CVE-2021-26084](https://github.com/carlosevieira/CVE-2021-26084)  create time: 2021-08-31T16:33:32Z
 
 **Remote Code Execution vulnerability in PHPMailer.** : [RyouYoo/CVE-2016-10033](https://github.com/RyouYoo/CVE-2016-10033)  create time: 2021-08-31T13:46:28Z
 
