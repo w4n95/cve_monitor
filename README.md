@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-01 13:27:41.420086  total: 6273 
+ > update time: 2021-09-01 15:24:40.211690  total: 6274 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-26084 - Confluence Server Webwork OGNL injection (RCE)** : [taythebot/CVE-2021-26084](https://github.com/taythebot/CVE-2021-26084)  create time: 2021-09-01T15:19:19Z
 
 **Exploit for Elastix 2.2.0 and FreePBX 2.10.0 based on CVE-2012-4869 vulnerability working on Python3** : [bitc0de/Elastix-Remote-Code-Execution](https://github.com/bitc0de/Elastix-Remote-Code-Execution)  create time: 2021-09-01T13:12:01Z
 
