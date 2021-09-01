@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-01 01:12:07.322520  total: 6259 
+ > update time: 2021-09-01 03:24:03.996865  total: 6260 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-26084 Remote Code Execution on Confluence Servers, reference: https://github.com/httpvoid/writeups/blob/main/Confluence-RCE.md** : [gh0stkey/CVE-2021-26084](https://github.com/gh0stkey/CVE-2021-26084)  create time: 2021-09-01T02:31:35Z
 
 **no description** : [dinhbaouit/CVE-2021-26084](https://github.com/dinhbaouit/CVE-2021-26084)  create time: 2021-09-01T00:50:30Z
 
