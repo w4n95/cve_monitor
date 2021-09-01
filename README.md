@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-01 15:24:40.211690  total: 6274 
+ > update time: 2021-09-01 16:34:37.710574  total: 6276 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Reproduce CVE-2020-7471** : [mrlihd/CVE-2020-7471](https://github.com/mrlihd/CVE-2020-7471)  create time: 2021-09-01T16:05:56Z
+
+**PoC of CVE-2021-26084 written in Golang based on https://twitter.com/jas502n/status/1433044110277890057?s=20** : [bcdannyboy/CVE-2021-26084_GoPOC](https://github.com/bcdannyboy/CVE-2021-26084_GoPOC)  create time: 2021-09-01T16:17:35Z
 
 **CVE-2021-26084 - Confluence Server Webwork OGNL injection (RCE)** : [taythebot/CVE-2021-26084](https://github.com/taythebot/CVE-2021-26084)  create time: 2021-09-01T15:19:19Z
 
