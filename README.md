@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-01 11:20:18.433284  total: 6268 
+ > update time: 2021-09-01 12:34:23.407897  total: 6271 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-26084 Remote Code Execution on Confluence Servers** : [Osyanina/westone-CVE-2021-26084-scanner](https://github.com/Osyanina/westone-CVE-2021-26084-scanner)  create time: 2021-09-01T12:28:41Z
+
+**Remote Code Execution on Confluence Servers : CVE-2021-26084** : [Vulnmachines/Confluence_CVE-2021-26084](https://github.com/Vulnmachines/Confluence_CVE-2021-26084)  create time: 2021-09-01T12:19:53Z
+
+**PrintNightMare LPE提权漏洞的CS 反射加载插件。开箱即用、通过内存加载、混淆加载的驱动名称来ByPass Defender/EDR。** : [mstxq17/CVE-2021-1675_RDL_LPE](https://github.com/mstxq17/CVE-2021-1675_RDL_LPE)  create time: 2021-09-01T11:25:04Z
 
 **no description** : [qianxiao996/CVE-2021-2222](https://github.com/qianxiao996/CVE-2021-2222)  create time: 2021-09-01T11:15:31Z
 
