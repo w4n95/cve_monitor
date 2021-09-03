@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-02 17:29:00.601980  total: 6362 
+ > update time: 2021-09-03 02:32:04.152806  total: 6363 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Dell Driver EoP (CVE-2021-21551)** : [ihack4falafel/Dell-Driver-EoP-CVE-2021-21551](https://github.com/ihack4falafel/Dell-Driver-EoP-CVE-2021-21551)  create time: 2021-09-03T01:47:03Z
 
 **Just testing if some bot will do some action here LOL** : [zeroc00I/CVE-2021-40353](https://github.com/zeroc00I/CVE-2021-40353)  create time: 2021-09-02T17:03:26Z
 
