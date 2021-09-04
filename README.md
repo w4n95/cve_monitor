@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-04 13:25:37.884028  total: 6394 
+ > update time: 2021-09-04 14:20:54.626615  total: 6399 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploitation of a vulnerability in Cisco's node-jose, a JavaScript library created to manage JWT.** : [RyouYoo/CVE-2018-0114](https://github.com/RyouYoo/CVE-2018-0114)  create time: 2021-09-03T13:11:28Z
+
+**Confluence OGNL Injection [CVE-2021-26084].** : [march0s1as/CVE-2021-26084](https://github.com/march0s1as/CVE-2021-26084)  create time: 2021-09-04T13:32:42Z
+
+**Blind SQL Injection in ClinicCases 7.3.3** : [sudonoodle/CVE-2021-38706](https://github.com/sudonoodle/CVE-2021-38706)  create time: 2021-09-03T20:46:11Z
+
+**Persistent Cross-Site Scripting (XSS) in ClinicCases 7.3.3** : [sudonoodle/CVE-2021-38707](https://github.com/sudonoodle/CVE-2021-38707)  create time: 2021-09-03T20:44:20Z
+
+**Cross-Site Request Forgery (CSRF) in ClinicCases 7.3.3** : [sudonoodle/CVE-2021-38705](https://github.com/sudonoodle/CVE-2021-38705)  create time: 2021-09-03T20:42:43Z
 
 **Reflected Cross-Site Scripting (XSS) in ClinicCases 7.3.3** : [sudonoodle/CVE-2021-38704](https://github.com/sudonoodle/CVE-2021-38704)  create time: 2021-09-03T20:41:58Z
 
