@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-04 14:20:54.626615  total: 6399 
+ > update time: 2021-09-04 15:23:54.550775  total: 6403 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**User enumeration wordpress.** : [kr4dd/CVE-2017-5487](https://github.com/kr4dd/CVE-2017-5487)  create time: 2021-09-04T15:20:35Z
+
+**no description** : [Anonimo501/SMBGhost_CVE-2020-0796_checker](https://github.com/Anonimo501/SMBGhost_CVE-2020-0796_checker)  create time: 2021-09-04T15:07:15Z
+
+**Setting up POC for  CVE-2021-26084** : [wolf1892/confluence-rce-poc](https://github.com/wolf1892/confluence-rce-poc)  create time: 2021-09-04T14:53:38Z
+
+**CVE-2021-34646 PoC** : [motikan2010/CVE-2021-34646](https://github.com/motikan2010/CVE-2021-34646)  create time: 2021-09-04T14:19:05Z
 
 **Exploitation of a vulnerability in Cisco's node-jose, a JavaScript library created to manage JWT.** : [RyouYoo/CVE-2018-0114](https://github.com/RyouYoo/CVE-2018-0114)  create time: 2021-09-03T13:11:28Z
 
