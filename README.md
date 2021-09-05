@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-05 10:24:57.859370  total: 6405 
+ > update time: 2021-09-05 17:25:32.439069  total: 6406 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Prodrious/CVE-2020-13942](https://github.com/Prodrious/CVE-2020-13942)  create time: 2021-09-05T16:39:19Z
 
 **Confluence server webwork OGNL injection** : [rootsmadi/CVE-2021-26084](https://github.com/rootsmadi/CVE-2021-26084)  create time: 2021-09-05T09:27:55Z
 
