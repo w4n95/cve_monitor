@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-06 07:22:06.236070  total: 6409 
+ > update time: 2021-09-06 09:22:32.512699  total: 6410 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploitation of CVE-2019-5420 to forge a session as another user.** : [RyouYoo/CVE-2019-5420](https://github.com/RyouYoo/CVE-2019-5420)  create time: 2021-09-06T09:17:22Z
 
 **asjhdsajdlksavksapfoka** : [p1gz/CVE-2021-26084-Confluence-OGNL](https://github.com/p1gz/CVE-2021-26084-Confluence-OGNL)  create time: 2021-09-06T06:55:15Z
 
