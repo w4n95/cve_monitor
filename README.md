@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-06 14:21:35.477626  total: 6413 
+ > update time: 2021-09-07 02:31:29.790898  total: 6414 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Atlassian Confluence CVE-2021-26084  one-liner mass checker** : [1ZRR4H/CVE-2021-26084](https://github.com/1ZRR4H/CVE-2021-26084)  create time: 2021-09-07T01:15:16Z
 
 **no description** : [steefn/cve2018-6574](https://github.com/steefn/cve2018-6574)  create time: 2021-09-06T13:55:42Z
 
