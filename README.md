@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-08 17:27:26.248291  total: 6434 
+ > update time: 2021-09-08 23:23:21.064224  total: 6435 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-40346 PoC (HAProxy HTTP Smuggling)** : [knqyf263/CVE-2021-40346](https://github.com/knqyf263/CVE-2021-40346)  create time: 2021-09-08T22:26:19Z
 
 **CVE-2021-26084 patch as provided in "Confluence Security Advisory - 2021-08-25"** : [nizarbamida/CVE-2021-26084-patch-](https://github.com/nizarbamida/CVE-2021-26084-patch-)  create time: 2021-09-08T17:05:16Z
 
