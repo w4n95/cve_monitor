@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-08 09:22:22.399912  total: 6430 
+ > update time: 2021-09-08 11:19:30.174398  total: 6431 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit CVE 2021 26084 Confluence** : [dock0d1/CVE-2021-26084_Confluence](https://github.com/dock0d1/CVE-2021-26084_Confluence)  create time: 2021-09-08T11:01:49Z
 
 **Microsoft MSHTML Remote Code Execution Vulnerability CVE-2021-40444** : [ozergoker/CVE-2021-40444](https://github.com/ozergoker/CVE-2021-40444)  create time: 2021-09-08T08:32:40Z
 
