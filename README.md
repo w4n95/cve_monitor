@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-10 11:19:57.526215  total: 6446 
+ > update time: 2021-09-10 16:34:09.281129  total: 6447 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Event logs from running CVE-2021-40444 samples** : [zaneGittins/CVE-2021-40444-evtx](https://github.com/zaneGittins/CVE-2021-40444-evtx)  create time: 2021-09-10T15:36:43Z
 
 **no description** : [ricardojoserf/CVE-2021-40845](https://github.com/ricardojoserf/CVE-2021-40845)  create time: 2021-09-10T10:23:55Z
 
