@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-11 13:25:54.250909  total: 6456 
+ > update time: 2021-09-11 14:20:13.301390  total: 6457 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Updating all CVE-details from the year 1999 to 2021** : [techyrick/CVE-list](https://github.com/techyrick/CVE-list)  create time: 2021-09-11T14:06:01Z
 
 **Hunting CVE-2018-13379** : [nivdolgin/CVE-2018-13379](https://github.com/nivdolgin/CVE-2018-13379)  create time: 2021-09-11T13:12:31Z
 
