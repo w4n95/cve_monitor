@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-12 12:33:22.736099  total: 6464 
+ > update time: 2021-09-12 13:25:35.548042  total: 6466 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme.** : [RyouYoo/CVE-2021-24499](https://github.com/RyouYoo/CVE-2021-24499)  create time: 2021-09-12T12:43:24Z
+
+**Python implementation for CVE-2021-1675 / CVE-2021-34527** : [ly4k/PrintNightmare](https://github.com/ly4k/PrintNightmare)  create time: 2021-09-12T12:31:39Z
 
 **2021 kernel vulnerability in Ubuntu** : [cerodah/overlayFS-CVE-2021-3493](https://github.com/cerodah/overlayFS-CVE-2021-3493)  create time: 2021-09-12T12:25:02Z
 
