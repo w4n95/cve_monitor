@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-12 13:25:35.548042  total: 6466 
+ > update time: 2021-09-12 18:25:04.722831  total: 6468 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploitation of CVE-2018-18925 a Remote Code Execution against the Git self hosted tool: Gogs.** : [RyouYoo/CVE-2018-18925](https://github.com/RyouYoo/CVE-2018-18925)  create time: 2021-09-12T17:57:56Z
+
+**This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit** : [aslitsecurity/CVE-2021-40444_builders](https://github.com/aslitsecurity/CVE-2021-40444_builders)  create time: 2021-09-12T18:05:53Z
 
 **Mass exploitation of CVE-2021-24499 unauthenticated upload leading to remote code execution in Workreap theme.** : [RyouYoo/CVE-2021-24499](https://github.com/RyouYoo/CVE-2021-24499)  create time: 2021-09-12T12:43:24Z
 
