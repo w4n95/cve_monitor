@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-11 18:25:27.315293  total: 6460 
+ > update time: 2021-09-12 01:09:35.018624  total: 6461 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [R0fM1a/CVE-2021-40444-pocv](https://github.com/R0fM1a/CVE-2021-40444-pocv)  create time: 2021-09-12T00:25:14Z
 
 **Demo for CVE-2021-40444** : [kozmer/CVE-2021-40444](https://github.com/kozmer/CVE-2021-40444)  create time: 2021-09-11T17:39:25Z
 
