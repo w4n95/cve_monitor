@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-12 10:25:01.996682  total: 6462 
+ > update time: 2021-09-12 12:33:22.736099  total: 6464 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**2021 kernel vulnerability in Ubuntu** : [cerodah/overlayFS-CVE-2021-3493](https://github.com/cerodah/overlayFS-CVE-2021-3493)  create time: 2021-09-12T12:25:02Z
+
+**Python Implementation for CVE-2021-1675 / CVE-2021-34527** : [ly4k/PrintNightmare](https://github.com/ly4k/PrintNightmare)  create time: 2021-09-11T00:16:40Z
 
 **Reverse engineering the "A Letter Before Court 4.docx" malicious files exploting cve-2021-40444** : [jamesrep/cve-2021-40444](https://github.com/jamesrep/cve-2021-40444)  create time: 2021-09-12T09:27:40Z
 
