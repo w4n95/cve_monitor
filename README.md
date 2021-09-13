@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-13 05:20:33.065441  total: 6470 
+ > update time: 2021-09-13 06:27:10.929960  total: 6471 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [sDreamForZzQ/CVE-2021-74123](https://github.com/sDreamForZzQ/CVE-2021-74123)  create time: 2021-09-13T05:29:44Z
 
 **test** : [cckuailong/CVE-2021-1234](https://github.com/cckuailong/CVE-2021-1234)  create time: 2021-09-13T05:06:48Z
 
