@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-12 18:25:04.722831  total: 6468 
+ > update time: 2021-09-13 05:20:33.065441  total: 6470 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**test** : [cckuailong/CVE-2021-1234](https://github.com/cckuailong/CVE-2021-1234)  create time: 2021-09-13T05:06:48Z
+
+**no description** : [sDreamForZzQ/CVE-2021-7799](https://github.com/sDreamForZzQ/CVE-2021-7799)  create time: 2021-09-13T05:05:59Z
 
 **Exploitation of CVE-2018-18925 a Remote Code Execution against the Git self hosted tool: Gogs.** : [RyouYoo/CVE-2018-18925](https://github.com/RyouYoo/CVE-2018-18925)  create time: 2021-09-12T17:57:56Z
 
