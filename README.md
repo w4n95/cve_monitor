@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-13 09:22:58.217479  total: 6472 
+ > update time: 2021-09-13 10:25:59.599080  total: 6474 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**POC for CVE-2021-40444** : [khoaduynu/CVE-2021-40444](https://github.com/khoaduynu/CVE-2021-40444)  create time: 2021-09-13T09:46:04Z
+
+**no description** : [Immersive-Labs-Sec/cve-2021-40444-analysis](https://github.com/Immersive-Labs-Sec/cve-2021-40444-analysis)  create time: 2021-09-09T15:43:08Z
 
 **no description** : [sDreamForZzQ/CVE-2021-1234](https://github.com/sDreamForZzQ/CVE-2021-1234)  create time: 2021-09-13T09:16:55Z
 
