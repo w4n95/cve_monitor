@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-14 02:32:15.218988  total: 6476 
+ > update time: 2021-09-14 03:23:38.241740  total: 6479 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-32202** : [l00neyhacker/CVE-2021-32202](https://github.com/l00neyhacker/CVE-2021-32202)  create time: 2021-09-14T03:19:37Z
+
+**CVE-2021-36582** : [l00neyhacker/CVE-2021-36582](https://github.com/l00neyhacker/CVE-2021-36582)  create time: 2021-09-14T03:14:50Z
+
+**CVE-2021-36581** : [l00neyhacker/CVE-2021-36581](https://github.com/l00neyhacker/CVE-2021-36581)  create time: 2021-09-14T03:09:34Z
 
 **no description** : [aydianosec/CVE2021-40444](https://github.com/aydianosec/CVE2021-40444)  create time: 2021-09-14T01:37:25Z
 
