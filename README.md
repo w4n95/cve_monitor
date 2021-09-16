@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-16 15:24:42.305567  total: 6518 
+ > update time: 2021-09-16 17:25:28.727233  total: 6519 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Python script to extract embedded URLs from doc files (.doc, .docx, .docm, .rtf)** : [gh0stxplt/CVE-2021-40444-URL-Extractor](https://github.com/gh0stxplt/CVE-2021-40444-URL-Extractor)  create time: 2021-09-16T16:54:50Z
 
 **A PoC exploit for CVE-2021-38647 RCE in OMI** : [Immersive-Labs-Sec/cve-2021-38647](https://github.com/Immersive-Labs-Sec/cve-2021-38647)  create time: 2021-09-16T08:33:02Z
 
