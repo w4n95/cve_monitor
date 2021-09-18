@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-18 03:23:40.232482  total: 6578 
+ > update time: 2021-09-18 08:25:12.850272  total: 6579 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**[CVE-2021-26084] Confluence pre-auth RCE test script** : [ludy-dev/CVE-2021-26084_PoC](https://github.com/ludy-dev/CVE-2021-26084_PoC)  create time: 2021-09-18T07:33:24Z
 
 **PoC for exploiting CVE-2021-20118 : Nessus Agent 8.3.0 and earlier was found to contain a local privilege escalation vulnerability which could allow an authenticated, local administrator to run specific executables on the Nessus Agent host. This is different than CVE-2021-20117.** : [AlAIAL90/CVE-2021-20118](https://github.com/AlAIAL90/CVE-2021-20118)  create time: 2021-09-18T02:44:48Z
 
