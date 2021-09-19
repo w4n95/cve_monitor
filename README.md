@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-09-18 22:21:53.214399  total: 6580 
+ > update time: 2021-09-19 12:33:47.552949  total: 6581 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Modifed ver of the original exploit to save some times on password reseting for unprivileged user** : [jayngng/CVE-2021-22911](https://github.com/jayngng/CVE-2021-22911)  create time: 2021-09-19T11:43:06Z
 
 **Scan for evidence of CVE-2021-30860 (FORCEDENTRY) exploit** : [Levilutz/CVE-2021-30860](https://github.com/Levilutz/CVE-2021-30860)  create time: 2021-09-18T22:14:17Z
 
