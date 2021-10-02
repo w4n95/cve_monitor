@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-02 11:20:22.384303  total: 6654 
+ > update time: 2021-10-02 15:23:29.266855  total: 6656 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This project is automate the reconnaissance process or process of information gathering about the target domain or company which host bug bounty program. You can run this whole Virtual Private Server but since i don't have any so i dig and found that GitHub will provide 2000 minute/month for running workflow in their virtual machine, they provide windows, mac and ubuntu as Linux distribution, for testing purpose of the development, so we integrate testing phase directly in development process,  So i have create custom scripts  and workflow file which run install all the necessary tools and run the appropriate scripts, the work is done by this workflow is subdomain enumeration, dns resolution,  reverse-dns resolve, port-scanning of all the hosts,findig virtual hosts, fuzzing for content discovery, and run nuclei  which is template based scanner by project discovery is to scan the host  for any CVE and common vulnerabilities, you can add custom template and custom scripts, and finally Discord integration, so when some work is done it will send message to discord webhook url configure in it. For further details view Repository.** : [GDSC-IU/automate-with-actions](https://github.com/GDSC-IU/automate-with-actions)  create time: 2021-10-02T14:04:22Z
+
+**no description** : [puckiestyle/CVE-2021-3493](https://github.com/puckiestyle/CVE-2021-3493)  create time: 2021-10-02T14:44:43Z
 
 **no description** : [Ni7inSharma/CVE-2021-41511](https://github.com/Ni7inSharma/CVE-2021-41511)  create time: 2021-10-02T10:44:59Z
 
