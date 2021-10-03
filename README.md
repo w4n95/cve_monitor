@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-03 22:22:33.644074  total: 6660 
+ > update time: 2021-10-03 23:23:18.858552  total: 6661 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-21972 – ᴠᴍᴡᴀʀᴇ ᴄʟɪᴇɴᴛ ᴜɴᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴄᴏᴅᴇ ɪɴᴊᴇᴄᴛɪᴏɴ (ʀᴄᴇ)** : [oxctdev/CVE-2021-21972](https://github.com/oxctdev/CVE-2021-21972)  create time: 2021-10-03T23:03:11Z
 
 **Exploit code for CVE-2007-2447 written in Python3.** : [xbufu/CVE-2007-2447](https://github.com/xbufu/CVE-2007-2447)  create time: 2021-10-03T21:38:19Z
 
