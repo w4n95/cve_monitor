@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-04 19:19:05.008257  total: 6665 
+ > update time: 2021-10-04 22:23:26.942718  total: 6666 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Opensitoo/cve-2020-0796](https://github.com/Opensitoo/cve-2020-0796)  create time: 2021-10-04T22:16:37Z
 
 **BIQS IT Biqs-drive v1.83** : [PinkDraconian/CVE-2021-39433](https://github.com/PinkDraconian/CVE-2021-39433)  create time: 2021-10-04T19:02:35Z
 
