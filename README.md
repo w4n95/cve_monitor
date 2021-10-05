@@ -1,9 +1,79 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-05 08:28:15.595221  total: 6670 
+ > update time: 2021-10-05 10:25:09.674891  total: 6705 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for exploiting CVE-2018-16871 : A flaw was found in the Linux kernel's NFS implementation, all versions 3.x and all versions 4.x up to 4.20. An attacker, who is able to mount an exported NFS filesystem, is able to trigger a null pointer dereference by using an invalid NFS sequence. This can panic the machine and deny access to the NFS server. Any outstanding disk writes to the NFS server will be lost.** : [AlAIAL90/CVE-2018-16871](https://github.com/AlAIAL90/CVE-2018-16871)  create time: 2021-10-05T10:20:48Z
+
+**PoC for exploiting CVE-2019-0205 : In Apache Thrift all versions up to and including 0.12.0, a server or client may run into an endless loop when feed with specific input data. Because the issue had already been partially fixed in version 0.11.0, depending on the installed version it affects only certain language bindings.** : [AlAIAL90/CVE-2019-0205](https://github.com/AlAIAL90/CVE-2019-0205)  create time: 2021-10-05T10:19:24Z
+
+**PoC for exploiting CVE-2020-21913 : International Components for Unicode (ICU-20850) v66.1 was discovered to contain a use after free bug in the pkg_createWithAssemblyCode function in the file tools/pkgdata/pkgdata.cpp.** : [AlAIAL90/CVE-2020-21913](https://github.com/AlAIAL90/CVE-2020-21913)  create time: 2021-10-05T10:21:31Z
+
+**PoC for exploiting CVE-2020-19144 : Buffer Overflow in LibTiff v4.0.10 allows attackers to cause a denial of service via the 'in _TIFFmemcpy' funtion in the component 'tif_unix.c'.** : [AlAIAL90/CVE-2020-19144](https://github.com/AlAIAL90/CVE-2020-19144)  create time: 2021-10-05T10:20:33Z
+
+**PoC for exploiting CVE-2020-19143 : Buffer Overflow in LibTiff v4.0.10 allows attackers to cause a denial of service via the "TIFFVGetField" funtion in the component 'libtiff/tif_dir.c'.** : [AlAIAL90/CVE-2020-19143](https://github.com/AlAIAL90/CVE-2020-19143)  create time: 2021-10-05T10:20:29Z
+
+**PoC for exploiting CVE-2021-35202 : NETSCOUT Systems nGeniusONE 6.3.0 build 1196 allows Authorization Bypass (to access an endpoint) in FDSQueryService.** : [AlAIAL90/CVE-2021-35202](https://github.com/AlAIAL90/CVE-2021-35202)  create time: 2021-10-05T10:21:43Z
+
+**PoC for exploiting CVE-2021-35203 : NETSCOUT Systems nGeniusONE 6.3.0 build 1196 allows Arbitrary File Read operations via the FDSQueryService endpoint.** : [AlAIAL90/CVE-2021-35203](https://github.com/AlAIAL90/CVE-2021-35203)  create time: 2021-10-05T10:21:39Z
+
+**PoC for exploiting CVE-2021-3626 : The Windows version of Multipass before 1.7.0 allowed any local process to connect to the localhost TCP control socket to perform mounts from the operating system to a guest, allowing for privilege escalation.** : [AlAIAL90/CVE-2021-3626](https://github.com/AlAIAL90/CVE-2021-3626)  create time: 2021-10-05T10:21:35Z
+
+**PoC for exploiting CVE-2021-3747 : The MacOS version of Multipass, version 1.7.0, fixed in 1.7.2, accidentally installed the application directory with incorrect owner.** : [AlAIAL90/CVE-2021-3747](https://github.com/AlAIAL90/CVE-2021-3747)  create time: 2021-10-05T10:21:27Z
+
+**PoC for exploiting CVE-2021-34352 : A command injection vulnerability has been reported to affect QNAP device running QVR. If exploited, this vulnerability could allow remote attackers to run arbitrary commands. We have already fixed this vulnerability in the following versions of QVR: QVR 5.1.5 build 20210902 and later** : [AlAIAL90/CVE-2021-34352](https://github.com/AlAIAL90/CVE-2021-34352)  create time: 2021-10-05T10:21:24Z
+
+**PoC for exploiting CVE-2021-41082 : Discourse is a platform for community discussion. In affected versions any private message that includes a group had its title and participating user exposed to users that do not have access to the private messages. However, access control for the private messages was not compromised as users were not able to view the posts in the leaked private message despite seeing it in their inbox. The problematic commit was reverted around 32 minutes after it was made. Users are encouraged to upgrade to the latest commit if they are running Discourse against the `tests-passed` branch.** : [AlAIAL90/CVE-2021-41082](https://github.com/AlAIAL90/CVE-2021-41082)  create time: 2021-10-05T10:21:20Z
+
+**PoC for exploiting CVE-2021-23054 : On version 16.x before 16.1.0, 15.1.x before 15.1.4, 14.1.x before 14.1.4.4, and all versions of 13.1.x, 12.1.x, and 11.6.x, a reflected cross-site scripting (XSS) vulnerability exists in the resource information page for authenticated users when a full webtop is configured on the BIG-IP APM system. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.** : [AlAIAL90/CVE-2021-23054](https://github.com/AlAIAL90/CVE-2021-23054)  create time: 2021-10-05T10:21:16Z
+
+**PoC for exploiting CVE-2021-38402 : Delta Electronic DOPSoft 2 (Version 2.00.07 and prior) lacks proper validation of user-supplied data when parsing specific project files. This could lead to a stack-based buffer overflow while trying to copy to a buffer during font string handling. An attacker could leverage this vulnerability to execute code in the context of the current process.** : [AlAIAL90/CVE-2021-38402](https://github.com/AlAIAL90/CVE-2021-38402)  create time: 2021-10-05T10:21:12Z
+
+**PoC for exploiting CVE-2021-38404 : Delta Electronic DOPSoft 2 (Version 2.00.07 and prior) lacks proper validation of user-supplied data when parsing specific project files. This could result in a heap-based buffer overflow. An attacker could leverage this vulnerability to execute code in the context of the current process.** : [AlAIAL90/CVE-2021-38404](https://github.com/AlAIAL90/CVE-2021-38404)  create time: 2021-10-05T10:21:09Z
+
+**PoC for exploiting CVE-2021-38406 : Delta Electronic DOPSoft 2 (Version 2.00.07 and prior) lacks proper validation of user-supplied data when parsing specific project files. This could result in multiple out-of-bounds write instances. An attacker could leverage this vulnerability to execute code in the context of the current process.** : [AlAIAL90/CVE-2021-38406](https://github.com/AlAIAL90/CVE-2021-38406)  create time: 2021-10-05T10:21:05Z
+
+**PoC for exploiting CVE-2021-1810 : A logic issue was addressed with improved state management. This issue is fixed in macOS Big Sur 11.3, Security Update 2021-002 Catalina. A malicious application may bypass Gatekeeper checks.** : [AlAIAL90/CVE-2021-1810](https://github.com/AlAIAL90/CVE-2021-1810)  create time: 2021-10-05T10:21:00Z
+
+**PoC for exploiting CVE-2021-41381 : Payara Micro Community 5.2021.6 and below allows Directory Traversal.** : [AlAIAL90/CVE-2021-41381](https://github.com/AlAIAL90/CVE-2021-41381)  create time: 2021-10-05T10:20:56Z
+
+**PoC for exploiting CVE-2021-39229 : Apprise is an open source library which allows you to send a notification to almost all of the most popular notification services available. In affected versions users who use Apprise granting them access to the IFTTT plugin (which just comes out of the box) are subject to a denial of service attack on an inefficient regular expression. The vulnerable regular expression is [here](https://github.com/caronc/apprise/blob/0007eade20934ddef0aba38b8f1aad980cfff253/apprise/plugins/NotifyIFTTT.py#L356-L359). The problem has been patched in release version 0.9.5.1. Users who are unable to upgrade are advised to remove `apprise/plugins/NotifyIFTTT.py` to eliminate the service.** : [AlAIAL90/CVE-2021-39229](https://github.com/AlAIAL90/CVE-2021-39229)  create time: 2021-10-05T10:20:52Z
+
+**PoC for exploiting CVE-2021-3634 : A flaw has been found in libssh in versions prior to 0.9.6. The SSH protocol keeps track of two shared secrets during the lifetime of the session. One of them is called secret_hash and the other session_id. Initially, both of them are the same, but after key re-exchange, previous session_id is kept and used as an input to new secret_hash. Historically, both of these buffers had shared length variable, which worked as long as these buffers were same. But the key re-exchange operation can also change the key exchange method, which can be based on hash of different size, eventually creating "secret_hash" of different size than the session_id has. This becomes an issue when the session_id memory is zeroed or when it is used again during second key re-exchange.** : [AlAIAL90/CVE-2021-3634](https://github.com/AlAIAL90/CVE-2021-3634)  create time: 2021-10-05T10:20:44Z
+
+**PoC for exploiting CVE-2021-40490 : A race condition was discovered in ext4_write_inline_data_end in fs/ext4/inline.c in the ext4 subsystem in the Linux kernel through 5.13.13.** : [AlAIAL90/CVE-2021-40490](https://github.com/AlAIAL90/CVE-2021-40490)  create time: 2021-10-05T10:20:41Z
+
+**PoC for exploiting CVE-2021-25737 : A security issue was discovered in Kubernetes where a user may be able to redirect pod traffic to private networks on a Node. Kubernetes already prevents creation of Endpoint IPs in the localhost or link-local range, but the same validation was not performed on EndpointSlice IPs.** : [AlAIAL90/CVE-2021-25737](https://github.com/AlAIAL90/CVE-2021-25737)  create time: 2021-10-05T10:20:37Z
+
+**PoC for exploiting CVE-2021-36134 : Out of bounds write vulnerability in the JPEG parsing code of Netop Vision Pro up to and including 9.7.2 allows an adjacent unauthenticated attacker to write to arbitrary memory potentially leading to a Denial of Service (DoS).** : [AlAIAL90/CVE-2021-36134](https://github.com/AlAIAL90/CVE-2021-36134)  create time: 2021-10-05T10:20:25Z
+
+**PoC for exploiting CVE-2021-39823 : Adobe svg-native-viewer 8182d14dfad5d1e10f53ed830328d7d9a3cfa96d and earlier versions are affected by a heap buffer overflow vulnerability due to insecure handling of a malicious .svg file, potentially resulting in arbitrary code execution in the context of the current user. User interaction is required to exploit this vulnerability.** : [AlAIAL90/CVE-2021-39823](https://github.com/AlAIAL90/CVE-2021-39823)  create time: 2021-10-05T10:20:21Z
+
+**PoC for exploiting CVE-2021-24643 : The WP Map Block WordPress plugin before 1.2.3 does not escape some attributes of the WP Map Block, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks** : [AlAIAL90/CVE-2021-24643](https://github.com/AlAIAL90/CVE-2021-24643)  create time: 2021-10-05T10:20:17Z
+
+**PoC for exploiting CVE-2021-24634 : The Recipe Card Blocks by WPZOOM WordPress plugin before 2.8.3 does not properly sanitise or escape some of the properties of the Recipe Card Block (such as ingredientsLayout, iconSet, steps, ingredients, recipeTitle, or settings), which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks.** : [AlAIAL90/CVE-2021-24634](https://github.com/AlAIAL90/CVE-2021-24634)  create time: 2021-10-05T10:20:13Z
+
+**PoC for exploiting CVE-2021-24633 : The Countdown Block WordPress plugin before 1.1.2 does not have authorisation in the eb_write_block_css AJAX action, which allows any authenticated user, such as Subscriber, to modify post contents displayed to users.** : [AlAIAL90/CVE-2021-24633](https://github.com/AlAIAL90/CVE-2021-24633)  create time: 2021-10-05T10:20:09Z
+
+**PoC for exploiting CVE-2021-24632 : The Recipe Card Blocks by WPZOOM WordPress plugin before 2.8.1 does not escape the message parameter before outputting it back in the admin dashboard, leading to a Reflected Cross-Site Scripting issue** : [AlAIAL90/CVE-2021-24632](https://github.com/AlAIAL90/CVE-2021-24632)  create time: 2021-10-05T10:20:04Z
+
+**PoC for exploiting CVE-2021-24610 : The TranslatePress WordPress plugin before 2.0.9 does not implement a proper sanitisation on the translated strings. The 'trp_sanitize_string' function only removes script tag with a regex, still allowing other HTML tags and attributes to execute javascript, which could lead to authenticated Stored Cross-Site Scripting issues.** : [AlAIAL90/CVE-2021-24610](https://github.com/AlAIAL90/CVE-2021-24610)  create time: 2021-10-05T10:19:59Z
+
+**PoC for exploiting CVE-2021-24569 : The Cookie Notice & Compliance for GDPR / CCPA WordPress plugin before 2.1.2 does not escape the value of its Button Text setting when outputting it in an attribute in the frontend, allowing high privilege users such as admin to perform Cross-Site Scripting even when the unfiltered_html capability is disallowed.** : [AlAIAL90/CVE-2021-24569](https://github.com/AlAIAL90/CVE-2021-24569)  create time: 2021-10-05T10:19:55Z
+
+**PoC for exploiting CVE-2021-36878 : Cross-Site Request Forgery (CSRF) vulnerability in WordPress uListing plugin (versions <= 2.0.5) makes it possible for attackers to update settings.** : [AlAIAL90/CVE-2021-36878](https://github.com/AlAIAL90/CVE-2021-36878)  create time: 2021-10-05T10:19:51Z
+
+**PoC for exploiting CVE-2021-3546 : A flaw was found in vhost-user-gpu of QEMU in versions up to and including 6.0. An out-of-bounds write vulnerability can allow a malicious guest to crash the QEMU process on the host resulting in a denial of service or potentially execute arbitrary code on the host with the privileges of the QEMU process. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.** : [AlAIAL90/CVE-2021-3546](https://github.com/AlAIAL90/CVE-2021-3546)  create time: 2021-10-05T10:19:47Z
+
+**PoC for exploiting CVE-2021-3545 : An information disclosure vulnerability was found in the virtio vhost-user GPU device (vhost-user-gpu) of QEMU in versions up to and including 6.0. The flaw exists in virgl_cmd_get_capset_info() in contrib/vhost-user-gpu/virgl.c and could occur due to the read of uninitialized memory. A malicious guest could exploit this issue to leak memory from the host.** : [AlAIAL90/CVE-2021-3545](https://github.com/AlAIAL90/CVE-2021-3545)  create time: 2021-10-05T10:19:43Z
+
+**PoC for exploiting CVE-2021-3544 : Several memory leaks were found in the virtio vhost-user GPU device (vhost-user-gpu) of QEMU in versions up to and including 6.0. They exist in contrib/vhost-user-gpu/vhost-user-gpu.c and contrib/vhost-user-gpu/virgl.c due to improper release of memory (i.e., free) after effective lifetime.** : [AlAIAL90/CVE-2021-3544](https://github.com/AlAIAL90/CVE-2021-3544)  create time: 2021-10-05T10:19:40Z
+
+**PoC for exploiting CVE-2021-35197 : In MediaWiki before 1.31.15, 1.32.x through 1.35.x before 1.35.3, and 1.36.x before 1.36.1, bots have certain unintended API access. When a bot account has a "sitewide block" applied, it is able to still "purge" pages through the MediaWiki Action API (which a "sitewide block" should have prevented).** : [AlAIAL90/CVE-2021-35197](https://github.com/AlAIAL90/CVE-2021-35197)  create time: 2021-10-05T10:19:35Z
+
+**PoC for exploiting CVE-2021-3682 : A flaw was found in the USB redirector device emulation of QEMU in versions prior to 6.1.0-rc2. It occurs when dropping packets during a bulk transfer from a SPICE client due to the packet queue being full. A malicious SPICE client could use this flaw to make QEMU call free() with faked heap chunk metadata, resulting in a crash of QEMU or potential code execution with the privileges of the QEMU process on the host.** : [AlAIAL90/CVE-2021-3682](https://github.com/AlAIAL90/CVE-2021-3682)  create time: 2021-10-05T10:19:32Z
 
 **Atlassian Confluence Server 7.5.1 Pre-Authorization Arbitrary File Read vulnerability** : [ColdFusionX/CVE-2021-26085](https://github.com/ColdFusionX/CVE-2021-26085)  create time: 2021-10-05T08:20:25Z
 
