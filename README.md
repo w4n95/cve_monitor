@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-05 12:35:08.095271  total: 6818 
+ > update time: 2021-10-05 16:34:19.231914  total: 6820 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-41773** : [numanturle/CVE-2021-41773](https://github.com/numanturle/CVE-2021-41773)  create time: 2021-10-05T16:18:09Z
+
+**CVE-2021-41773 Path Traversal vulnerability in Apache 2.4.49.** : [Vulnmachines/cve-2021-41773](https://github.com/Vulnmachines/cve-2021-41773)  create time: 2021-10-05T16:13:38Z
 
 **PoC for exploiting CVE-2020-14119 : There is command injection in the addMeshNode interface of xqnetwork.lua, which leads to command execution under administrator authority on Xiaomi router AX3600 with rom versionrom< 1.1.12** : [AIPOCAI/CVE-2020-14119](https://github.com/AIPOCAI/CVE-2020-14119)  create time: 2021-10-05T11:17:13Z
 
