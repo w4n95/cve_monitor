@@ -1,9 +1,39 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-05 11:19:51.520151  total: 6803 
+ > update time: 2021-10-05 12:35:08.095271  total: 6818 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for exploiting CVE-2020-14119 : There is command injection in the addMeshNode interface of xqnetwork.lua, which leads to command execution under administrator authority on Xiaomi router AX3600 with rom versionrom< 1.1.12** : [AIPOCAI/CVE-2020-14119](https://github.com/AIPOCAI/CVE-2020-14119)  create time: 2021-10-05T11:17:13Z
+
+**PoC for exploiting CVE-2020-21482 : A cross-site scripting (XSS) vulnerability in RGCMS v1.06 allows attackers to obtain the administrator's cookie via a crafted payload in the Name field under the Message Board module** : [AIPOCAI/CVE-2020-21482](https://github.com/AIPOCAI/CVE-2020-21482)  create time: 2021-10-05T11:16:54Z
+
+**PoC for exploiting CVE-2020-21481 : An arbitrary file upload vulnerability in RGCMS v1.06 allows attackers to execute arbitrary code via a crafted .txt file which is later changed to a PHP file.** : [AIPOCAI/CVE-2020-21481](https://github.com/AIPOCAI/CVE-2020-21481)  create time: 2021-10-05T11:16:50Z
+
+**PoC for exploiting CVE-2020-14124 : There is a buffer overflow in librsa.so called by getwifipwdurl interface, resulting in code execution on Xiaomi router AX3600 with ROM version =rom< 1.1.12.** : [AIPOCAI/CVE-2020-14124](https://github.com/AIPOCAI/CVE-2020-14124)  create time: 2021-10-05T11:16:39Z
+
+**PoC for exploiting CVE-2021-39204 : Pomerium is an open source identity-aware access proxy. Envoy, which Pomerium is based on, incorrectly handles resetting of HTTP/2 streams with excessive complexity. This can lead to high CPU utilization when a large number of streams are reset. This can result in a DoS condition. Pomerium versions 0.14.8 and 0.15.1 contain an upgraded envoy binary with this vulnerability patched.** : [AIPOCAI/CVE-2021-39204](https://github.com/AIPOCAI/CVE-2021-39204)  create time: 2021-10-05T11:17:29Z
+
+**PoC for exploiting CVE-2021-39206 : Pomerium is an open source identity-aware access proxy. Envoy, which Pomerium is based on, contains two authorization related vulnerabilities CVE-2021-32777 and CVE-2021-32779. This may lead to incorrect routing or authorization policy decisions. With specially crafted requests, incorrect authorization or routing decisions may be made by Pomerium. Pomerium v0.14.8 and v0.15.1 contain an upgraded envoy binary with these vulnerabilities patched. This issue can only be triggered when using path prefix based policy. Removing any such policies should provide mitigation.** : [AIPOCAI/CVE-2021-39206](https://github.com/AIPOCAI/CVE-2021-39206)  create time: 2021-10-05T11:17:25Z
+
+**PoC for exploiting CVE-2021-22005 : The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.** : [AIPOCAI/CVE-2021-22005](https://github.com/AIPOCAI/CVE-2021-22005)  create time: 2021-10-05T11:17:21Z
+
+**PoC for exploiting CVE-2021-40965 : A Cross-Site Request Forgery (CSRF) vulnerability exists in TinyFileManager all version up to and including 2.4.6 that allows attackers to upload files and run OS commands by inducing the Administrator user to browse a URL controlled by an attacker.** : [AIPOCAI/CVE-2021-40965](https://github.com/AIPOCAI/CVE-2021-40965)  create time: 2021-10-05T11:17:17Z
+
+**PoC for exploiting CVE-2021-39201 : WordPress is a free and open-source content management system written in PHP and paired with a MySQL or MariaDB database. ### Impact The issue allows an authenticated but low-privileged user (like contributor/author) to execute XSS in the editor. This bypasses the restrictions imposed on users who do not have the permission to post `unfiltered_html`. ### Patches This has been patched in WordPress 5.8, and will be pushed to older versions via minor releases (automatic updates). It's strongly recommended that you keep auto-updates enabled to receive the fix. ### References https://wordpress.org/news/category/releases/ https://hackerone.com/reports/1142140 ### For more information If you have any questions or comments about this advisory: * Open an issue in [HackerOne](https://hackerone.com/wordpress)** : [AIPOCAI/CVE-2021-39201](https://github.com/AIPOCAI/CVE-2021-39201)  create time: 2021-10-05T11:17:09Z
+
+**PoC for exploiting CVE-2021-40966 : A Stored XSS exists in TinyFileManager All version up to and including 2.4.6 in /tinyfilemanager.php when the server is given a file that contains HTML and javascript in its name. A malicious user can upload a file with a malicious filename containing javascript code and it will run on any user browser when they access the server.** : [AIPOCAI/CVE-2021-40966](https://github.com/AIPOCAI/CVE-2021-40966)  create time: 2021-10-05T11:17:05Z
+
+**PoC for exploiting CVE-2021-40964 : A Path Traversal vulnerability exists in TinyFileManager all version up to and including 2.4.6 that allows attackers to upload a file (with Admin credentials or with the CSRF vulnerability) with the "fullpath" parameter containing path traversal strings (../ and ..\) in order to escape the server's intended working directory and write malicious files onto any directory on the computer.** : [AIPOCAI/CVE-2021-40964](https://github.com/AIPOCAI/CVE-2021-40964)  create time: 2021-10-05T11:17:01Z
+
+**PoC for exploiting CVE-2021-33693 : SAP Cloud Connector, version - 2.0, allows an authenticated administrator to modify a configuration file to inject malicious codes that could potentially lead to OS command execution.** : [AIPOCAI/CVE-2021-33693](https://github.com/AIPOCAI/CVE-2021-33693)  create time: 2021-10-05T11:16:58Z
+
+**PoC for exploiting CVE-2021-24620 : The WordPress Simple Ecommerce Shopping Cart Plugin- Sell products through Paypal plugin through 2.2.5 does not check for the uploaded Downloadable Digital product file, allowing any file, such as PHP to be uploaded by an administrator. Furthermore, as there is no CSRF in place, attackers could also make a logged admin upload a malicious PHP file, which would lead to RCE** : [AIPOCAI/CVE-2021-24620](https://github.com/AIPOCAI/CVE-2021-24620)  create time: 2021-10-05T11:16:46Z
+
+**PoC for exploiting CVE-2021-39239 : A vulnerability in XML processing in Apache Jena, in versions up to 4.1.0, may allow an attacker to execute XML External Entities (XXE), including exposing the contents of local files to a remote server.** : [AIPOCAI/CVE-2021-39239](https://github.com/AIPOCAI/CVE-2021-39239)  create time: 2021-10-05T11:16:42Z
+
+**PoC for exploiting CVE-2021-21993 : The vCenter Server contains an SSRF (Server Side Request Forgery) vulnerability due to improper validation of URLs in vCenter Server Content Library. An authorised user with access to content library may exploit this issue by sending a POST request to vCenter Server leading to information disclosure.** : [AIPOCAI/CVE-2021-21993](https://github.com/AIPOCAI/CVE-2021-21993)  create time: 2021-10-05T11:16:31Z
 
 **PoC for exploiting CVE-2006-4471 : The Admin Upload Image functionality in Joomla! before 1.0.11 allows remote authenticated users to upload files outside of the /images/stories/ directory via unspecified vectors.** : [AIPOCAI/CVE-2006-4471](https://github.com/AIPOCAI/CVE-2006-4471)  create time: 2021-10-05T10:36:17Z
 
