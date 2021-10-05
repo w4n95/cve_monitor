@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-05 07:22:29.388417  total: 6668 
+ > update time: 2021-10-05 08:28:15.595221  total: 6670 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Atlassian Confluence Server 7.5.1 Pre-Authorization Arbitrary File Read vulnerability** : [ColdFusionX/CVE-2021-26085](https://github.com/ColdFusionX/CVE-2021-26085)  create time: 2021-10-05T08:20:25Z
+
+**no description** : [hh-hunter/nacos-cve-2021-29441](https://github.com/hh-hunter/nacos-cve-2021-29441)  create time: 2021-10-05T07:59:05Z
 
 **The plugin does not sanitise the HTML allowed in the Bio of users, allowing them to use malicious JavaScript code, which will be executed when anyone visit a post in the frontend made by such user. As a result, user with a role as low as author could perform Cross-Site Scripting attacks against users, which could potentially lead to privilege escalation when an admin view the related post/s.** : [V35HR4J/CVE-2021-24545](https://github.com/V35HR4J/CVE-2021-24545)  create time: 2021-10-05T06:28:05Z
 
