@@ -1,9 +1,205 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-05 10:25:09.674891  total: 6705 
+ > update time: 2021-10-05 11:19:51.520151  total: 6803 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for exploiting CVE-2006-4471 : The Admin Upload Image functionality in Joomla! before 1.0.11 allows remote authenticated users to upload files outside of the /images/stories/ directory via unspecified vectors.** : [AIPOCAI/CVE-2006-4471](https://github.com/AIPOCAI/CVE-2006-4471)  create time: 2021-10-05T10:36:17Z
+
+**PoC for exploiting CVE-2008-4796 : The _httpsrequest function (Snoopy/Snoopy.class.php) in Snoopy 1.2.3 and earlier, as used in (1) ampache, (2) libphp-snoopy, (3) mahara, (4) mediamate, (5) opendb, (6) pixelpost, and possibly other products, allows remote attackers to execute arbitrary commands via shell metacharacters in https URLs.** : [AIPOCAI/CVE-2008-4796](https://github.com/AIPOCAI/CVE-2008-4796)  create time: 2021-10-05T10:53:26Z
+
+**PoC for exploiting CVE-2021-33701 : DMIS Mobile Plug-In or SAP S/4HANA, versions - DMIS 2011_1_620, 2011_1_640, 2011_1_700, 2011_1_710, 2011_1_730, 710, 2011_1_731, 710, 2011_1_752, 2020, SAPSCORE 125, S4CORE 102, 102, 103, 104, 105, allows an attacker with access to highly privileged account to execute manipulated query in NDZT tool to gain access to Superuser account, leading to SQL Injection vulnerability, that highly impacts systems Confidentiality, Integrity and Availability.** : [AIPOCAI/CVE-2021-33701](https://github.com/AIPOCAI/CVE-2021-33701)  create time: 2021-10-05T10:33:44Z
+
+**PoC for exploiting CVE-2012-0881 : Apache Xerces2 Java Parser before 2.12.0 allows remote attackers to cause a denial of service (CPU consumption) via a crafted message to an XML service, which triggers hash table collisions.** : [AIPOCAI/CVE-2012-0881](https://github.com/AIPOCAI/CVE-2012-0881)  create time: 2021-10-05T11:05:16Z
+
+**PoC for exploiting CVE-2020-20128 : LaraCMS v1.0.1 transmits sensitive information in cleartext which can be intercepted by attackers.** : [AIPOCAI/CVE-2020-20128](https://github.com/AIPOCAI/CVE-2020-20128)  create time: 2021-10-05T10:38:20Z
+
+**PoC for exploiting CVE-2020-20129 : LaraCMS v1.0.1 contains a stored cross-site scripting (XSS) vulnerability which allows attackers to execute arbitrary web scripts or HTML via a crafted payload in the content editor.** : [AIPOCAI/CVE-2020-20129](https://github.com/AIPOCAI/CVE-2020-20129)  create time: 2021-10-05T10:38:16Z
+
+**PoC for exploiting CVE-2020-20131 : LaraCMS v1.0.1 contains a stored cross-site scripting (XSS) vulnerability which allows atackers to execute arbitrary web scripts or HTML via a crafted payload in the page management module.** : [AIPOCAI/CVE-2020-20131](https://github.com/AIPOCAI/CVE-2020-20131)  create time: 2021-10-05T10:38:12Z
+
+**PoC for exploiting CVE-2014-4611 : Integer overflow in the LZ4 algorithm implementation, as used in Yann Collet LZ4 before r118 and in the lz4_uncompress function in lib/lz4/lz4_decompress.c in the Linux kernel before 3.15.2, on 32-bit platforms might allow context-dependent attackers to cause a denial of service (memory corruption) or possibly have unspecified other impact via a crafted Literal Run that would be improperly handled by programs not complying with an API limitation, a different vulnerability than CVE-2014-4715.** : [AIPOCAI/CVE-2014-4611](https://github.com/AIPOCAI/CVE-2014-4611)  create time: 2021-10-05T11:12:15Z
+
+**PoC for exploiting CVE-2014-3704 : The expandArguments function in the database abstraction API in Drupal core 7.x before 7.32 does not properly construct prepared statements, which allows remote attackers to conduct SQL injection attacks via an array containing crafted keys.** : [AIPOCAI/CVE-2014-3704](https://github.com/AIPOCAI/CVE-2014-3704)  create time: 2021-10-05T11:02:27Z
+
+**PoC for exploiting CVE-2016-2568 : pkexec, when used with --user nonpriv, allows local users to escape to the parent session via a crafted TIOCSTI ioctl call, which pushes characters to the terminal's input buffer.** : [AIPOCAI/CVE-2016-2568](https://github.com/AIPOCAI/CVE-2016-2568)  create time: 2021-10-05T11:03:34Z
+
+**PoC for exploiting CVE-2016-5385 : PHP through 7.0.8 does not attempt to address RFC 3875 section 4.1.18 namespace conflicts and therefore does not protect applications from the presence of untrusted client data in the HTTP_PROXY environment variable, which might allow remote attackers to redirect an application's outbound HTTP traffic to an arbitrary proxy server via a crafted Proxy header in an HTTP request, as demonstrated by (1) an application that makes a getenv('HTTP_PROXY') call or (2) a CGI configuration of PHP, aka an "httpoxy" issue.** : [AIPOCAI/CVE-2016-5385](https://github.com/AIPOCAI/CVE-2016-5385)  create time: 2021-10-05T11:00:29Z
+
+**PoC for exploiting CVE-2016-10045 : The isMail transport in PHPMailer before 5.2.20 might allow remote attackers to pass extra parameters to the mail command and consequently execute arbitrary code by leveraging improper interaction between the escapeshellarg function and internal escaping performed in the mail function in PHP. NOTE: this vulnerability exists because of an incorrect fix for CVE-2016-10033.** : [AIPOCAI/CVE-2016-10045](https://github.com/AIPOCAI/CVE-2016-10045)  create time: 2021-10-05T10:53:01Z
+
+**PoC for exploiting CVE-2016-10033 : The mailSend function in the isMail transport in PHPMailer before 5.2.18 might allow remote attackers to pass extra parameters to the mail command and consequently execute arbitrary code via a \" (backslash double quote) in a crafted Sender property.** : [AIPOCAI/CVE-2016-10033](https://github.com/AIPOCAI/CVE-2016-10033)  create time: 2021-10-05T10:52:57Z
+
+**PoC for exploiting CVE-2016-20012 : OpenSSH through 8.7 allows remote attackers, who have a suspicion that a certain combination of username and public key is known to an SSH server, to test whether this suspicion is correct. This occurs because a challenge is sent only when that combination could be valid for a login session.** : [AIPOCAI/CVE-2016-20012](https://github.com/AIPOCAI/CVE-2016-20012)  create time: 2021-10-05T10:51:32Z
+
+**PoC for exploiting CVE-2017-11189 : unrarlib.c in unrar-free 0.0.1 might allow remote attackers to cause a denial of service (NULL pointer dereference and application crash), which could be relevant if unrarlib is used as library code for a long-running application. NOTE: one of the several test cases in the references may be the same as what was separately reported as CVE-2017-14121.** : [AIPOCAI/CVE-2017-11189](https://github.com/AIPOCAI/CVE-2017-11189)  create time: 2021-10-05T10:55:53Z
+
+**PoC for exploiting CVE-2017-14121 : The DecodeNumber function in unrarlib.c in unrar 0.0.1 (aka unrar-free or unrar-gpl) suffers from a NULL pointer dereference flaw triggered by a crafted RAR archive. NOTE: this may be the same as one of the several test cases in the CVE-2017-11189 references.** : [AIPOCAI/CVE-2017-14121](https://github.com/AIPOCAI/CVE-2017-14121)  create time: 2021-10-05T10:55:49Z
+
+**PoC for exploiting CVE-2017-12678 : In TagLib 1.11.1, the rebuildAggregateFrames function in id3v2framefactory.cpp has a pointer to cast vulnerability, which allows remote attackers to cause a denial of service or possibly have unspecified other impact via a crafted audio file.** : [AIPOCAI/CVE-2017-12678](https://github.com/AIPOCAI/CVE-2017-12678)  create time: 2021-10-05T10:50:46Z
+
+**PoC for exploiting CVE-2018-16177 : Untrusted search path vulnerability in The installer of Windows 10 Fall Creators Update Modify module for Security Measures tool allows an attacker to gain privileges via a Trojan horse DLL in an unspecified directory.** : [AIPOCAI/CVE-2018-16177](https://github.com/AIPOCAI/CVE-2018-16177)  create time: 2021-10-05T11:03:31Z
+
+**PoC for exploiting CVE-2018-14773 : An issue was discovered in Http Foundation in Symfony 2.7.0 through 2.7.48, 2.8.0 through 2.8.43, 3.3.0 through 3.3.17, 3.4.0 through 3.4.13, 4.0.0 through 4.0.13, and 4.1.0 through 4.1.2. It arises from support for a (legacy) IIS header that lets users override the path in the request URL via the X-Original-URL or X-Rewrite-URL HTTP request header. These headers are designed for IIS support, but it's not verified that the server is in fact running IIS, which means anybody who can send these requests to an application can trigger this. This affects \Symfony\Component\HttpFoundation\Request::prepareRequestUri() where X-Original-URL and X_REWRITE_URL are both used. The fix drops support for these methods so that they cannot be used as attack vectors such as web cache poisoning.** : [AIPOCAI/CVE-2018-14773](https://github.com/AIPOCAI/CVE-2018-14773)  create time: 2021-10-05T11:00:25Z
+
+**PoC for exploiting CVE-2018-5729 : MIT krb5 1.6 or later allows an authenticated kadmin with permission to add principals to an LDAP Kerberos database to cause a denial of service (NULL pointer dereference) or bypass a DN container check by supplying tagged data that is internal to the database module.** : [AIPOCAI/CVE-2018-5729](https://github.com/AIPOCAI/CVE-2018-5729)  create time: 2021-10-05T10:51:03Z
+
+**PoC for exploiting CVE-2018-5730 : MIT krb5 1.6 or later allows an authenticated kadmin with permission to add principals to an LDAP Kerberos database to circumvent a DN containership check by supplying both a "linkdn" and "containerdn" database argument, or by supplying a DN string which is a left extension of a container DN string but is not hierarchically within the container DN.** : [AIPOCAI/CVE-2018-5730](https://github.com/AIPOCAI/CVE-2018-5730)  create time: 2021-10-05T10:50:59Z
+
+**PoC for exploiting CVE-2018-20217 : A Reachable Assertion issue was discovered in the KDC in MIT Kerberos 5 (aka krb5) before 1.17. If an attacker can obtain a krbtgt ticket using an older encryption type (single-DES, triple-DES, or RC4), the attacker can crash the KDC by making an S4U2Self request.** : [AIPOCAI/CVE-2018-20217](https://github.com/AIPOCAI/CVE-2018-20217)  create time: 2021-10-05T10:50:55Z
+
+**PoC for exploiting CVE-2018-11439 : The TagLib::Ogg::FLAC::File::scan function in oggflacfile.cpp in TagLib 1.11.1 allows remote attackers to cause information disclosure (heap-based buffer over-read) via a crafted audio file.** : [AIPOCAI/CVE-2018-11439](https://github.com/AIPOCAI/CVE-2018-11439)  create time: 2021-10-05T10:50:42Z
+
+**PoC for exploiting CVE-2019-11595 : In uBlock before 0.9.5.15, the $rewrite filter option allows filter-list maintainers to run arbitrary code in a client-side session when a web service loads a script for execution using XMLHttpRequest or Fetch, and the script origin has an open redirect.** : [AIPOCAI/CVE-2019-11595](https://github.com/AIPOCAI/CVE-2019-11595)  create time: 2021-10-05T11:16:23Z
+
+**PoC for exploiting CVE-2019-18413 : In TypeStack class-validator 0.10.2, validate() input validation can be bypassed because certain internal attributes can be overwritten via a conflicting name. Even though there is an optional forbidUnknownValues parameter that can be used to reduce the risk of this bypass, this option is not documented and thus most developers configure input validation in the vulnerable default manner. With this vulnerability, attackers can launch SQL Injection or XSS attacks by injecting arbitrary malicious input. NOTE: a software maintainer agrees with the "is not documented" finding but suggests that much of the responsibility for the risk lies in a different product.** : [AIPOCAI/CVE-2019-18413](https://github.com/AIPOCAI/CVE-2019-18413)  create time: 2021-10-05T11:12:08Z
+
+**PoC for exploiting CVE-2019-10095 : bash command injection vulnerability in Apache Zeppelin allows an attacker to inject system commands into Spark interpreter settings. This issue affects Apache Zeppelin Apache Zeppelin version 0.9.0 and prior versions.** : [AIPOCAI/CVE-2019-10095](https://github.com/AIPOCAI/CVE-2019-10095)  create time: 2021-10-05T11:11:55Z
+
+**PoC for exploiting CVE-2019-9060 : An issue was discovered in CMS Made Simple 2.2.8. It is possible to achieve unauthenticated path traversal in the CGExtensions module (in the file action.setdefaulttemplate.php) with the m1_filename parameter; and through the action.showmessage.php file, it is possible to read arbitrary file content (by using that path traversal with m1_prefname set to cg_errormsg and m1_resettodefault=1).** : [AIPOCAI/CVE-2019-9060](https://github.com/AIPOCAI/CVE-2019-9060)  create time: 2021-10-05T11:05:51Z
+
+**PoC for exploiting CVE-2019-0227 : A Server Side Request Forgery (SSRF) vulnerability affected the Apache Axis 1.4 distribution that was last released in 2006. Security and bug commits commits continue in the projects Axis 1.x Subversion repository, legacy users are encouraged to build from source. The successor to Axis 1.x is Axis2, the latest version is 1.7.9 and is not vulnerable to this issue.** : [AIPOCAI/CVE-2019-0227](https://github.com/AIPOCAI/CVE-2019-0227)  create time: 2021-10-05T11:03:43Z
+
+**PoC for exploiting CVE-2019-12823 : Craft CMS before 3.1.31 does not properly filter XML feeds and thus allowing XSS.** : [AIPOCAI/CVE-2019-12823](https://github.com/AIPOCAI/CVE-2019-12823)  create time: 2021-10-05T11:03:19Z
+
+**PoC for exploiting CVE-2019-3820 : It was discovered that the gnome-shell lock screen since version 3.15.91 did not properly restrict all contextual actions. An attacker with physical access to a locked workstation could invoke certain keyboard shortcuts, and potentially other actions.** : [AIPOCAI/CVE-2019-3820](https://github.com/AIPOCAI/CVE-2019-3820)  create time: 2021-10-05T11:02:19Z
+
+**PoC for exploiting CVE-2019-10910 : In Symfony before 2.7.51, 2.8.x before 2.8.50, 3.x before 3.4.26, 4.x before 4.1.12, and 4.2.x before 4.2.7, when service ids allow user input, this could allow for SQL Injection and remote code execution. This is related to symfony/dependency-injection.** : [AIPOCAI/CVE-2019-10910](https://github.com/AIPOCAI/CVE-2019-10910)  create time: 2021-10-05T11:00:17Z
+
+**PoC for exploiting CVE-2019-10911 : In Symfony before 2.7.51, 2.8.x before 2.8.50, 3.x before 3.4.26, 4.x before 4.1.12, and 4.2.x before 4.2.7, a vulnerability would allow an attacker to authenticate as a privileged user on sites with user registration and remember me login functionality enabled. This is related to symfony/security.** : [AIPOCAI/CVE-2019-10911](https://github.com/AIPOCAI/CVE-2019-10911)  create time: 2021-10-05T11:00:13Z
+
+**PoC for exploiting CVE-2018-8256 : A remote code execution vulnerability exists when PowerShell improperly handles specially crafted files, aka "Microsoft PowerShell Remote Code Execution Vulnerability." This affects Windows RT 8.1, PowerShell Core 6.0, Microsoft.PowerShell.Archive 1.2.2.0, Windows Server 2016, Windows Server 2012, Windows Server 2008 R2, Windows Server 2019, Windows 7, Windows Server 2012 R2, PowerShell Core 6.1, Windows 10 Servers, Windows 10, Windows 8.1.** : [AIPOCAI/CVE-2018-8256](https://github.com/AIPOCAI/CVE-2018-8256)  create time: 2021-10-05T10:53:06Z
+
+**PoC for exploiting CVE-2019-19797 : read_colordef in read.c in Xfig fig2dev 3.2.7b has an out-of-bounds write.** : [AIPOCAI/CVE-2019-19797](https://github.com/AIPOCAI/CVE-2019-19797)  create time: 2021-10-05T10:37:13Z
+
+**PoC for exploiting CVE-2021-39862 : Adobe Framemaker versions 2019 Update 8 (and earlier) and 2020 Release Update 2 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.** : [AIPOCAI/CVE-2021-39862](https://github.com/AIPOCAI/CVE-2021-39862)  create time: 2021-10-05T10:34:43Z
+
+**PoC for exploiting CVE-2021-40697 : Adobe Framemaker versions 2019 Update 8 (and earlier) and 2020 Release Update 2 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.** : [AIPOCAI/CVE-2021-40697](https://github.com/AIPOCAI/CVE-2021-40697)  create time: 2021-10-05T10:33:56Z
+
+**PoC for exploiting CVE-2021-39865 : Adobe Framemaker versions 2019 Update 8 (and earlier) and 2020 Release Update 2 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.** : [AIPOCAI/CVE-2021-39865](https://github.com/AIPOCAI/CVE-2021-39865)  create time: 2021-10-05T10:33:52Z
+
+**PoC for exploiting CVE-2019-7254 : Linear eMerge E3-Series devices allow File Inclusion.** : [AIPOCAI/CVE-2019-7254](https://github.com/AIPOCAI/CVE-2019-7254)  create time: 2021-10-05T10:32:37Z
+
+**PoC for exploiting CVE-2020-21480 : An arbitrary file write vulnerability in RGCMS v1.06 allows attackers to execute arbitrary code via a crafted PHP file.** : [AIPOCAI/CVE-2020-21480](https://github.com/AIPOCAI/CVE-2020-21480)  create time: 2021-10-05T11:16:35Z
+
+**PoC for exploiting CVE-2020-21605 : libde265 v1.0.4 contains a segmentation fault in the apply_sao_internal function, which can be exploited via a crafted a file.** : [AIPOCAI/CVE-2020-21605](https://github.com/AIPOCAI/CVE-2020-21605)  create time: 2021-10-05T11:16:27Z
+
+**PoC for exploiting CVE-2020-21606 : libde265 v1.0.4 contains a heap buffer overflow fault in the put_epel_16_fallback function, which can be exploited via a crafted a file.** : [AIPOCAI/CVE-2020-21606](https://github.com/AIPOCAI/CVE-2020-21606)  create time: 2021-10-05T11:15:30Z
+
+**PoC for exploiting CVE-2020-21601 : libde265 v1.0.4 contains a stack buffer overflow in the put_qpel_fallback function, which can be exploited via a crafted a file.** : [AIPOCAI/CVE-2020-21601](https://github.com/AIPOCAI/CVE-2020-21601)  create time: 2021-10-05T11:15:22Z
+
+**PoC for exploiting CVE-2020-21602 : libde265 v1.0.4 contains a heap buffer overflow in the put_weighted_bipred_16_fallback function, which can be exploited via a crafted a file.** : [AIPOCAI/CVE-2020-21602](https://github.com/AIPOCAI/CVE-2020-21602)  create time: 2021-10-05T11:15:13Z
+
+**PoC for exploiting CVE-2020-21604 : libde265 v1.0.4 contains a heap buffer overflow fault in the _mm_loadl_epi64 function, which can be exploited via a crafted a file.** : [AIPOCAI/CVE-2020-21604](https://github.com/AIPOCAI/CVE-2020-21604)  create time: 2021-10-05T11:15:09Z
+
+**PoC for exploiting CVE-2020-21603 : libde265 v1.0.4 contains a heap buffer overflow in the put_qpel_0_0_fallback_16 function, which can be exploited via a crafted a file.** : [AIPOCAI/CVE-2020-21603](https://github.com/AIPOCAI/CVE-2020-21603)  create time: 2021-10-05T11:15:05Z
+
+**PoC for exploiting CVE-2020-21597 : libde265 v1.0.4 contains a heap buffer overflow in the mc_chroma function, which can be exploited via a crafted a file.** : [AIPOCAI/CVE-2020-21597](https://github.com/AIPOCAI/CVE-2020-21597)  create time: 2021-10-05T11:14:59Z
+
+**PoC for exploiting CVE-2020-21598 : libde265 v1.0.4 contains a heap buffer overflow in the ff_hevc_put_unweighted_pred_8_sse function, which can be exploited via a crafted a file.** : [AIPOCAI/CVE-2020-21598](https://github.com/AIPOCAI/CVE-2020-21598)  create time: 2021-10-05T11:14:55Z
+
+**PoC for exploiting CVE-2020-21599 : libde265 v1.0.4 contains a heap buffer overflow in the de265_image::available_zscan function, which can be exploited via a crafted a file.** : [AIPOCAI/CVE-2020-21599](https://github.com/AIPOCAI/CVE-2020-21599)  create time: 2021-10-05T11:14:51Z
+
+**PoC for exploiting CVE-2020-21600 : libde265 v1.0.4 contains a heap buffer overflow in the put_weighted_pred_avg_16_fallback function, which can be exploited via a crafted a file.** : [AIPOCAI/CVE-2020-21600](https://github.com/AIPOCAI/CVE-2020-21600)  create time: 2021-10-05T11:14:48Z
+
+**PoC for exploiting CVE-2020-21594 : libde265 v1.0.4 contains a heap buffer overflow in the put_epel_hv_fallback function, which can be exploited via a crafted a file.** : [AIPOCAI/CVE-2020-21594](https://github.com/AIPOCAI/CVE-2020-21594)  create time: 2021-10-05T11:14:44Z
+
+**PoC for exploiting CVE-2020-21596 : libde265 v1.0.4 contains a global buffer overflow in the decode_CABAC_bit function, which can be exploited via a crafted a file.** : [AIPOCAI/CVE-2020-21596](https://github.com/AIPOCAI/CVE-2020-21596)  create time: 2021-10-05T11:14:40Z
+
+**PoC for exploiting CVE-2020-21595 : libde265 v1.0.4 contains a heap buffer overflow in the mc_luma function, which can be exploited via a crafted a file.** : [AIPOCAI/CVE-2020-21595](https://github.com/AIPOCAI/CVE-2020-21595)  create time: 2021-10-05T11:14:37Z
+
+**PoC for exploiting CVE-2020-24574 : The client (aka GalaxyClientService.exe) in GOG GALAXY through 2.0.41 (as of 12:58 AM Eastern, 9/26/21) allows local privilege escalation from any authenticated user to SYSTEM by instructing the Windows service to execute arbitrary commands. This occurs because the attacker can inject a DLL into GalaxyClient.exe, defeating the TCP-based "trusted client" protection mechanism.** : [AIPOCAI/CVE-2020-24574](https://github.com/AIPOCAI/CVE-2020-24574)  create time: 2021-10-05T11:13:20Z
+
+**PoC for exploiting CVE-2020-3960 : VMware ESXi (6.7 before ESXi670-202006401-SG and 6.5 before ESXi650-202005401-SG), Workstation (15.x before 15.5.5), and Fusion (11.x before 11.5.5) contain an out-of-bounds read vulnerability in NVMe functionality. A malicious actor with local non-administrative access to a virtual machine with a virtual NVMe controller present may be able to read privileged information contained in physical memory.** : [AIPOCAI/CVE-2020-3960](https://github.com/AIPOCAI/CVE-2020-3960)  create time: 2021-10-05T11:12:57Z
+
+**PoC for exploiting CVE-2020-13929 : Authentication bypass vulnerability in Apache Zeppelin allows an attacker to bypass Zeppelin authentication mechanism to act as another user. This issue affects Apache Zeppelin Apache Zeppelin version 0.9.0 and prior versions.** : [AIPOCAI/CVE-2020-13929](https://github.com/AIPOCAI/CVE-2020-13929)  create time: 2021-10-05T11:11:59Z
+
+**PoC for exploiting CVE-2021-40155 : A maliciously crafted DWG file in Autodesk Navisworks 2019, 2020, 2021, 2022 can be forced to read beyond allocated boundaries when parsing the DWG files. This vulnerability can be exploited to execute arbitrary code.** : [AIPOCAI/CVE-2021-40155](https://github.com/AIPOCAI/CVE-2021-40155)  create time: 2021-10-05T11:11:43Z
+
+**PoC for exploiting CVE-2021-40156 : A maliciously crafted DWG file in Autodesk Navisworks 2019, 2020, 2021, 2022 can be forced to write beyond allocated boundaries when parsing the DWG files. This vulnerability can be exploited to execute arbitrary code.** : [AIPOCAI/CVE-2021-40156](https://github.com/AIPOCAI/CVE-2021-40156)  create time: 2021-10-05T11:11:39Z
+
+**PoC for exploiting CVE-2020-21321 : emlog v6.0 contains a Cross-Site Request Forgery (CSRF) via /admin/link.php?action=addlink, which allows attackers to arbitrarily add articles.** : [AIPOCAI/CVE-2020-21321](https://github.com/AIPOCAI/CVE-2020-21321)  create time: 2021-10-05T11:09:43Z
+
+**PoC for exploiting CVE-2020-21322 : An arbitrary file upload vulnerability in Feehi CMS v2.0.8 and below allows attackers to execute arbitrary code via a crafted PHP file.** : [AIPOCAI/CVE-2020-21322](https://github.com/AIPOCAI/CVE-2020-21322)  create time: 2021-10-05T11:09:32Z
+
+**PoC for exploiting CVE-2020-21483 : An arbitrary file upload vulnerability in Jizhicms v1.5 allows attackers to execute arbitrary code via a crafted .jpg file which is later changed to a PHP file.** : [AIPOCAI/CVE-2020-21483](https://github.com/AIPOCAI/CVE-2020-21483)  create time: 2021-10-05T11:09:05Z
+
+**PoC for exploiting CVE-2020-21121 : Pligg CMS 2.0.2 contains a time-based SQL injection vulnerability via the $recordIDValue parameter in the admin_update_module_widgets.php file.** : [AIPOCAI/CVE-2020-21121](https://github.com/AIPOCAI/CVE-2020-21121)  create time: 2021-10-05T11:08:52Z
+
+**PoC for exploiting CVE-2020-21122 : UReport v2.2.9 contains a Server-Side Request Forgery (SSRF) in the designer page which allows attackers to detect intranet device ports.** : [AIPOCAI/CVE-2020-21122](https://github.com/AIPOCAI/CVE-2020-21122)  create time: 2021-10-05T11:08:44Z
+
+**PoC for exploiting CVE-2020-21124 : UReport 2.2.9 allows attackers to execute arbitrary code due to a lack of access control to the designer page.** : [AIPOCAI/CVE-2020-21124](https://github.com/AIPOCAI/CVE-2020-21124)  create time: 2021-10-05T11:08:40Z
+
+**PoC for exploiting CVE-2020-21125 : An arbitrary file creation vulnerability in UReport 2.2.9 allows attackers to execute arbitrary code.** : [AIPOCAI/CVE-2020-21125](https://github.com/AIPOCAI/CVE-2020-21125)  create time: 2021-10-05T11:08:25Z
+
+**PoC for exploiting CVE-2021-27045 : A maliciously crafted PDF file in Autodesk Navisworks 2019, 2020, 2021, 2022 can be forced to read beyond allocated boundaries when parsing the PDF file. This vulnerability can be exploited to execute arbitrary code.** : [AIPOCAI/CVE-2021-27045](https://github.com/AIPOCAI/CVE-2021-27045)  create time: 2021-10-05T11:08:10Z
+
+**PoC for exploiting CVE-2021-27046 : A Memory Corruption vulnerability for PDF files in Autodesk Navisworks 2019, 2020, 2021, 2022 may lead to code execution through maliciously crafted DLL files.** : [AIPOCAI/CVE-2021-27046](https://github.com/AIPOCAI/CVE-2021-27046)  create time: 2021-10-05T11:08:06Z
+
+**PoC for exploiting CVE-2020-23659 : WebPort-v1.19.17121 is affected by Cross Site Scripting (XSS) on the "connections" feature.** : [AIPOCAI/CVE-2020-23659](https://github.com/AIPOCAI/CVE-2020-23659)  create time: 2021-10-05T11:07:02Z
+
+**PoC for exploiting CVE-2020-21468 : ** DISPUTED ** A segmentation fault in the redis-server component of Redis 5.0.7 leads to a denial of service (DOS). NOTE: the vendor cannot reproduce this issue in a released version, such as 5.0.7.** : [AIPOCAI/CVE-2020-21468](https://github.com/AIPOCAI/CVE-2020-21468)  create time: 2021-10-05T11:06:11Z
+
+**PoC for exploiting CVE-2021-27044 : A Out-Of-Bounds Read/Write Vulnerability in Autodesk FBX Review version 1.4.0 may lead to remote code execution through maliciously crafted DLL files or information disclosure.** : [AIPOCAI/CVE-2021-27044](https://github.com/AIPOCAI/CVE-2021-27044)  create time: 2021-10-05T11:16:19Z
+
+**PoC for exploiting CVE-2021-39209 : GLPI is a free Asset and IT management software package. In versions prior to 9.5.6, a user who is logged in to GLPI can bypass Cross-Site Request Forgery (CSRF) protection in many places. This could allow a malicious actor to perform many actions on GLPI. This issue is fixed in version 9.5.6. There are no workarounds aside from upgrading.** : [AIPOCAI/CVE-2021-39209](https://github.com/AIPOCAI/CVE-2021-39209)  create time: 2021-10-05T11:16:15Z
+
+**PoC for exploiting CVE-2021-38156 : In Nagios XI before 5.8.6, XSS exists in the dashboard page (/dashboards/#) when administrative users attempt to edit a dashboard.** : [AIPOCAI/CVE-2021-38156](https://github.com/AIPOCAI/CVE-2021-38156)  create time: 2021-10-05T11:16:11Z
+
+**PoC for exploiting CVE-2021-27340 : OpenSIS Community Edition version <= 7.6 is affected by a reflected XSS vulnerability in EmailCheck.php via the "opt" parameter.** : [AIPOCAI/CVE-2021-27340](https://github.com/AIPOCAI/CVE-2021-27340)  create time: 2021-10-05T11:16:07Z
+
+**PoC for exploiting CVE-2021-27341 : OpenSIS Community Edition version <= 7.6 is affected by a local file inclusion vulnerability in DownloadWindow.php via the "filename" parameter.** : [AIPOCAI/CVE-2021-27341](https://github.com/AIPOCAI/CVE-2021-27341)  create time: 2021-10-05T11:16:03Z
+
+**PoC for exploiting CVE-2021-3797 : hestiacp is vulnerable to Use of Wrong Operator in String Comparison** : [AIPOCAI/CVE-2021-3797](https://github.com/AIPOCAI/CVE-2021-3797)  create time: 2021-10-05T11:15:59Z
+
+**PoC for exploiting CVE-2021-40066 : The access controls on the Mobility read-only API improperly validate user access permissions. Attackers with both network access to the API and valid credentials can read data from it; regardless of access control group membership settings. This vulnerability is fixed in Mobility v11.76 and Mobility v12.14.** : [AIPOCAI/CVE-2021-40066](https://github.com/AIPOCAI/CVE-2021-40066)  create time: 2021-10-05T11:15:55Z
+
+**PoC for exploiting CVE-2021-40067 : The access controls on the Mobility read-write API improperly validate user access permissions; this API is disabled by default. If the API is manually enabled, attackers with both network access to the API and valid credentials can read and write data to it; regardless of access control group membership settings. This vulnerability is fixed in Mobility v12.14.** : [AIPOCAI/CVE-2021-40067](https://github.com/AIPOCAI/CVE-2021-40067)  create time: 2021-10-05T11:15:51Z
+
+**PoC for exploiting CVE-2021-40157 : A user may be tricked into opening a malicious FBX file which may exploit an Untrusted Pointer Dereference vulnerability in FBX’s Review version 1.5.0 and prior causing it to run arbitrary code on the system.** : [AIPOCAI/CVE-2021-40157](https://github.com/AIPOCAI/CVE-2021-40157)  create time: 2021-10-05T11:15:47Z
+
+**PoC for exploiting CVE-2021-34576 : In Kaden PICOFLUX Air in all known versions an information exposure through observable discrepancy exists. This may give sensitive information (water consumption without distinct values) to third parties.** : [AIPOCAI/CVE-2021-34576](https://github.com/AIPOCAI/CVE-2021-34576)  create time: 2021-10-05T11:15:43Z
+
+**PoC for exploiting CVE-2021-29752 : IBM Db2 11.2 and 11.5 contains an information disclosure vulnerability, exposing remote storage credentials to privileged users under specific conditions. IBM X-Fporce ID: 201780.** : [AIPOCAI/CVE-2021-29752](https://github.com/AIPOCAI/CVE-2021-29752)  create time: 2021-10-05T11:15:38Z
+
+**PoC for exploiting CVE-2021-29842 : IBM WebSphere Application Server 7.0, 8.0, 8.5, 9.0 and Liberty 17.0.0.3 through 21.0.0.9 could allow a remote user to enumerate usernames due to a difference of responses from valid and invalid login attempts. IBM X-Force ID: 205202.** : [AIPOCAI/CVE-2021-29842](https://github.com/AIPOCAI/CVE-2021-29842)  create time: 2021-10-05T11:15:34Z
+
+**PoC for exploiting CVE-2021-3805 : object-path is vulnerable to Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution')** : [AIPOCAI/CVE-2021-3805](https://github.com/AIPOCAI/CVE-2021-3805)  create time: 2021-10-05T11:15:27Z
+
+**PoC for exploiting CVE-2021-39189 : Pimcore is an open source data & experience management platform. In versions prior to 10.1.3, it is possible to enumerate usernames via the forgot password functionality. This issue is fixed in version 10.1.3. As a workaround, one may apply the available patch manually.** : [AIPOCAI/CVE-2021-39189](https://github.com/AIPOCAI/CVE-2021-39189)  create time: 2021-10-05T11:15:18Z
+
+**PoC for exploiting CVE-2021-41061 : In RIOT-OS 2021.01, nonce reuse in 802.15.4 encryption in the ieee820154_security component allows attackers to break encryption by triggering reboots.** : [AIPOCAI/CVE-2021-41061](https://github.com/AIPOCAI/CVE-2021-41061)  create time: 2021-10-05T11:14:33Z
+
+**PoC for exploiting CVE-2021-40670 : SQL Injection vulnerability exists in Wuzhi CMS 4.1.0 via the keywords iparameter under the /coreframe/app/order/admin/card.php file.** : [AIPOCAI/CVE-2021-40670](https://github.com/AIPOCAI/CVE-2021-40670)  create time: 2021-10-05T11:14:28Z
+
+**PoC for exploiting CVE-2021-40845 : The web part of Zenitel AlphaCom XE Audio Server through 11.2.3.10, called AlphaWeb XE, does not restrict file upload in the Custom Scripts section at php/index.php. Neither the content nor extension of the uploaded files is checked, allowing execution of PHP code under the /cmd directory.** : [AIPOCAI/CVE-2021-40845](https://github.com/AIPOCAI/CVE-2021-40845)  create time: 2021-10-05T11:14:24Z
+
+**PoC for exploiting CVE-2021-38877 : IBM Jazz for Service Management 1.1.3.10 is vulnerable to stored cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 208405.** : [AIPOCAI/CVE-2021-38877](https://github.com/AIPOCAI/CVE-2021-38877)  create time: 2021-10-05T11:14:20Z
+
+**PoC for exploiting CVE-2021-29905 : IBM Jazz for Service Management 1.1.3.10 and IBM Tivoli Netcool/OMNIbus_GUI is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 207616.** : [AIPOCAI/CVE-2021-29905](https://github.com/AIPOCAI/CVE-2021-29905)  create time: 2021-10-05T11:14:17Z
+
+**PoC for exploiting CVE-2021-29904 : IBM Jazz for Service Management 1.1.3.10 and IBM Tivoli Netcool/OMNIbus_GUI displays user credentials in plain clear text which can be read by a local user. IBM X-Force ID: 207610.** : [AIPOCAI/CVE-2021-29904](https://github.com/AIPOCAI/CVE-2021-29904)  create time: 2021-10-05T11:14:12Z
+
+**PoC for exploiting CVE-2021-29833 : IBM Jazz for Service Management 1.1.3.10 and IBM Tivoli Netcool/OMNIbus_GUI is vulnerable to stored cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 204825.** : [AIPOCAI/CVE-2021-29833](https://github.com/AIPOCAI/CVE-2021-29833)  create time: 2021-10-05T11:14:08Z
+
+**PoC for exploiting CVE-2021-29832 : IBM Jazz for Service Management 1.1.3.10 and IBM Tivoli Netcool/OMNIbus_GUI is vulnerable to stored cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 204824.** : [AIPOCAI/CVE-2021-29832](https://github.com/AIPOCAI/CVE-2021-29832)  create time: 2021-10-05T11:13:58Z
+
+**PoC for exploiting CVE-2021-29816 : IBM Jazz for Service Management 1.1.3.10 and IBM Tivoli Netcool/OMNIbus_GUI is vulnerable to cross-site request forgery which could allow an attacker to execute malicious and unauthorized actions transmitted from a user that the website trusts. IBM X-Force ID: 204341.** : [AIPOCAI/CVE-2021-29816](https://github.com/AIPOCAI/CVE-2021-29816)  create time: 2021-10-05T11:13:54Z
+
+**PoC for exploiting CVE-2021-29815 : IBM Jazz for Service Management 1.1.3.10 and IBM Tivoli Netcool/OMNIbus_GUI is vulnerable to stored cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 204340.** : [AIPOCAI/CVE-2021-29815](https://github.com/AIPOCAI/CVE-2021-29815)  create time: 2021-10-05T11:13:50Z
+
+**PoC for exploiting CVE-2021-29814 : IBM Jazz for Service Management 1.1.3.10 and IBM Tivoli Netcool/OMNIbus_GUI is vulnerable to stored cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 204334.** : [AIPOCAI/CVE-2021-29814](https://github.com/AIPOCAI/CVE-2021-29814)  create time: 2021-10-05T11:13:45Z
+
+**PoC for exploiting CVE-2021-29813 : IBM Jazz for Service Management 1.1.3.10 and IBM Tivoli Netcool/OMNIbus_GUI is vulnerable to stored cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 204331.** : [AIPOCAI/CVE-2021-29813](https://github.com/AIPOCAI/CVE-2021-29813)  create time: 2021-10-05T11:13:41Z
+
+**PoC for exploiting CVE-2021-29812 : IBM Jazz for Service Management 1.1.3.10 and IBM Tivoli Netcool/OMNIbus_GUI is vulnerable to stored cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 204330.** : [AIPOCAI/CVE-2021-29812](https://github.com/AIPOCAI/CVE-2021-29812)  create time: 2021-10-05T11:13:37Z
+
+**PoC for exploiting CVE-2021-29810 : IBM Jazz for Service Management 1.1.3.10 and IBM Tivoli Netcool/OMNIbus_GUI is vulnerable to stored cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 204279.** : [AIPOCAI/CVE-2021-29810](https://github.com/AIPOCAI/CVE-2021-29810)  create time: 2021-10-05T11:13:33Z
+
+**PoC for exploiting CVE-2021-38176 : Due to improper input sanitization, an authenticated user with certain specific privileges can remotely call NZDT function modules listed in Solution Section to execute manipulated query to gain access to Backend Database. On successful exploitation the threat actor could completely compromise confidentiality, integrity, and availability of the system.** : [AIPOCAI/CVE-2021-38176](https://github.com/AIPOCAI/CVE-2021-38176)  create time: 2021-10-05T11:13:24Z
+
+**PoC for exploiting CVE-2021-21798 : An exploitable return of stack variable address vulnerability exists in the JavaScript implementation of Nitro Pro PDF. A specially crafted document can cause a stack variable to go out of scope, resulting in the application dereferencing a stale pointer. This can lead to code execution under the context of the application. An attacker can convince a user to open a document to trigger the vulnerability.** : [AIPOCAI/CVE-2021-21798](https://github.com/AIPOCAI/CVE-2021-21798)  create time: 2021-10-05T11:13:17Z
 
 **PoC for exploiting CVE-2018-16871 : A flaw was found in the Linux kernel's NFS implementation, all versions 3.x and all versions 4.x up to 4.20. An attacker, who is able to mount an exported NFS filesystem, is able to trigger a null pointer dereference by using an invalid NFS sequence. This can panic the machine and deny access to the NFS server. Any outstanding disk writes to the NFS server will be lost.** : [AlAIAL90/CVE-2018-16871](https://github.com/AlAIAL90/CVE-2018-16871)  create time: 2021-10-05T10:20:48Z
 
