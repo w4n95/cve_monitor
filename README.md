@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-05 19:19:11.911990  total: 6827 
+ > update time: 2021-10-05 20:23:07.750357  total: 6828 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Working PowerShell POC** : [OppressionBreedsResistance/CVE-2021-1675-PrintNightmare](https://github.com/OppressionBreedsResistance/CVE-2021-1675-PrintNightmare)  create time: 2021-10-05T19:24:23Z
 
 **no description** : [masahiro331/CVE-2021-41773](https://github.com/masahiro331/CVE-2021-41773)  create time: 2021-10-05T18:56:04Z
 
