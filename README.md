@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-05 20:23:07.750357  total: 6828 
+ > update time: 2021-10-05 21:21:25.254067  total: 6831 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Microsoft Office Onenote 2007 (CVE-2014-2815) ".ONEPKG" File Directory Traversal Vulnerability Leads to Arbitrary Code Execution** : [Edubr2020/CABTrap_OneNote2007](https://github.com/Edubr2020/CABTrap_OneNote2007)  create time: 2021-10-05T21:15:27Z
+
+**Poc.py** : [TishcaTpx/POC-CVE-2021-41773](https://github.com/TishcaTpx/POC-CVE-2021-41773)  create time: 2021-10-05T20:41:34Z
+
+**Exploitation of CVE-2021-41773 a Directory Traversal in Apache 2.4.49.** : [RyouYoo/CVE-2021-41773](https://github.com/RyouYoo/CVE-2021-41773)  create time: 2021-10-05T20:30:01Z
 
 **Working PowerShell POC** : [OppressionBreedsResistance/CVE-2021-1675-PrintNightmare](https://github.com/OppressionBreedsResistance/CVE-2021-1675-PrintNightmare)  create time: 2021-10-05T19:24:23Z
 
