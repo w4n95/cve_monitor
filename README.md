@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-04 22:23:26.942718  total: 6666 
+ > update time: 2021-10-05 06:27:10.161232  total: 6667 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**The plugin does not prevent HTML files from being uploaded via its form, allowing unauthenticated user to upload a malicious HTML file containing JavaScript for example, which will be triggered when someone access the file directly** : [V35HR4J/CVE-2021-24563](https://github.com/V35HR4J/CVE-2021-24563)  create time: 2021-10-05T06:21:50Z
 
 **no description** : [Opensitoo/cve-2020-0796](https://github.com/Opensitoo/cve-2020-0796)  create time: 2021-10-04T22:16:37Z
 
