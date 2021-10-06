@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-06 12:34:55.320212  total: 6844 
+ > update time: 2021-10-06 13:38:02.159330  total: 6845 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Sample exploits for Zephyr CVE-2021-3625** : [szymonh/zephyr_cve-2021-3625](https://github.com/szymonh/zephyr_cve-2021-3625)  create time: 2021-10-06T12:47:24Z
 
 **no description** : [nisdn/CVE-2021-40978](https://github.com/nisdn/CVE-2021-40978)  create time: 2021-10-04T01:36:17Z
 
