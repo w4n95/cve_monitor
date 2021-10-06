@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-06 13:38:02.159330  total: 6845 
+ > update time: 2021-10-06 14:21:53.252086  total: 6849 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-41773 的复现** : [1nhann/CVE-2021-41773](https://github.com/1nhann/CVE-2021-41773)  create time: 2021-10-06T14:17:31Z
+
+**no description** : [mohwahyudi/cve-2021-41773](https://github.com/mohwahyudi/cve-2021-41773)  create time: 2021-10-06T14:12:07Z
+
+**Path traversal and file disclosure vulnerability in Apache HTTP Server 2.4.49 (CVE-2021-41773)** : [jbovet/CVE-2021-41773](https://github.com/jbovet/CVE-2021-41773)  create time: 2021-10-06T13:39:57Z
+
+**PoC of CVE-2021-35296 - PTCL Modem HG150-Ub** : [afaq1337/CVE-2021-35296](https://github.com/afaq1337/CVE-2021-35296)  create time: 2021-09-30T18:18:27Z
 
 **Sample exploits for Zephyr CVE-2021-3625** : [szymonh/zephyr_cve-2021-3625](https://github.com/szymonh/zephyr_cve-2021-3625)  create time: 2021-10-06T12:47:24Z
 
