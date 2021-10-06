@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-06 16:31:59.177134  total: 6853 
+ > update time: 2021-10-06 20:23:58.868987  total: 6856 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [zeroc00I/CVE-2021-26085](https://github.com/zeroc00I/CVE-2021-26085)  create time: 2021-10-06T20:03:22Z
+
+**no description** : [fnatalucci/CVE-2021-41773-RCE](https://github.com/fnatalucci/CVE-2021-41773-RCE)  create time: 2021-10-06T19:50:33Z
+
+**Metasploit-Framework modules (scanner and exploit) for the CVE-2021-41773 (Path Traversal in Apache 2.4.49)** : [Zeop-CyberSec/apache_normalize_path](https://github.com/Zeop-CyberSec/apache_normalize_path)  create time: 2021-10-06T14:58:27Z
 
 **Local and Remote scan for shellshock vulnerability for Bash versions lower than 4.3.* [CVE-2014-6271].** : [0bfxgh0st/ShellShock](https://github.com/0bfxgh0st/ShellShock)  create time: 2021-10-06T15:20:40Z
 
