@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-06 03:24:20.620752  total: 6837 
+ > update time: 2021-10-06 04:29:14.117759  total: 6838 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2018-11235** : [bstanley754/demo-ptlab-2](https://github.com/bstanley754/demo-ptlab-2)  create time: 2021-10-06T04:16:14Z
 
 **no description** : [hh-hunter/cve-2021-24499](https://github.com/hh-hunter/cve-2021-24499)  create time: 2021-10-06T03:07:31Z
 
