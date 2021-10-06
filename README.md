@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-06 15:24:38.158536  total: 6851 
+ > update time: 2021-10-06 16:31:59.177134  total: 6853 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Local and Remote scan for shellshock vulnerability for Bash versions lower than 4.3.* [CVE-2014-6271].** : [0bfxgh0st/ShellShock](https://github.com/0bfxgh0st/ShellShock)  create time: 2021-10-06T15:20:40Z
+
+**no description** : [r00tVen0m/CVE-2021-41773](https://github.com/r00tVen0m/CVE-2021-41773)  create time: 2021-10-06T16:15:21Z
 
 **no description** : [BlueTeamSteve/CVE-2021-41773](https://github.com/BlueTeamSteve/CVE-2021-41773)  create time: 2021-10-06T14:47:23Z
 
