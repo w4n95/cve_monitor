@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-06 20:23:58.868987  total: 6856 
+ > update time: 2021-10-06 21:19:33.947604  total: 6857 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Denial of Service tool for Wowza Streaming Engine <= 4.8.11+5 - Uncontrolled Resource Consumption (CVE-2021-35492)** : [N4nj0/CVE-2021-35492](https://github.com/N4nj0/CVE-2021-35492)  create time: 2021-10-06T20:53:00Z
 
 **no description** : [zeroc00I/CVE-2021-26085](https://github.com/zeroc00I/CVE-2021-26085)  create time: 2021-10-06T20:03:22Z
 
