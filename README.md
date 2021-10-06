@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-06 01:09:40.445265  total: 6833 
+ > update time: 2021-10-06 02:34:20.450393  total: 6835 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-41773 POC with Docker** : [itsecurityco/CVE-2021-41773](https://github.com/itsecurityco/CVE-2021-41773)  create time: 2021-10-06T02:30:40Z
+
+**no description** : [lsass-exe/CVE-2021-41773](https://github.com/lsass-exe/CVE-2021-41773)  create time: 2021-10-06T02:28:41Z
 
 **no description** : [lorddemon/CVE-2021-41773-PoC](https://github.com/lorddemon/CVE-2021-41773-PoC)  create time: 2021-10-05T23:53:48Z
 
