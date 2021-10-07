@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-07 17:22:27.267070  total: 6860 
+ > update time: 2021-10-07 18:26:28.967748  total: 6862 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [0xAgun/CVE-2021-40870](https://github.com/0xAgun/CVE-2021-40870)  create time: 2021-10-07T17:19:12Z
+
+**Simple script realizado en bash, para revisión de múltiples hosts para CVE-2021-41773 (Apache)** : [jheeree/Simple-CVE-2021-41773-checker](https://github.com/jheeree/Simple-CVE-2021-41773-checker)  create time: 2021-10-06T23:32:30Z
 
 **no description** : [LetouRaphael/Poc-CVE-2021-41773](https://github.com/LetouRaphael/Poc-CVE-2021-41773)  create time: 2021-10-07T16:19:45Z
 
