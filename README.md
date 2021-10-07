@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-07 18:26:28.967748  total: 6862 
+ > update time: 2021-10-07 19:18:48.409279  total: 6863 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit with  integrated shodan search** : [andrea-mattioli/apache-exploit-CVE-2021-42013](https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013)  create time: 2021-10-07T18:31:29Z
 
 **no description** : [0xAgun/CVE-2021-40870](https://github.com/0xAgun/CVE-2021-40870)  create time: 2021-10-07T17:19:12Z
 
