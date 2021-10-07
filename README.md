@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-07 16:29:35.689435  total: 6858 
+ > update time: 2021-10-07 17:22:27.267070  total: 6860 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [LetouRaphael/Poc-CVE-2021-41773](https://github.com/LetouRaphael/Poc-CVE-2021-41773)  create time: 2021-10-07T16:19:45Z
+
+**Apache 2.4.49** : [AssassinUKG/CVE-2021-41773](https://github.com/AssassinUKG/CVE-2021-41773)  create time: 2021-10-06T21:37:18Z
 
 **exploit to CVE-2021-41773** : [n3k00n3/CVE-2021-41773](https://github.com/n3k00n3/CVE-2021-41773)  create time: 2021-10-06T19:39:25Z
 
