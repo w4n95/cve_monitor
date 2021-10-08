@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-08 16:35:08.073715  total: 6883 
+ > update time: 2021-10-08 22:22:40.942001  total: 6884 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Tau-hub/Firefox-CVE-2016-9079](https://github.com/Tau-hub/Firefox-CVE-2016-9079)  create time: 2021-10-08T21:44:13Z
 
 **POC** : [superzerosec/CVE-2021-41773](https://github.com/superzerosec/CVE-2021-41773)  create time: 2021-10-08T15:40:41Z
 
