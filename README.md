@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-08 05:21:52.723456  total: 6873 
+ > update time: 2021-10-08 06:26:50.127663  total: 6877 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**I have come-up with a POC for Payara Micro Community 5.2021.6 - Directory Traversal, Please refer above reference field.** : [Net-hunter121/CVE-2021-41381](https://github.com/Net-hunter121/CVE-2021-41381)  create time: 2021-10-08T05:52:20Z
+
+**Apache 2.4.50 Path traversal vulnerability** : [Vulnmachines/cve-2021-42013](https://github.com/Vulnmachines/cve-2021-42013)  create time: 2021-10-08T05:44:54Z
+
+**Unrestricted upload of file with dangerous type in Aviatrix allows an authenticated user to execute arbitrary code** : [JoyGhoshs/CVE-2021-40870](https://github.com/JoyGhoshs/CVE-2021-40870)  create time: 2021-10-08T05:35:40Z
+
+**Exploit for Apache 2.4.49** : [0xRar/CVE-2021-41773](https://github.com/0xRar/CVE-2021-41773)  create time: 2021-10-08T04:26:31Z
 
 **no description** : [pisut4152/Sigma-Rule-for-CVE-2021-41773-and-CVE-2021-42013-exploitation-attempt](https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-41773-and-CVE-2021-42013-exploitation-attempt)  create time: 2021-10-08T04:43:27Z
 
