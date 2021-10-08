@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-08 08:27:33.665675  total: 6879 
+ > update time: 2021-10-08 09:23:13.487247  total: 6881 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A Python script to check if an Apache web server is vulnerable to CVE-2021-41773** : [b1tsec/CVE-2021-41773](https://github.com/b1tsec/CVE-2021-41773)  create time: 2021-10-08T08:32:51Z
+
+**A framework for bug hunting or pentesting targeting websites that have CVE-2021-41773 Vulnerability in public** : [HightechSec/scarce-apache2](https://github.com/HightechSec/scarce-apache2)  create time: 2021-10-07T01:31:13Z
 
 **Fast python tool to test apache path traversal CVE-2021-41773 in a List of url** : [zeronine9/CVE-2021-41773](https://github.com/zeronine9/CVE-2021-41773)  create time: 2021-10-08T07:24:49Z
 
