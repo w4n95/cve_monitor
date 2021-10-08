@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-08 06:26:50.127663  total: 6877 
+ > update time: 2021-10-08 08:27:33.665675  total: 6879 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Fast python tool to test apache path traversal CVE-2021-41773 in a List of url** : [zeronine9/CVE-2021-41773](https://github.com/zeronine9/CVE-2021-41773)  create time: 2021-10-08T07:24:49Z
+
+**no description** : [ComdeyOverFlow/CVE-2021-41773](https://github.com/ComdeyOverFlow/CVE-2021-41773)  create time: 2021-10-07T12:30:13Z
 
 **I have come-up with a POC for Payara Micro Community 5.2021.6 - Directory Traversal, Please refer above reference field.** : [Net-hunter121/CVE-2021-41381](https://github.com/Net-hunter121/CVE-2021-41381)  create time: 2021-10-08T05:52:20Z
 
