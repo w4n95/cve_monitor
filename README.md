@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-08 22:22:40.942001  total: 6884 
+ > update time: 2021-10-09 02:34:32.037575  total: 6885 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apache CVE-2021-41773/2021-42013 Mass Vulnerability Checker** : [im-hanzou/apachrot](https://github.com/im-hanzou/apachrot)  create time: 2021-10-09T02:12:39Z
 
 **no description** : [Tau-hub/Firefox-CVE-2016-9079](https://github.com/Tau-hub/Firefox-CVE-2016-9079)  create time: 2021-10-08T21:44:13Z
 
