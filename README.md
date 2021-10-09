@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-09 12:33:39.156343  total: 6891 
+ > update time: 2021-10-09 16:33:10.676935  total: 6893 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**mass scan for apache 2.4.49/2.4.50** : [meicookies/cve-2021-41773_2021-42013](https://github.com/meicookies/cve-2021-41773_2021-42013)  create time: 2021-10-09T16:28:06Z
+
+**Apache 2.4.49 Path Traversal Vulnerability Checker** : [EagleTube/CVE-2021-41773](https://github.com/EagleTube/CVE-2021-41773)  create time: 2021-10-09T16:07:57Z
 
 **cve-2021-41773 即 cve-2021-42013 批量检测脚本** : [5gstudent/cve-2021-41773-and-cve-2021-42013](https://github.com/5gstudent/cve-2021-41773-and-cve-2021-42013)  create time: 2021-10-09T11:33:56Z
 
