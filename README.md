@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-09 10:24:41.715172  total: 6890 
+ > update time: 2021-10-09 12:33:39.156343  total: 6891 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**cve-2021-41773 即 cve-2021-42013 批量检测脚本** : [5gstudent/cve-2021-41773-and-cve-2021-42013](https://github.com/5gstudent/cve-2021-41773-and-cve-2021-42013)  create time: 2021-10-09T11:33:56Z
 
 **PoC for CVE-2021-3129 (Laravel)** : [knqyf263/CVE-2021-3129](https://github.com/knqyf263/CVE-2021-3129)  create time: 2021-10-01T09:09:38Z
 
