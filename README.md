@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-09 02:34:32.037575  total: 6885 
+ > update time: 2021-10-09 04:29:26.017985  total: 6887 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-41773 CVE-2021-42013漏洞批量检测工具** : [inbug-team/CVE-2021-41773_CVE-2021-42013](https://github.com/inbug-team/CVE-2021-41773_CVE-2021-42013)  create time: 2021-10-09T03:32:18Z
+
+**no description** : [KAB8345/CVE-2021-41773](https://github.com/KAB8345/CVE-2021-41773)  create time: 2021-10-09T03:21:41Z
 
 **Apache CVE-2021-41773/2021-42013 Mass Vulnerability Checker** : [im-hanzou/apachrot](https://github.com/im-hanzou/apachrot)  create time: 2021-10-09T02:12:39Z
 
