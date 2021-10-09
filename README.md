@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-09 04:29:26.017985  total: 6887 
+ > update time: 2021-10-09 05:21:10.661386  total: 6888 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Remote Code Execution POC for CVE-2020-0796** : [oxctdev/CVE-2020-0796](https://github.com/oxctdev/CVE-2020-0796)  create time: 2021-10-09T04:52:55Z
 
 **CVE-2021-41773 CVE-2021-42013漏洞批量检测工具** : [inbug-team/CVE-2021-41773_CVE-2021-42013](https://github.com/inbug-team/CVE-2021-41773_CVE-2021-42013)  create time: 2021-10-09T03:32:18Z
 
