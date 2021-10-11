@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-10 10:24:55.349055  total: 6896 
+ > update time: 2021-10-11 01:11:35.897613  total: 6897 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-41773 Grabber** : [apapedulimu/Apachuk](https://github.com/apapedulimu/Apachuk)  create time: 2021-10-11T00:57:27Z
 
 **no description** : [cgddgc/CVE-2021-41773-42013](https://github.com/cgddgc/CVE-2021-41773-42013)  create time: 2021-10-10T10:09:52Z
 
