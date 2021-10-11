@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-11 18:26:34.837696  total: 6901 
+ > update time: 2021-10-11 22:23:16.164376  total: 6904 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Unauthenticated Remote Code Execution at Woody Ad Snippets (PoC)** : [oxctdev/CVE-2019-15858](https://github.com/oxctdev/CVE-2019-15858)  create time: 2021-10-11T21:37:06Z
+
+**Chrome extension that uses vulnerabilities CVE-2021-33044 and CVE-2021-33045 to log in to Dahua cameras without authentication.** : [bp2008/DahuaLoginBypass](https://github.com/bp2008/DahuaLoginBypass)  create time: 2021-10-11T22:08:47Z
+
+**Currently on  a purple team project performing the Printernightmare also known as CVE 2021-1675: A vulnerability that allows an attacker with low access privileges to use a malicious DLL file to escalate privilege. Threat actors can only take advantage of the vulnerability if they have direct access to the vulnerable system, so Microsoft categorized it as low-risk. The June 2021 Security Updates included a successful patch for CVE 2021-1675.   remote code execution -cvs-2021-34527- A remote code execution (RCE) vulnerability that allows threat actors to remotely inject DLLs** : [Sirius-RJ/FullstackAcademy-Printernightmare-writeup-2105-E.C.A.R.](https://github.com/Sirius-RJ/FullstackAcademy-Printernightmare-writeup-2105-E.C.A.R.)  create time: 2021-10-11T21:46:24Z
 
 **C-Ark Credential Decoder for #CVE-2021-31796** : [unmanarc/CACredDecoder](https://github.com/unmanarc/CACredDecoder)  create time: 2017-04-19T06:01:08Z
 
