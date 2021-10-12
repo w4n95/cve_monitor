@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-12 14:22:02.461532  total: 6910 
+ > update time: 2021-10-12 16:34:22.170305  total: 6911 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [hoavt184/CVE-2021-22941](https://github.com/hoavt184/CVE-2021-22941)  create time: 2021-10-12T14:52:38Z
 
 **Proof of concept for Strapi CVE-2019-18818 - Unauthenticated Password Reset Vulnerability** : [Shadawks/Strapi-CVE-2019-1881](https://github.com/Shadawks/Strapi-CVE-2019-1881)  create time: 2021-10-12T14:16:17Z
 
