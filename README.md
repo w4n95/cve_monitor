@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-12 01:13:27.962747  total: 6905 
+ > update time: 2021-10-12 04:30:05.220833  total: 6906 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Windows Etw LPE** : [KaLendsi/CVE-2021-34486](https://github.com/KaLendsi/CVE-2021-34486)  create time: 2021-10-12T03:50:44Z
 
 **Path Traversal and RCE in Apache HTTP Server 2.4.49** : [0xAlmighty/CVE-2021-41773-PoC](https://github.com/0xAlmighty/CVE-2021-41773-PoC)  create time: 2021-10-12T00:51:32Z
 
