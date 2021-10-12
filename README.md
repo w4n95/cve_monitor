@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-12 16:34:22.170305  total: 6911 
+ > update time: 2021-10-12 19:19:15.124895  total: 6912 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC CVE-2021-37980 : Inappropriate implementation in Sandbox (windows only)** : [ZeusBox/CVE-2021-37980](https://github.com/ZeusBox/CVE-2021-37980)  create time: 2021-10-12T19:14:29Z
 
 **no description** : [hoavt184/CVE-2021-22941](https://github.com/hoavt184/CVE-2021-22941)  create time: 2021-10-12T14:52:38Z
 
