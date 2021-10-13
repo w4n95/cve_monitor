@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-13 02:37:29.145126  total: 6913 
+ > update time: 2021-10-13 09:22:36.346863  total: 6915 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [Hasintha-98/Sudo-Vulnerability-Exploit-CVE-2019-14287](https://github.com/Hasintha-98/Sudo-Vulnerability-Exploit-CVE-2019-14287)  create time: 2021-10-13T08:35:57Z
+
+**Keycloak 12.0.1 - 'request_uri ' Blind Server-Side Request Forgery (SSRF) (Unauthenticated)** : [ColdFusionX/Keycloak-12.0.1-CVE-2020-10770](https://github.com/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770)  create time: 2021-10-13T08:40:33Z
 
 **no description** : [IBUILI/CVE-2021-41730](https://github.com/IBUILI/CVE-2021-41730)  create time: 2021-10-13T02:12:11Z
 
