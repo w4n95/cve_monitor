@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-13 18:26:19.723442  total: 6917 
+ > update time: 2021-10-13 20:23:52.991793  total: 6918 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**VERY simple code to check if the browser is compatible or not** : [Nazky/PS4CVE202130858](https://github.com/Nazky/PS4CVE202130858)  create time: 2021-10-13T20:15:19Z
 
 **no description** : [musergi/CVE-2021-3156](https://github.com/musergi/CVE-2021-3156)  create time: 2021-10-13T17:43:51Z
 
