@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-14 02:34:25.319347  total: 6919 
+ > update time: 2021-10-14 04:29:37.853974  total: 6920 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Apache Druid 任意文件读取** : [BrucessKING/CVE-2021-36749](https://github.com/BrucessKING/CVE-2021-36749)  create time: 2021-10-14T03:47:02Z
 
 **Testing CVE-2021-30858 Rev3** : [KameleonReloaded/CVEREV3](https://github.com/KameleonReloaded/CVEREV3)  create time: 2021-10-14T01:51:39Z
 
