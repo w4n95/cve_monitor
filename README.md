@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-14 16:34:37.164711  total: 6924 
+ > update time: 2021-10-14 18:27:01.554470  total: 6925 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [dorkerdevil/CVE-2021-36749](https://github.com/dorkerdevil/CVE-2021-36749)  create time: 2021-10-14T17:30:55Z
 
 **A simple Python proof of concept for CVE-2021-38295.** : [ProfessionallyEvil/CVE-2021-38295-PoC](https://github.com/ProfessionallyEvil/CVE-2021-38295-PoC)  create time: 2021-10-14T15:45:21Z
 
