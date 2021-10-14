@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-14 04:29:37.853974  total: 6920 
+ > update time: 2021-10-14 05:21:18.178063  total: 6921 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Hi there! Thanks for testing out my first ever Github repository & implementation of an iOS webkit exploit! So you are aware: I did not discover this exploit, and I also did not write most of this. So far, I have started off with modifying existing code to begin to learn how this all works. Let me know how your experience went!** : [FitTerminator/CVE-202130858](https://github.com/FitTerminator/CVE-202130858)  create time: 2021-10-14T04:28:42Z
 
 **Apache Druid 任意文件读取** : [BrucessKING/CVE-2021-36749](https://github.com/BrucessKING/CVE-2021-36749)  create time: 2021-10-14T03:47:02Z
 
