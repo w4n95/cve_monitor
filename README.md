@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-15 19:18:57.021477  total: 6933 
+ > update time: 2021-10-15 20:24:25.967228  total: 6935 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Using curl to exploit CVE-2019-11447** : [iainr/CuteNewsRCE](https://github.com/iainr/CuteNewsRCE)  create time: 2021-10-15T20:15:41Z
+
+**no description** : [shiomiyan/CVE-2021-41773](https://github.com/shiomiyan/CVE-2021-41773)  create time: 2021-10-07T15:00:55Z
 
 **no description** : [brydennik69/First-CVE2021](https://github.com/brydennik69/First-CVE2021)  create time: 2021-10-15T18:41:36Z
 
