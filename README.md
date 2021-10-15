@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-15 11:20:18.466388  total: 6930 
+ > update time: 2021-10-15 13:28:03.061102  total: 6931 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [chinaYozz/CVE-2020-25078](https://github.com/chinaYozz/CVE-2020-25078)  create time: 2021-10-15T13:03:29Z
 
 **apache httpd path traversal checker(CVE-2021-41773 / CVE-2021-42013)** : [theLSA/apache-httpd-path-traversal-checker](https://github.com/theLSA/apache-httpd-path-traversal-checker)  create time: 2021-10-15T10:38:44Z
 
