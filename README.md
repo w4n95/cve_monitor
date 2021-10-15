@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-15 16:34:27.970896  total: 6932 
+ > update time: 2021-10-15 19:18:57.021477  total: 6933 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [brydennik69/First-CVE2021](https://github.com/brydennik69/First-CVE2021)  create time: 2021-10-15T18:41:36Z
 
 **In Visual Tools DVR VX16 4.2.28.0, an unauthenticated attacker can achieve remote command execution via shell metacharacters in the cgi-bin/slogin/login.py User-Agent HTTP header.** : [adubaldo/CVE-2021-42071](https://github.com/adubaldo/CVE-2021-42071)  create time: 2021-10-15T16:08:16Z
 
