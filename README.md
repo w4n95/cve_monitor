@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-14 21:20:24.501627  total: 6927 
+ > update time: 2021-10-15 08:26:57.220667  total: 6929 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for remote command execution in Golang go get command.** : [Devang-Solanki/CVE-2018-6574](https://github.com/Devang-Solanki/CVE-2018-6574)  create time: 2021-10-15T08:02:02Z
+
+**no description** : [koharin/CVE-2020-0041](https://github.com/koharin/CVE-2020-0041)  create time: 2021-09-10T08:01:54Z
 
 **no description** : [FitTerminator/PS4-CVE-202130858](https://github.com/FitTerminator/PS4-CVE-202130858)  create time: 2021-10-14T20:30:11Z
 
