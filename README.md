@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-15 22:22:48.900178  total: 6937 
+ > update time: 2021-10-16 01:17:13.710238  total: 6938 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Little thing put together quickly to demonstrate this CVE** : [0xAJ2K/CVE-2020-11022-CVE-2020-11023](https://github.com/0xAJ2K/CVE-2020-11022-CVE-2020-11023)  create time: 2021-10-16T01:10:33Z
 
 **The first vulnerability with the CVE identifier CVE-2021-41773 is a path traversal flaw that exists in Apache HTTP Server 2.4.49.** : [LudovicPatho/CVE-2021-41773](https://github.com/LudovicPatho/CVE-2021-41773)  create time: 2021-10-15T21:38:48Z
 
