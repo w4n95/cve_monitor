@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-16 02:41:00.965382  total: 6940 
+ > update time: 2021-10-16 09:22:26.681426  total: 6941 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**TIC4301 Project - CVE-2021-40444** : [factionsypho/TIC4301_Project](https://github.com/factionsypho/TIC4301_Project)  create time: 2021-10-16T07:07:26Z
 
 **no description** : [anonsecteaminc/CVE-2020-5902-Scanner](https://github.com/anonsecteaminc/CVE-2020-5902-Scanner)  create time: 2021-10-16T02:10:03Z
 
