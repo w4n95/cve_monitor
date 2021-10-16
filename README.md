@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-16 09:22:26.681426  total: 6941 
+ > update time: 2021-10-16 16:32:22.147187  total: 6944 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2020-10770 for nuclei** : [CrowX500x0/CVE-2020-10770](https://github.com/CrowX500x0/CVE-2020-10770)  create time: 2021-10-16T15:54:38Z
+
+**PoC (DoS) for CVE-2021-40449 - Win32k Elevation of Privilege Vulnerability (LPE)** : [ollypwn/CallbackHell](https://github.com/ollypwn/CallbackHell)  create time: 2021-10-16T16:17:44Z
+
+**Simple honeypot for CVE-2021-41773 vulnerability** : [lopqto/CVE-2021-41773_Honeypot](https://github.com/lopqto/CVE-2021-41773_Honeypot)  create time: 2021-10-16T15:30:34Z
 
 **TIC4301 Project - CVE-2021-40444** : [factionsypho/TIC4301_Project](https://github.com/factionsypho/TIC4301_Project)  create time: 2021-10-16T07:07:26Z
 
