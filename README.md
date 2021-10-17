@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-17 14:20:55.830959  total: 6948 
+ > update time: 2021-10-17 17:25:02.878642  total: 6949 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [acm-iem/CVE-2019-17662](https://github.com/acm-iem/CVE-2019-17662)  create time: 2021-10-17T16:30:29Z
 
 **Python implementation for PrintNightmare (CVE-2021-1675 / CVE-2021-34527)** : [ly4k/PrintNightmare](https://github.com/ly4k/PrintNightmare)  create time: 2021-09-26T13:53:10Z
 
