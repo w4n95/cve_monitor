@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-18 10:26:25.145022  total: 6955 
+ > update time: 2021-10-18 12:35:47.584539  total: 6956 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [vulf/CVE-2021-41773_42013](https://github.com/vulf/CVE-2021-41773_42013)  create time: 2021-10-18T12:01:58Z
 
 **no description** : [huydoppa/CVE-2018-15133](https://github.com/huydoppa/CVE-2018-15133)  create time: 2021-10-18T09:23:05Z
 
