@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-18 02:38:53.926752  total: 6951 
+ > update time: 2021-10-18 07:22:47.193675  total: 6953 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit For CVE-2019-17662** : [acm-iem/CVE-2019-17662-Exploit](https://github.com/acm-iem/CVE-2019-17662-Exploit)  create time: 2021-10-18T06:51:06Z
+
+**CVE-2021-36260** : [rabbitsafe/CVE-2021-36260](https://github.com/rabbitsafe/CVE-2021-36260)  create time: 2021-10-18T06:40:48Z
 
 **no description** : [xiaojiangxl/CVE-2021-40438](https://github.com/xiaojiangxl/CVE-2021-40438)  create time: 2021-10-18T02:02:43Z
 
