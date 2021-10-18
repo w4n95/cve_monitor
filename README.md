@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-18 12:35:47.584539  total: 6956 
+ > update time: 2021-10-18 16:36:00.532063  total: 6957 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Dahua   IPC/VTH/VTO devices auth bypass exploit** : [dorkerdevil/CVE-2021-33044](https://github.com/dorkerdevil/CVE-2021-33044)  create time: 2021-10-18T16:02:41Z
 
 **no description** : [vulf/CVE-2021-41773_42013](https://github.com/vulf/CVE-2021-41773_42013)  create time: 2021-10-18T12:01:58Z
 
