@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-19 08:26:47.719048  total: 6962 
+ > update time: 2021-10-19 10:26:25.203736  total: 6963 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**此项目为复现CVE-2020-13933 shiro漏洞所搭建的简易springboot+shiro项目** : [kunFeng1998/CVE-2020-13933Project](https://github.com/kunFeng1998/CVE-2020-13933Project)  create time: 2021-10-19T09:33:46Z
 
 **If an authenticated user who is able to edit Wordpress PHP code in any kind, clicks a malicious link, PHP code can be edited through XSS in Formidable Forms 4.09.04.** : [S1lkys/CVE-2021-24884](https://github.com/S1lkys/CVE-2021-24884)  create time: 2021-10-18T16:37:08Z
 
