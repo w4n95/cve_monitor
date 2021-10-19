@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-19 10:26:25.203736  total: 6963 
+ > update time: 2021-10-19 19:19:19.385085  total: 6964 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2019-3980 exploit written in win32/c++ (openssl dependency). Port of https://github.com/tenable/poc/blob/master/Solarwinds/Dameware/dwrcs_dwDrvInst_rce.py** : [Barbarisch/CVE-2019-3980](https://github.com/Barbarisch/CVE-2019-3980)  create time: 2021-10-19T18:28:47Z
 
 **此项目为复现CVE-2020-13933 shiro漏洞所搭建的简易springboot+shiro项目** : [kunFeng1998/CVE-2020-13933Project](https://github.com/kunFeng1998/CVE-2020-13933Project)  create time: 2021-10-19T09:33:46Z
 
