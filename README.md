@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-20 02:36:42.339747  total: 6965 
+ > update time: 2021-10-20 08:27:37.556340  total: 6967 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Just a simple CVE-2021-31166 exploit tool** : [ConMiko/CVE-2021-31166-exploit](https://github.com/ConMiko/CVE-2021-31166-exploit)  create time: 2021-10-20T07:37:46Z
+
+**CVE-2021-3156 exploit** : [Bubleh21/CVE-2021-3156](https://github.com/Bubleh21/CVE-2021-3156)  create time: 2021-10-20T07:34:53Z
 
 **CVE-2021-41773 Docker lab** : [cloudbyteelias/CVE-2021-41773](https://github.com/cloudbyteelias/CVE-2021-41773)  create time: 2021-10-20T01:20:21Z
 
