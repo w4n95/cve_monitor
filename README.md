@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-20 10:25:48.568814  total: 6968 
+ > update time: 2021-10-20 12:35:53.828850  total: 6971 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [ItsFadinG/CVE-2018-6574](https://github.com/ItsFadinG/CVE-2018-6574)  create time: 2021-10-20T12:04:56Z
+
+**no description** : [robotserves/CVE-2021-40449-Exploit](https://github.com/robotserves/CVE-2021-40449-Exploit)  create time: 2021-10-20T12:04:52Z
+
+**no description** : [qwutony/CVE-2021-41773](https://github.com/qwutony/CVE-2021-41773)  create time: 2021-10-20T11:27:12Z
 
 **windows 10 14393 LPE** : [KaLendsi/CVE-2021-40449-Exploit](https://github.com/KaLendsi/CVE-2021-40449-Exploit)  create time: 2021-10-20T09:24:36Z
 
