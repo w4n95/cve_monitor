@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-21 16:45:11.458483  total: 6978 
+ > update time: 2021-10-21 21:20:54.480211  total: 6979 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**nxlog ubuntu CVE-2020-35488** : [githubfoam/nxlog-ubuntu-githubactions](https://github.com/githubfoam/nxlog-ubuntu-githubactions)  create time: 2021-10-12T18:25:17Z
 
 **A bash script that attempts to flood a server with TLS renegotiations by using the openssl client.  See CVE-2011-1473 and CVE-2011-1473 for details.** : [XDLDCG/bash-tls-reneg-attack](https://github.com/XDLDCG/bash-tls-reneg-attack)  create time: 2019-08-28T02:17:27Z
 
