@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-21 10:25:28.948807  total: 6975 
+ > update time: 2021-10-21 12:35:39.442038  total: 6977 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [ItsFadinG/CVE-2018-11235](https://github.com/ItsFadinG/CVE-2018-11235)  create time: 2021-10-21T12:12:16Z
+
+**For IS713 Project** : [sinjeanmin/cvedetails_2020](https://github.com/sinjeanmin/cvedetails_2020)  create time: 2021-10-21T11:31:24Z
 
 **CVE 2021 40444 Windows Exploit services.dll** : [kal1gh0st/CVE-2021-40444_CAB_archives](https://github.com/kal1gh0st/CVE-2021-40444_CAB_archives)  create time: 2021-09-24T10:59:34Z
 
