@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-21 21:20:54.480211  total: 6979 
+ > update time: 2021-10-22 04:29:58.767115  total: 6980 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [scopion/CVE-2017-3241](https://github.com/scopion/CVE-2017-3241)  create time: 2021-10-22T03:39:01Z
 
 **nxlog ubuntu CVE-2020-35488** : [githubfoam/nxlog-ubuntu-githubactions](https://github.com/githubfoam/nxlog-ubuntu-githubactions)  create time: 2021-10-12T18:25:17Z
 
