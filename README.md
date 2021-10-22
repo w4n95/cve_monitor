@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-22 04:29:58.767115  total: 6980 
+ > update time: 2021-10-22 07:22:19.959972  total: 6981 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**h2-jdbc(https://github.com/h2database/h2database/issues/3195) & mysql-jdbc(CVE-2021-2471) SQLXML XXE vulnerability reduce.** : [SecCoder-Security-Lab/jdbc-sqlxml-xxe](https://github.com/SecCoder-Security-Lab/jdbc-sqlxml-xxe)  create time: 2021-10-22T07:14:25Z
 
 **no description** : [scopion/CVE-2017-3241](https://github.com/scopion/CVE-2017-3241)  create time: 2021-10-22T03:39:01Z
 
