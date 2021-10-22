@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-22 16:34:32.473876  total: 6983 
+ > update time: 2021-10-22 19:19:21.247564  total: 6984 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for CVE-2021-2471 - XXE in MySQL Connector/J** : [DrunkenShells/CVE-2021-2471](https://github.com/DrunkenShells/CVE-2021-2471)  create time: 2021-10-22T17:59:16Z
 
 **no description** : [cckuailong/CVE-2021-2471](https://github.com/cckuailong/CVE-2021-2471)  create time: 2021-10-22T15:36:38Z
 
