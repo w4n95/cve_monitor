@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-23 03:24:33.080708  total: 6987 
+ > update time: 2021-10-23 22:22:33.924731  total: 6989 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Poc CVE-2021-42013 - Apache 2.4.50 without CGI** : [TheLastVvV/CVE-2021-42013](https://github.com/TheLastVvV/CVE-2021-42013)  create time: 2021-10-23T21:58:44Z
+
+**Poc CVE 2021-41773 - Apache 2.4.49 with CGI enabled** : [TheLastVvV/CVE-2021-41773](https://github.com/TheLastVvV/CVE-2021-41773)  create time: 2021-10-23T21:37:25Z
 
 **no description** : [engkikarnando/cvengki.html-2021](https://github.com/engkikarnando/cvengki.html-2021)  create time: 2021-10-23T03:01:42Z
 
