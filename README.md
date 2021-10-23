@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-22 20:24:23.117626  total: 6985 
+ > update time: 2021-10-23 02:38:44.076604  total: 6986 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**SolarWinds Orion Platform ActionPluginBaseView 反序列化RCE** : [Y4er/CVE-2021-35215](https://github.com/Y4er/CVE-2021-35215)  create time: 2021-10-23T01:35:42Z
 
 **no description** : [aravinddathd/CVE-2018-1123](https://github.com/aravinddathd/CVE-2018-1123)  create time: 2021-10-22T19:36:29Z
 
