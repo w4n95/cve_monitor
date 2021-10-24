@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-24 11:19:58.579050  total: 6991 
+ > update time: 2021-10-24 13:26:35.273426  total: 6992 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC CVE-2021-42013 reverse shell Apache 2.4.50 with CGI** : [TheLastVvV/CVE-2021-42013_Reverse-Shell](https://github.com/TheLastVvV/CVE-2021-42013_Reverse-Shell)  create time: 2021-10-24T12:57:55Z
 
 **CVE-2021-41773 is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.49** : [walnutsecurity/cve-2021-41773](https://github.com/walnutsecurity/cve-2021-41773)  create time: 2021-10-23T12:31:53Z
 
