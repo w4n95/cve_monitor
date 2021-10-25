@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-25 06:28:07.762529  total: 6998 
+ > update time: 2021-10-25 14:22:41.956452  total: 6999 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Google Chrome Vulnerabilities CVE-2021-30573** : [oxctdev/CVE-2021-30573](https://github.com/oxctdev/CVE-2021-30573)  create time: 2021-10-25T13:25:23Z
 
 **My exploit for CVE-2021-40449, a Windows LPE via a UAF in win32kfull!GreResetDCInternal.** : [hakivvi/CVE-2021-40449](https://github.com/hakivvi/CVE-2021-40449)  create time: 2021-10-25T04:58:49Z
 
