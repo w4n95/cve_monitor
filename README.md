@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-25 03:24:57.312601  total: 6996 
+ > update time: 2021-10-25 05:21:30.987830  total: 6997 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A Zeek package which raises notices for Path Traversal/RCE in Apache HTTP Server 2.4.49 (CVE-2021-41773) and 2.4.50 (CVE-2021-42013)** : [corelight/CVE-2021-41773](https://github.com/corelight/CVE-2021-41773)  create time: 2021-10-08T06:54:27Z
 
 **no description** : [Jun-5heng/CVE-2021-26084](https://github.com/Jun-5heng/CVE-2021-26084)  create time: 2021-10-25T03:07:28Z
 
