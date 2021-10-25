@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-25 16:34:35.392058  total: 7000 
+ > update time: 2021-10-25 18:26:28.366229  total: 7001 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [MazX0p/CVE-2021-41773](https://github.com/MazX0p/CVE-2021-41773)  create time: 2021-10-25T18:21:43Z
 
 **A python script intended to automate the exploitation of the ShellSchock vulnerability (CVE-2014-6271)** : [alexphiliotis/ShellShock](https://github.com/alexphiliotis/ShellShock)  create time: 2021-10-25T16:13:48Z
 
