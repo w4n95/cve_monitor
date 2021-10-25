@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-25 05:21:30.987830  total: 6997 
+ > update time: 2021-10-25 06:28:07.762529  total: 6998 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**My exploit for CVE-2021-40449, a Windows LPE via a UAF in win32kfull!GreResetDCInternal.** : [hakivvi/CVE-2021-40449](https://github.com/hakivvi/CVE-2021-40449)  create time: 2021-10-25T04:58:49Z
 
 **A Zeek package which raises notices for Path Traversal/RCE in Apache HTTP Server 2.4.49 (CVE-2021-41773) and 2.4.50 (CVE-2021-42013)** : [corelight/CVE-2021-41773](https://github.com/corelight/CVE-2021-41773)  create time: 2021-10-08T06:54:27Z
 
