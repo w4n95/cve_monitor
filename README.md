@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-26 10:26:26.455150  total: 7009 
+ > update time: 2021-10-26 18:27:09.787141  total: 7010 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Remote Code Execution exploit for Apache servers. Affected versions: Apache 2.4.49, Apache 2.4.50** : [mr-exo/CVE-2021-41773](https://github.com/mr-exo/CVE-2021-41773)  create time: 2021-10-26T17:56:25Z
 
 **no description** : [SECFORCE/CVE-2021-37748](https://github.com/SECFORCE/CVE-2021-37748)  create time: 2021-10-25T12:16:41Z
 
