@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-27 12:35:40.602474  total: 7017 
+ > update time: 2021-10-27 15:24:51.682478  total: 7018 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**cve-2021-42013.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50** : [walnutsecurity/CVE-2021-42013](https://github.com/walnutsecurity/CVE-2021-42013)  create time: 2021-10-27T14:29:10Z
 
 **no description** : [b1tg/CVE-2021-34486-exp](https://github.com/b1tg/CVE-2021-34486-exp)  create time: 2021-10-27T11:39:08Z
 
