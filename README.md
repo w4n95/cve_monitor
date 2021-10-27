@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-27 16:34:35.794234  total: 7019 
+ > update time: 2021-10-27 20:24:16.913200  total: 7020 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Information about CVE-2021-41728, a reflected XSS in the search function.** : [Dir0x/CVE-2021-41728](https://github.com/Dir0x/CVE-2021-41728)  create time: 2021-10-27T20:04:12Z
 
 **command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands.** : [Aiminsun/CVE-2021-36260](https://github.com/Aiminsun/CVE-2021-36260)  create time: 2021-10-27T15:51:12Z
 
