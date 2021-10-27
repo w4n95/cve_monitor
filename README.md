@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-27 15:24:51.682478  total: 7018 
+ > update time: 2021-10-27 16:34:35.794234  total: 7019 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation, attacker can exploit the vulnerability to launch a command injection attack by sending some messages with malicious commands.** : [Aiminsun/CVE-2021-36260](https://github.com/Aiminsun/CVE-2021-36260)  create time: 2021-10-27T15:51:12Z
 
 **cve-2021-42013.py is a python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50** : [walnutsecurity/CVE-2021-42013](https://github.com/walnutsecurity/CVE-2021-42013)  create time: 2021-10-27T14:29:10Z
 
