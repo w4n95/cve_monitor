@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-27 20:24:16.913200  total: 7020 
+ > update time: 2021-10-28 04:30:05.172542  total: 7021 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**批量扫描CVE-2020-0796** : [F6JO/CVE-2020-0796-Batch-scanning](https://github.com/F6JO/CVE-2020-0796-Batch-scanning)  create time: 2021-10-28T03:39:03Z
 
 **Information about CVE-2021-41728, a reflected XSS in the search function.** : [Dir0x/CVE-2021-41728](https://github.com/Dir0x/CVE-2021-41728)  create time: 2021-10-27T20:04:12Z
 
