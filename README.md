@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-28 04:30:05.172542  total: 7021 
+ > update time: 2021-10-28 05:22:22.572987  total: 7022 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Something about CVE-2020-0668** : [ycdxsb/CVE-2020-0668](https://github.com/ycdxsb/CVE-2020-0668)  create time: 2021-10-28T05:15:48Z
 
 **批量扫描CVE-2020-0796** : [F6JO/CVE-2020-0796-Batch-scanning](https://github.com/F6JO/CVE-2020-0796-Batch-scanning)  create time: 2021-10-28T03:39:03Z
 
