@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-28 06:27:57.422805  total: 7023 
+ > update time: 2021-10-28 07:22:32.882694  total: 7025 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [RobertDra/CVE-2021-31862](https://github.com/RobertDra/CVE-2021-31862)  create time: 2021-10-28T07:18:01Z
+
+**Pocsuite3 For CVE-2021-22205** : [RedTeamWing/CVE-2021-22205](https://github.com/RedTeamWing/CVE-2021-22205)  create time: 2021-10-28T06:29:37Z
 
 **Something about CVE-2020-0668** : [ycdxsb/CVE-2020-0668](https://github.com/ycdxsb/CVE-2020-0668)  create time: 2021-10-28T05:30:14Z
 
