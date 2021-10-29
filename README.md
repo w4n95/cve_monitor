@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-29 02:34:25.695018  total: 7030 
+ > update time: 2021-10-29 04:30:46.977766  total: 7031 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Gitlab RCE 未授权远程代码执行漏洞** : [antx-code/CVE-2021-22205](https://github.com/antx-code/CVE-2021-22205)  create time: 2021-10-29T04:15:00Z
 
 **Exploit of CVE-2017-7529** : [rajesh457/CVE-2017-7529](https://github.com/rajesh457/CVE-2017-7529)  create time: 2021-10-29T01:08:23Z
 
