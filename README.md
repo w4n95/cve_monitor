@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-29 12:35:32.262593  total: 7034 
+ > update time: 2021-10-29 14:22:10.336570  total: 7035 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Post authenticated stored-xss in XenForo versions ≤ 2.2.7** : [SakuraSamuraii/CVE-2021-43032](https://github.com/SakuraSamuraii/CVE-2021-43032)  create time: 2021-10-29T14:09:44Z
 
 **no description** : [p0dalirius/CVE-2016-10956_mail_masta](https://github.com/p0dalirius/CVE-2016-10956_mail_masta)  create time: 2021-10-29T12:31:21Z
 
