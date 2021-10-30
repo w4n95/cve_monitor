@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-30 13:26:19.251607  total: 7051 
+ > update time: 2021-10-30 16:33:28.656281  total: 7052 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2019-9729. Transferred from https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation** : [timeowilliamsq/HyperSine](https://github.com/timeowilliamsq/HyperSine)  create time: 2021-10-30T15:56:37Z
 
 **no description** : [anaCvetkovic1234/Ana-Cvetkovic-0427-2018-Bunus2](https://github.com/anaCvetkovic1234/Ana-Cvetkovic-0427-2018-Bunus2)  create time: 2021-10-30T12:37:28Z
 
