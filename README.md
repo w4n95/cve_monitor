@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-31 09:23:36.521012  total: 7057 
+ > update time: 2021-10-31 15:24:31.680944  total: 7058 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-22205 RCE** : [c0okB/CVE-2021-22205](https://github.com/c0okB/CVE-2021-22205)  create time: 2021-10-31T14:34:51Z
 
 **POC Jamovi <=1.6.18 is affected by a cross-site scripting (XSS) vulnerability. The column-name is vulnerable to XSS in the ElectronJS Framework. An attacker can make a .omv (Jamovi) document containing a payload. When opened by victim, the payload is triggered.** : [g33xter/CVE-2021-28079](https://github.com/g33xter/CVE-2021-28079)  create time: 2021-10-31T08:29:53Z
 
