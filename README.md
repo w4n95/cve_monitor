@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-31 02:36:39.708986  total: 7055 
+ > update time: 2021-10-31 04:30:09.549286  total: 7056 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-22205漏洞检测** : [Seals6/CVE-2021-22205](https://github.com/Seals6/CVE-2021-22205)  create time: 2021-10-31T04:15:30Z
 
 **have a test** : [ohnonoyesyes/CVE-2021-20837](https://github.com/ohnonoyesyes/CVE-2021-20837)  create time: 2021-10-31T01:37:10Z
 
