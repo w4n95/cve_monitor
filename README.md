@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-01 04:30:42.212737  total: 7060 
+ > update time: 2021-11-01 05:22:29.280299  total: 7061 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Windows HTTP协议栈远程代码执行漏洞 CVE-2021-31166** : [antx-code/CVE-2021-31166](https://github.com/antx-code/CVE-2021-31166)  create time: 2021-09-27T05:56:45Z
 
 **Gitlab CI Lint API未授权 SSRF漏洞 CVE-2021-22214** : [antx-code/CVE-2021-22214](https://github.com/antx-code/CVE-2021-22214)  create time: 2021-11-01T04:04:42Z
 
