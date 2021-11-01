@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-10-31 15:24:31.680944  total: 7058 
+ > update time: 2021-11-01 04:30:42.212737  total: 7060 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Gitlab CI Lint API未授权 SSRF漏洞 CVE-2021-22214** : [antx-code/CVE-2021-22214](https://github.com/antx-code/CVE-2021-22214)  create time: 2021-11-01T04:04:42Z
+
+**personal** : [b3tterm4n/CVE-2021-22205](https://github.com/b3tterm4n/CVE-2021-22205)  create time: 2021-10-29T09:09:45Z
 
 **CVE-2021-22205 RCE** : [c0okB/CVE-2021-22205](https://github.com/c0okB/CVE-2021-22205)  create time: 2021-10-31T14:34:51Z
 
