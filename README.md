@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-01 08:28:10.308687  total: 7064 
+ > update time: 2021-11-01 13:29:16.410989  total: 7065 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [shiomiyan/CVE-2021-42574](https://github.com/shiomiyan/CVE-2021-42574)  create time: 2021-11-01T13:05:48Z
 
 **no description** : [Qclover/Gitlab_RCE_CVE_2021_2205](https://github.com/Qclover/Gitlab_RCE_CVE_2021_2205)  create time: 2021-11-01T07:38:45Z
 
