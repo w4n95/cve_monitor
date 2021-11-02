@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-02 15:25:09.878008  total: 7070 
+ > update time: 2021-11-02 16:35:04.704391  total: 7072 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Generate malicious files using recently published bidi-attack (CVE-2021-42574)** : [js-on/CVE-2021-42574](https://github.com/js-on/CVE-2021-42574)  create time: 2021-11-02T15:32:38Z
+
+**no description** : [josebarahona1895/cvenlinea2021](https://github.com/josebarahona1895/cvenlinea2021)  create time: 2021-07-23T18:38:22Z
 
 **Applications that reproduce CVE-2021-22119** : [mari6274/oauth-client-exploit](https://github.com/mari6274/oauth-client-exploit)  create time: 2021-11-02T15:16:24Z
 
