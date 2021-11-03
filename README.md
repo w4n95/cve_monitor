@@ -1,9 +1,15 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-03 16:36:04.179930  total: 7085 
+ > update time: 2021-11-03 18:27:55.019786  total: 7088 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Information about CVE-2021-43141, a reflected XSS in the plan_application section.** : [Dir0x/CVE-2021-43141](https://github.com/Dir0x/CVE-2021-43141)  create time: 2021-11-03T17:51:29Z
+
+**SQL injection vulnerability in login exists in Sourcecodester Simple Subscription Website.** : [Dir0x/CVE-2021-43140](https://github.com/Dir0x/CVE-2021-43140)  create time: 2021-11-03T17:39:22Z
+
+**Exploit Apache 2.4.50(CVE-2021-42013)** : [robotsense1337/CVE-2021-42013](https://github.com/robotsense1337/CVE-2021-42013)  create time: 2021-11-03T17:33:52Z
 
 **cve-2020-0022** : [devdanqtuan/poc-for-cve-2020-0022](https://github.com/devdanqtuan/poc-for-cve-2020-0022)  create time: 2021-11-03T15:48:53Z
 
