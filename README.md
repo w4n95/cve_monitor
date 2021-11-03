@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-03 05:22:07.436184  total: 7074 
+ > update time: 2021-11-03 06:27:56.180662  total: 7075 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**WordPress Plugin HTML Author Bio description XSS** : [dnr6419/CVE-2021-24545](https://github.com/dnr6419/CVE-2021-24545)  create time: 2021-11-03T05:41:46Z
 
 **fuel CMS 1.4.1 - Remote Code Execution** : [Trushal2004/CVE-2018-16763](https://github.com/Trushal2004/CVE-2018-16763)  create time: 2021-11-03T04:38:54Z
 
