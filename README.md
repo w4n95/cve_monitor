@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-02 21:21:17.691604  total: 7073 
+ > update time: 2021-11-03 05:22:07.436184  total: 7074 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**fuel CMS 1.4.1 - Remote Code Execution** : [Trushal2004/CVE-2018-16763](https://github.com/Trushal2004/CVE-2018-16763)  create time: 2021-11-03T04:38:54Z
 
 **Generate malicious files using recently published homoglyphic-attack (CVE-2021-42694)** : [js-on/CVE-2021-42694](https://github.com/js-on/CVE-2021-42694)  create time: 2021-11-02T20:39:47Z
 
