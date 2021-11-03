@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-03 18:27:55.019786  total: 7088 
+ > update time: 2021-11-03 20:24:35.318579  total: 7089 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**It is a simple tool to exploit local file include . vulnerabilities** : [Adel-kaka-dz/CVE-2006-3392](https://github.com/Adel-kaka-dz/CVE-2006-3392)  create time: 2021-11-03T19:51:31Z
 
 **Information about CVE-2021-43141, a reflected XSS in the plan_application section.** : [Dir0x/CVE-2021-43141](https://github.com/Dir0x/CVE-2021-43141)  create time: 2021-11-03T17:51:29Z
 
