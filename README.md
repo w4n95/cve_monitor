@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-03 15:25:14.960602  total: 7084 
+ > update time: 2021-11-03 16:36:04.179930  total: 7085 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**cve-2020-0022** : [devdanqtuan/poc-for-cve-2020-0022](https://github.com/devdanqtuan/poc-for-cve-2020-0022)  create time: 2021-11-03T15:48:53Z
 
 **PoC for CVE-2015-1635 / MS15-034 - HTTP.sys Allows Remote Code Execution / Check & DOS** : [nksf7/CVE-2015-1635](https://github.com/nksf7/CVE-2015-1635)  create time: 2021-11-03T14:50:55Z
 
