@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-03 13:28:19.345398  total: 7082 
+ > update time: 2021-11-03 15:25:14.960602  total: 7084 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for CVE-2015-1635 / MS15-034 - HTTP.sys Allows Remote Code Execution / Check & DOS** : [nksf7/CVE-2015-1635](https://github.com/nksf7/CVE-2015-1635)  create time: 2021-11-03T14:50:55Z
+
+**Directory Traversal in Afterlogic webmail aurora and pro** : [dorkerdevil/CVE-2021-26294](https://github.com/dorkerdevil/CVE-2021-26294)  create time: 2021-11-03T14:32:13Z
 
 **no description** : [guidepointsecurity/CVE-2021-29156](https://github.com/guidepointsecurity/CVE-2021-29156)  create time: 2021-11-03T13:21:50Z
 
