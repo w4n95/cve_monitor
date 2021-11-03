@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-03 06:27:56.180662  total: 7075 
+ > update time: 2021-11-03 08:27:23.227820  total: 7077 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Test vulnerability of CVE-2020-3452** : [Aviksaikat/CVE-2020-3452](https://github.com/Aviksaikat/CVE-2020-3452)  create time: 2021-11-03T07:27:14Z
+
+**the metasploit script(POC) about CVE-2021-36260** : [TaroballzChen/CVE-2021-36260-metasploit](https://github.com/TaroballzChen/CVE-2021-36260-metasploit)  create time: 2021-11-03T08:11:49Z
 
 **WordPress Plugin HTML Author Bio description XSS** : [dnr6419/CVE-2021-24545](https://github.com/dnr6419/CVE-2021-24545)  create time: 2021-11-03T05:41:46Z
 
