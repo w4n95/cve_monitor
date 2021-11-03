@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-03 20:24:35.318579  total: 7089 
+ > update time: 2021-11-03 22:22:32.389506  total: 7090 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-42662 - Stored Cross-Site Scripting vulnerability in the Online event booking and reservation system.** : [TheHackingRabbi/CVE-2021-42662](https://github.com/TheHackingRabbi/CVE-2021-42662)  create time: 2021-11-03T17:51:55Z
 
 **It is a simple tool to exploit local file include . vulnerabilities** : [Adel-kaka-dz/CVE-2006-3392](https://github.com/Adel-kaka-dz/CVE-2006-3392)  create time: 2021-11-03T19:51:31Z
 
