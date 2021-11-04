@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-04 02:36:33.806858  total: 7091 
+ > update time: 2021-11-04 09:24:18.578582  total: 7092 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-22205& GitLab CE/EE RCE** : [devdanqtuan/CVE-2021-22205](https://github.com/devdanqtuan/CVE-2021-22205)  create time: 2021-11-04T09:01:07Z
 
 **no description** : [zkhalidul/GrabberWP-CVE-2017-5487](https://github.com/zkhalidul/GrabberWP-CVE-2017-5487)  create time: 2021-11-04T02:25:57Z
 
