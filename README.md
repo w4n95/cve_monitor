@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-04 15:25:19.816717  total: 7094 
+ > update time: 2021-11-04 18:27:33.338623  total: 7095 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A list of CVEs patched and unpatched in 2021.** : [xbdmdev/0days-In-The-Wild](https://github.com/xbdmdev/0days-In-The-Wild)  create time: 2021-11-04T17:42:01Z
 
 **Modification of gitlab exploit anything under 13.10** : [ph-arm/CVE-2021-22204-Gitlab](https://github.com/ph-arm/CVE-2021-22204-Gitlab)  create time: 2021-11-04T14:31:02Z
 
