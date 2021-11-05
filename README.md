@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-05 17:27:25.575838  total: 7110 
+ > update time: 2021-11-05 18:27:53.905280  total: 7111 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Pickle Serialization Remote Code Execution - Memcached Poisoning** : [CarlosG13/CVE-2021-33026](https://github.com/CarlosG13/CVE-2021-33026)  create time: 2021-11-05T18:11:54Z
 
 **Exploit for GitLab CVE-2021-22205 Unauthenticated Remote Code Execution** : [runsel/GitLab-CVE-2021-22205-](https://github.com/runsel/GitLab-CVE-2021-22205-)  create time: 2021-11-05T16:56:06Z
 
