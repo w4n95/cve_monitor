@@ -1,9 +1,27 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-05 09:23:40.574755  total: 7099 
+ > update time: 2021-11-05 11:20:45.240459  total: 7108 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-42671 - Broken access control vulnerability in the Engineers online portal system.** : [TheHackingRabbi/CVE-2021-42671](https://github.com/TheHackingRabbi/CVE-2021-42671)  create time: 2021-11-03T21:34:23Z
+
+**CVE-2021-42670 - SQL Injection vulnerability in the Engineers online portal system.** : [TheHackingRabbi/CVE-2021-42670](https://github.com/TheHackingRabbi/CVE-2021-42670)  create time: 2021-11-03T21:25:43Z
+
+**CVE-2021-42669 - Remote code execution via unrestricted file upload vulnerability in the Engineers online portal system.** : [TheHackingRabbi/CVE-2021-42669](https://github.com/TheHackingRabbi/CVE-2021-42669)  create time: 2021-11-03T20:52:08Z
+
+**CVE-2021-42668 - SQL Injection vulnerability in the Engineers online portal system.** : [TheHackingRabbi/CVE-2021-42668](https://github.com/TheHackingRabbi/CVE-2021-42668)  create time: 2021-11-03T20:43:30Z
+
+**CVE-2021-42667 - SQL Injection vulnerability in the Online event booking and reservation system.** : [TheHackingRabbi/CVE-2021-42667](https://github.com/TheHackingRabbi/CVE-2021-42667)  create time: 2021-11-03T20:31:30Z
+
+**CVE-2021-42666 - SQL Injection vulnerability in the Engineers online portal system.** : [TheHackingRabbi/CVE-2021-42666](https://github.com/TheHackingRabbi/CVE-2021-42666)  create time: 2021-11-03T20:14:58Z
+
+**CVE-2021-42665 - SQL Injection authentication bypass vulnerability in the Engineers online portal system.** : [TheHackingRabbi/CVE-2021-42665](https://github.com/TheHackingRabbi/CVE-2021-42665)  create time: 2021-11-03T19:58:58Z
+
+**CVE-2021-42664 - Stored Cross-Site Scripting vulnerability in the Engineers online portal system.** : [TheHackingRabbi/CVE-2021-42664](https://github.com/TheHackingRabbi/CVE-2021-42664)  create time: 2021-11-03T19:29:57Z
+
+**CVE-2021-42663 - HTML Injection vulnerability in the Online event booking and reservation system.** : [TheHackingRabbi/CVE-2021-42663](https://github.com/TheHackingRabbi/CVE-2021-42663)  create time: 2021-11-03T18:49:28Z
 
 **no description** : [Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc](https://github.com/Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc)  create time: 2021-11-05T03:18:46Z
 
