@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-05 03:24:58.090555  total: 7097 
+ > update time: 2021-11-05 06:27:24.399507  total: 7098 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [hh-hunter/cve-2021-22205](https://github.com/hh-hunter/cve-2021-22205)  create time: 2021-11-05T05:35:10Z
 
 **no description** : [maldiohead/TFC-Chrome-v8-bug-CVE-2021-38001-poc](https://github.com/maldiohead/TFC-Chrome-v8-bug-CVE-2021-38001-poc)  create time: 2021-11-05T02:58:15Z
 
