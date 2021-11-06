@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-05 18:27:53.905280  total: 7111 
+ > update time: 2021-11-06 04:30:13.422520  total: 7113 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**JWT Exploit** : [mmeza-developer/CVE-2018-0114](https://github.com/mmeza-developer/CVE-2018-0114)  create time: 2021-11-06T04:16:10Z
+
+**no description** : [mmeza-developer/CVE-2019-5420-RCE](https://github.com/mmeza-developer/CVE-2019-5420-RCE)  create time: 2021-11-06T04:24:43Z
 
 **Pickle Serialization Remote Code Execution - Memcached Poisoning** : [CarlosG13/CVE-2021-33026](https://github.com/CarlosG13/CVE-2021-33026)  create time: 2021-11-05T18:11:54Z
 
