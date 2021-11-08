@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-08 02:35:47.672289  total: 7118 
+ > update time: 2021-11-08 12:36:07.664873  total: 7119 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**HAProxy CVE-2021-40346** : [Vulnmachines/HAProxy_CVE-2021-40346](https://github.com/Vulnmachines/HAProxy_CVE-2021-40346)  create time: 2021-11-08T11:53:45Z
 
 **no description** : [BeneficialCode/CVE-2021-1732](https://github.com/BeneficialCode/CVE-2021-1732)  create time: 2021-09-24T01:28:58Z
 
