@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-09 05:21:17.205668  total: 7127 
+ > update time: 2021-11-09 08:28:27.847023  total: 7128 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A local attacker could bypass the app password using a race condition in Sophos Secure Workspace for Android before version 9.7.3115.** : [ctuIhu/CVE-2021-36808](https://github.com/ctuIhu/CVE-2021-36808)  create time: 2021-11-09T07:48:55Z
 
 **apache flink目录遍历(CVE-2020-17519)** : [thebatmanfuture/apacheflink----POC](https://github.com/thebatmanfuture/apacheflink----POC)  create time: 2021-11-09T04:48:13Z
 
