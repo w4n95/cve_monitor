@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-09 12:36:32.173574  total: 7129 
+ > update time: 2021-11-09 18:27:31.582205  total: 7130 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [faisalfs10x/GitLab-CVE-2021-22205-scanner](https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner)  create time: 2021-11-09T18:19:43Z
 
 **Contains the offensive (exploit and auxiliary) modules for the CVE-2021-40444.** : [Zeop-CyberSec/word_mshtml](https://github.com/Zeop-CyberSec/word_mshtml)  create time: 2021-11-08T17:38:30Z
 
