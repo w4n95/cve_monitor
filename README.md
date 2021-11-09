@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-09 18:27:31.582205  total: 7130 
+ > update time: 2021-11-09 19:19:52.274971  total: 7131 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**VMWARE VCENTER SERVER VIRTUAL SAN HEALTH CHECK PLUG-IN RCE (CVE-2021-21985)** : [sknux/CVE-2021-21985_PoC](https://github.com/sknux/CVE-2021-21985_PoC)  create time: 2021-11-09T19:06:29Z
 
 **no description** : [faisalfs10x/GitLab-CVE-2021-22205-scanner](https://github.com/faisalfs10x/GitLab-CVE-2021-22205-scanner)  create time: 2021-11-09T18:19:43Z
 
