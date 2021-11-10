@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-10 16:35:02.994879  total: 7137 
+ > update time: 2021-11-10 18:24:25.010746  total: 7138 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit.** : [corelight/CVE-2021-42292](https://github.com/corelight/CVE-2021-42292)  create time: 2021-11-09T12:14:45Z
 
 **这是一个测试而已** : [RichardKabuto/CVE-2021-98777](https://github.com/RichardKabuto/CVE-2021-98777)  create time: 2021-11-10T15:51:27Z
 
