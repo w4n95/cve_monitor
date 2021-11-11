@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-11 06:28:20.133511  total: 7141 
+ > update time: 2021-11-11 17:29:17.948661  total: 7142 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**This script was written for the 'Intro PoC Scripting' room on TryHackMe.com** : [SlizBinksman/CVE_2012-2982](https://github.com/SlizBinksman/CVE_2012-2982)  create time: 2021-11-11T17:13:17Z
 
 **1111111111111111111** : [RichardKabuto/CVE-2021-111199](https://github.com/RichardKabuto/CVE-2021-111199)  create time: 2021-11-11T06:24:03Z
 
