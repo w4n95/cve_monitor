@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-11 04:30:29.568977  total: 7139 
+ > update time: 2021-11-11 05:22:11.862737  total: 7140 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**GitLab CE/EE Preauth RCE using ExifTool** : [inspiringz/CVE-2021-22205](https://github.com/inspiringz/CVE-2021-22205)  create time: 2021-11-11T04:34:07Z
 
 **仅为测试** : [RichardKabuto/CVE-2021-65334](https://github.com/RichardKabuto/CVE-2021-65334)  create time: 2021-11-11T03:46:30Z
 
