@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-12 02:36:31.517330  total: 7144 
+ > update time: 2021-11-12 10:26:28.847324  total: 7145 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [sinjeanmin/cvedetails_2019](https://github.com/sinjeanmin/cvedetails_2019)  create time: 2021-11-12T10:08:31Z
 
 **no description** : [DarkSprings/CVE-2021-38666-poc](https://github.com/DarkSprings/CVE-2021-38666-poc)  create time: 2021-11-12T02:21:27Z
 
