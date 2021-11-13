@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-13 13:27:00.709507  total: 7147 
+ > update time: 2021-11-13 19:18:58.661133  total: 7148 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Python script to exploit webmin vulnerability cve-2006-3392** : [gb21oc/ExploitWebmin](https://github.com/gb21oc/ExploitWebmin)  create time: 2021-11-13T18:40:15Z
 
 **A login bypass(CVE-2019-18371) and a command injection vulnerability(CVE-2019-18370) in Xiaomi Router R3G up to versi…** : [AjayMT6/UltramanGaia](https://github.com/AjayMT6/UltramanGaia)  create time: 2021-11-13T12:51:18Z
 
