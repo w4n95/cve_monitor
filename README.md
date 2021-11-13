@@ -1,9 +1,17 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-13 19:18:58.661133  total: 7148 
+ > update time: 2021-11-13 21:20:36.024215  total: 7152 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [redteambrasil/CVE-2019-19550](https://github.com/redteambrasil/CVE-2019-19550)  create time: 2021-11-13T20:32:49Z
+
+**no description** : [redteambrasil/CVE-2020-24030](https://github.com/redteambrasil/CVE-2020-24030)  create time: 2021-11-13T20:42:31Z
+
+**no description** : [redteambrasil/CVE-2020-24029](https://github.com/redteambrasil/CVE-2020-24029)  create time: 2021-11-13T20:39:59Z
+
+**no description** : [redteambrasil/CVE-2020-24028](https://github.com/redteambrasil/CVE-2020-24028)  create time: 2021-11-13T20:37:12Z
 
 **Python script to exploit webmin vulnerability cve-2006-3392** : [gb21oc/ExploitWebmin](https://github.com/gb21oc/ExploitWebmin)  create time: 2021-11-13T18:40:15Z
 
