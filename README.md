@@ -1,9 +1,19 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-14 14:21:27.655027  total: 7158 
+ > update time: 2021-11-14 15:24:22.168063  total: 7163 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Exploit for CVE-2017-17562 vulnerability, that allows RCE on GoAhead (< v3.6.5) if the CGI is enabled and a CGI program is dynamically linked.** : [fssecur3/goahead-rce-exploit](https://github.com/fssecur3/goahead-rce-exploit)  create time: 2021-11-14T14:30:10Z
+
+**no description** : [xMohamed0/CVE-2020-5504-phpMyAdmin](https://github.com/xMohamed0/CVE-2020-5504-phpMyAdmin)  create time: 2021-11-14T14:54:04Z
+
+**no description** : [xMohamed0/CVE-2021-42013-ApacheRCE](https://github.com/xMohamed0/CVE-2021-42013-ApacheRCE)  create time: 2021-11-14T14:58:26Z
+
+**no description** : [xMohamed0/CVE-2021-21315-POC](https://github.com/xMohamed0/CVE-2021-21315-POC)  create time: 2021-11-14T14:52:25Z
+
+**no description** : [xMohamed0/CVE-2021-41773](https://github.com/xMohamed0/CVE-2021-41773)  create time: 2021-11-14T14:50:45Z
 
 **针对 CVE-2020-7699 的复现，软件安全原理课程大作业** : [hemaoqi-Tom/CVE-2020-7699_reproduce](https://github.com/hemaoqi-Tom/CVE-2020-7699_reproduce)  create time: 2021-11-14T14:07:17Z
 
