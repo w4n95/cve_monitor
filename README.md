@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-14 02:36:26.574875  total: 7153 
+ > update time: 2021-11-14 08:26:46.608957  total: 7154 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CSP Playground for CVE-2021-30682** : [threatnix/csp-playground](https://github.com/threatnix/csp-playground)  create time: 2021-10-15T08:10:02Z
 
 **no description** : [kubota/POC-CVE-2021-41773](https://github.com/kubota/POC-CVE-2021-41773)  create time: 2021-11-14T02:02:45Z
 
