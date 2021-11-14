@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-14 09:23:25.637125  total: 7156 
+ > update time: 2021-11-14 14:21:27.655027  total: 7158 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**针对 CVE-2020-7699 的复现，软件安全原理课程大作业** : [hemaoqi-Tom/CVE-2020-7699_reproduce](https://github.com/hemaoqi-Tom/CVE-2020-7699_reproduce)  create time: 2021-11-14T14:07:17Z
+
+**Dummy github repo for CVE-2021-32724 vulnerability exploit testing** : [MaximeSchlegel/AMUM2-CVE-2021-32724-Target](https://github.com/MaximeSchlegel/AMUM2-CVE-2021-32724-Target)  create time: 2021-11-14T14:06:18Z
 
 **CVE-2021-41351-poc** : [JaneMandy/CVE-2021-41351-POC](https://github.com/JaneMandy/CVE-2021-41351-POC)  create time: 2021-11-14T09:14:56Z
 
