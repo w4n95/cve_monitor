@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-14 15:24:22.168063  total: 7163 
+ > update time: 2021-11-15 02:36:14.607134  total: 7164 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Repo demonstrating CVE-2021-43616 / https://github.com/npm/cli/issues/2701** : [icatalina/CVE-2021-43616](https://github.com/icatalina/CVE-2021-43616)  create time: 2021-11-15T01:06:10Z
 
 **Exploit for CVE-2017-17562 vulnerability, that allows RCE on GoAhead (< v3.6.5) if the CGI is enabled and a CGI program is dynamically linked.** : [fssecur3/goahead-rce-exploit](https://github.com/fssecur3/goahead-rce-exploit)  create time: 2021-11-14T14:30:10Z
 
