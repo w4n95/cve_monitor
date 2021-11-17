@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-17 03:25:18.451750  total: 7171 
+ > update time: 2021-11-17 07:23:35.593104  total: 7172 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**PoC for CVE-2020-28032 (It's just a POP chain in WordPress < 5.5.2 for exploiting PHP Object Injection)** : [nth347/CVE-2020-28032_PoC](https://github.com/nth347/CVE-2020-28032_PoC)  create time: 2021-11-17T07:09:47Z
 
 **cve-2020-35314,一个带phpcode的zip文件** : [ybdegit2020/wonderplugin](https://github.com/ybdegit2020/wonderplugin)  create time: 2021-11-17T02:39:06Z
 
