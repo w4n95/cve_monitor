@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-17 07:23:35.593104  total: 7172 
+ > update time: 2021-11-17 09:24:21.032864  total: 7173 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [rabbitsafe/CVE-2021-37580](https://github.com/rabbitsafe/CVE-2021-37580)  create time: 2021-11-17T08:33:25Z
 
 **PoC for CVE-2020-28032 (It's just a POP chain in WordPress < 5.5.2 for exploiting PHP Object Injection)** : [nth347/CVE-2020-28032_PoC](https://github.com/nth347/CVE-2020-28032_PoC)  create time: 2021-11-17T07:09:47Z
 
