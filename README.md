@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-17 21:20:39.549134  total: 7177 
+ > update time: 2021-11-18 09:24:05.956181  total: 7178 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [KAB8345/CVE-2021-26411](https://github.com/KAB8345/CVE-2021-26411)  create time: 2021-11-18T08:26:37Z
 
 **PoC for CVE-2017-17562 written in bash** : [freitzzz/bash-CVE-2017-17562](https://github.com/freitzzz/bash-CVE-2017-17562)  create time: 2021-11-17T18:21:54Z
 
