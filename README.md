@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-19 07:23:38.085989  total: 7182 
+ > update time: 2021-11-19 08:27:58.953185  total: 7183 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [ZororoZ/CVE-2021-37580](https://github.com/ZororoZ/CVE-2021-37580)  create time: 2021-11-19T08:21:44Z
 
 **A vulnerability scanner that detects CVE-2021-37580 vulnerabilities.** : [Osyanina/westone-CVE-2021-37580-scanner](https://github.com/Osyanina/westone-CVE-2021-37580-scanner)  create time: 2021-11-19T06:49:35Z
 
