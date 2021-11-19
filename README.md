@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-18 22:24:10.916851  total: 7180 
+ > update time: 2021-11-19 06:28:06.775746  total: 7181 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-43617 bypass CRF** : [kombat1/CVE-2021-43617](https://github.com/kombat1/CVE-2021-43617)  create time: 2021-11-19T05:39:25Z
 
 **Site Editor WordPress Plugin <= 1.1.1 Local File Inclusion Script** : [jessisec/CVE-2018-7422](https://github.com/jessisec/CVE-2018-7422)  create time: 2021-11-18T21:52:11Z
 
