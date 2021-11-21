@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-21 05:21:49.083476  total: 7189 
+ > update time: 2021-11-21 09:23:41.204905  total: 7190 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053** : [SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053](https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053)  create time: 2021-11-21T08:47:56Z
 
 **no description** : [ypl6/cve-demo-2020-8287](https://github.com/ypl6/cve-demo-2020-8287)  create time: 2021-11-21T05:16:41Z
 
