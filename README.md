@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-21 09:23:41.204905  total: 7190 
+ > update time: 2021-11-21 11:20:41.769607  total: 7192 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Metabase信息泄露批量扫描脚本** : [Seals6/CVE-2021-41277](https://github.com/Seals6/CVE-2021-41277)  create time: 2021-11-21T11:04:44Z
+
+**I try write it with rust-lang** : [Ki11i0n4ir3/CVE-2021-21315](https://github.com/Ki11i0n4ir3/CVE-2021-21315)  create time: 2021-11-10T06:40:17Z
 
 **Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053** : [SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053](https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053)  create time: 2021-11-21T08:47:56Z
 
