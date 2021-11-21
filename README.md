@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-21 11:20:41.769607  total: 7192 
+ > update time: 2021-11-21 12:36:33.495449  total: 7193 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [tahtaciburak/CVE-2021-41277](https://github.com/tahtaciburak/CVE-2021-41277)  create time: 2021-11-21T11:38:08Z
 
 **Metabase信息泄露批量扫描脚本** : [Seals6/CVE-2021-41277](https://github.com/Seals6/CVE-2021-41277)  create time: 2021-11-21T11:04:44Z
 
