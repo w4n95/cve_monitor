@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-22 14:22:27.379223  total: 7198 
+ > update time: 2021-11-22 15:25:06.864418  total: 7200 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A write up on the THM room Vulnerability Capstone & Exploit script for CVE-2018-16763.** : [SlizBinksman/THM-Vulnerability_Capstone-CVE-2018-16763](https://github.com/SlizBinksman/THM-Vulnerability_Capstone-CVE-2018-16763)  create time: 2021-11-22T14:53:42Z
+
+**A demo of exploiting CVE-2021-40531, a vulnerability in Sketch.** : [jonpalmisc/CVE-2021-40531](https://github.com/jonpalmisc/CVE-2021-40531)  create time: 2021-11-19T17:38:34Z
 
 **no description** : [Alexcot25051999/CVE-2021-40444](https://github.com/Alexcot25051999/CVE-2021-40444)  create time: 2021-11-22T13:29:20Z
 
