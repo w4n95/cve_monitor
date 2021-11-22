@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-22 18:27:22.554375  total: 7201 
+ > update time: 2021-11-22 19:19:51.823693  total: 7202 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-22053: Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability** : [Vulnmachines/CVE-2021-22053](https://github.com/Vulnmachines/CVE-2021-22053)  create time: 2021-11-22T18:26:16Z
 
 **simple program for exploit metabase** : [z3n70/CVE-2021-41277](https://github.com/z3n70/CVE-2021-41277)  create time: 2021-11-22T18:06:11Z
 
