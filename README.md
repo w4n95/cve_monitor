@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-22 15:25:06.864418  total: 7200 
+ > update time: 2021-11-22 18:27:22.554375  total: 7201 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**simple program for exploit metabase** : [z3n70/CVE-2021-41277](https://github.com/z3n70/CVE-2021-41277)  create time: 2021-11-22T18:06:11Z
 
 **A write up on the THM room Vulnerability Capstone & Exploit script for CVE-2018-16763.** : [SlizBinksman/THM-Vulnerability_Capstone-CVE-2018-16763](https://github.com/SlizBinksman/THM-Vulnerability_Capstone-CVE-2018-16763)  create time: 2021-11-22T14:53:42Z
 
