@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-25 12:36:53.703547  total: 7222 
+ > update time: 2021-11-25 13:28:35.178261  total: 7223 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**A CVE-2021-22205 Gitlab RCE POC written in Golang** : [pizza-power/Golang-CVE-2021-22205-POC](https://github.com/pizza-power/Golang-CVE-2021-22205-POC)  create time: 2021-11-25T12:47:27Z
 
 **A GitHub Action to find Unicode control characters using the Red Hat diagnostic tool https://access.redhat.com/security/vulnerabilities/RHSB-2021-007 to detect RHSB-2021-007 Trojan source attacks (CVE-2021-42574,CVE-2021-42694)** : [pierDipi/unicode-control-characters-action](https://github.com/pierDipi/unicode-control-characters-action)  create time: 2021-11-25T08:02:31Z
 
