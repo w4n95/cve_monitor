@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-26 08:27:16.704553  total: 7242 
+ > update time: 2021-11-26 10:26:30.880748  total: 7243 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-40865** : [hktalent/CVE-2021-40865](https://github.com/hktalent/CVE-2021-40865)  create time: 2021-11-26T10:09:40Z
 
 **no description** : [Nivaskumark/CVE-2020-0097-frameworks_base](https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base)  create time: 2021-11-26T07:41:02Z
 
