@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-26 04:31:28.032445  total: 7237 
+ > update time: 2021-11-26 05:21:52.524047  total: 7238 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**CVE-2021-41773 Test Page & Exploit Code** : [jhye0n/CVE-2021-41773](https://github.com/jhye0n/CVE-2021-41773)  create time: 2021-11-26T04:54:16Z
 
 **Detect with python and tracking IP** : [vphnguyen/ANM_CVE-2018-7600](https://github.com/vphnguyen/ANM_CVE-2018-7600)  create time: 2021-11-26T03:25:50Z
 
