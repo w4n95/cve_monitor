@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-27 01:07:51.750904  total: 7247 
+ > update time: 2021-11-27 14:22:11.482369  total: 7248 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Strapi Framework, 3.0.0-beta.17.4** : [xda3m00n/CVE-2019](https://github.com/xda3m00n/CVE-2019)  create time: 2021-11-27T13:58:18Z
 
 **Windows MDM LPE** : [ohnonoyesyes/CVE-2021-24084](https://github.com/ohnonoyesyes/CVE-2021-24084)  create time: 2021-11-27T00:37:07Z
 
