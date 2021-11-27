@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-26 22:23:53.089598  total: 7246 
+ > update time: 2021-11-27 01:07:51.750904  total: 7247 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Windows MDM LPE** : [ohnonoyesyes/CVE-2021-24084](https://github.com/ohnonoyesyes/CVE-2021-24084)  create time: 2021-11-27T00:37:07Z
 
 **no description** : [r1l4-i3pur1l4/CVE-2021-21042](https://github.com/r1l4-i3pur1l4/CVE-2021-21042)  create time: 2021-11-26T21:31:18Z
 
