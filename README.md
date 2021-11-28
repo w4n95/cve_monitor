@@ -1,9 +1,13 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-27 14:22:11.482369  total: 7248 
+ > update time: 2021-11-28 02:37:33.148544  total: 7250 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**TP-Link TL-WR840N EU v5 Remote Code Execution** : [ohnonoyesyes/CVE-2021-41653](https://github.com/ohnonoyesyes/CVE-2021-41653)  create time: 2021-11-28T01:15:36Z
+
+**ARM64 PoC for CVE-2021-21224** : [ohnonoyesyes/CVE-2021-21224](https://github.com/ohnonoyesyes/CVE-2021-21224)  create time: 2021-11-28T01:10:54Z
 
 **Strapi Framework, 3.0.0-beta.17.4** : [xda3m00n/CVE-2019](https://github.com/xda3m00n/CVE-2019)  create time: 2021-11-27T13:58:18Z
 
