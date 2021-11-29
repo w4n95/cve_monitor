@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-29 07:23:40.923493  total: 7260 
+ > update time: 2021-11-29 09:24:29.808691  total: 7261 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**攻击WIFI的常用方式** : [fengchenzxc/CVE-2020-28148](https://github.com/fengchenzxc/CVE-2020-28148)  create time: 2021-11-29T08:38:27Z
 
 **no description** : [Nivaskumark/CVE-2020-0074-frameworks_base](https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base)  create time: 2021-11-29T07:13:33Z
 
