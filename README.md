@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-11-29 14:23:06.728998  total: 7262 
+ > update time: 2021-11-29 16:36:16.683884  total: 7263 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**Script in python detecting malious office document** : [YxZi5/Detection-CVE_2021_40444](https://github.com/YxZi5/Detection-CVE_2021_40444)  create time: 2021-11-29T16:32:23Z
 
 **Shell code for CVE-2020-7247-POC** : [SimonSchoeni/SimonSchoeniCVE20207247.github.io](https://github.com/SimonSchoeni/SimonSchoeniCVE20207247.github.io)  create time: 2021-11-29T14:04:07Z
 
