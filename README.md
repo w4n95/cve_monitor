@@ -1,9 +1,11 @@
 # Automatic monitor github cve using Github Actions 
 
- > update time: 2021-12-02 07:23:25.378225  total: 7269 
+ > update time: 2021-12-02 08:28:10.412147  total: 7270 
 
  
  ![star me](https://img.shields.io/badge/star%20me-click%20--%3E-orange) [cve monitor](https://github.com/p1ay8y3ar/cve_monitor)  [Browsing through the web](https://p1ay8y3ar.github.io/cve_monitor/)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cve_monitor) 
+
+**no description** : [dearpan/cve-2018-9995](https://github.com/dearpan/cve-2018-9995)  create time: 2021-12-02T07:52:28Z
 
 **CVE-2021-42325  POC** : [AK-blank/CVE-2021-42325-](https://github.com/AK-blank/CVE-2021-42325-)  create time: 2021-12-02T06:56:02Z
 
